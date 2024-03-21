@@ -1,4 +1,6 @@
-# Audience Targeting : Overview
+# Audience Targeting
+
+## Overview
 
 The AIRA User Guide has been carefully crafted to cater to a diverse audience, ensuring that individuals with varying levels of expertise can harness the full potential of the AIRA platform.
 
