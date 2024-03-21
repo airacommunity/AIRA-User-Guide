@@ -1,4 +1,6 @@
-# Overview
+# AIRA Server Configuration Setup
+
+## Overview
 
 This guide provides detailed information on configuring the database and application server for installing AIRA on the CentOS/RHEL 7.x platform. The recommended stack has been thoroughly tested and is supported by the AIRA quality control team. The installation is intended for use with NGINX as the web server.
 
@@ -465,5 +467,3 @@ Adjusts the SELinux boolean to allow the Apache HTTP Server (`httpd`) to make ne
 setsebool -P httpd_can_network_connect 1
 ```
 
-
-#### Congratulations! You have successfully completed the configuration of the AIRA server. By following this guide. Remember to regularly update and maintain your server to ensure optimal performance and security.
