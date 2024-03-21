@@ -29,10 +29,8 @@ AIRA Hyper Automation is compatible with CentOS 7 x86_64.
 
 ## Related Content
 
-To continue your learning journey, proceed to the next section where we dig deeper into overview of AIRA installation in the local environment, server configuration of AIRA, and AIRA installation.
+To continue your learning journey, proceed to the next section where we dig deeper into overview of AIRA installation Introduction, server configuration of AIRA, and AIRA installation.
 
 - [AIRA Installation Introduction](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20AIRA%20Installation%20Introduction.md)
-
 - [Server Configuration Setup](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20AIRA%20Server%20Configuration%20Setup.md)
-
 - [AIRA Installation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Installation.md)
