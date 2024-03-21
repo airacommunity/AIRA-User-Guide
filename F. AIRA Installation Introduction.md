@@ -12,7 +12,6 @@ To kick off your journey with AIRA, the first step is preparing your server. Div
 
 Once your server is all set, the next exciting step is installing AIRA itself. Click on ["AIRA Installation"](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Installation.md) to explore a detailed walkthrough of the installation process. We've got you covered with all the information you need.
 
-Congratulations on completing these initial steps! With the server ready and AIRA installation on the horizon, you're on track to unlock the full potential of hyper-automation. Let's continue forward and ensure your AIRA journey is a resounding success!
 
 ## Related Content
 
