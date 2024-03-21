@@ -467,3 +467,8 @@ Adjusts the SELinux boolean to allow the Apache HTTP Server (`httpd`) to make ne
 setsebool -P httpd_can_network_connect 1
 ```
 
+## Related Content
+
+To continue your learning journey, proceed to the next section where we dig deeper into the installation of AIRA.
+
+- [AIRA Installation Introdcution](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Installation.md): Dive deeper into the installation process of AIRA to enhance your learning journey.
