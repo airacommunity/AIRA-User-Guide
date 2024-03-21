@@ -19,6 +19,6 @@ The User Guide for AIRA serves as a comprehensive resource designed to assist us
 
 To continue your learning journey, proceed to the next section where we dig deeper into the target audience and basic understanding of AIRA.
 
-- **Audience Targeting:** Delve into the different stakeholders who interact with AIRA and learn how to tailor your approach to meet their specific needs effectively.
+- **[Audience Targeting](https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Audience%20Targeting.md):** Understand the different stakeholders who interact with AIRA and learn how to tailor your approach to meet their specific needs effectively.
 
-- **Understanding of AIRA:** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
+- **[Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
