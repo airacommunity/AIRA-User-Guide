@@ -6,7 +6,7 @@ The AIRA installation guide provides step-by-step instructions for deploying AIR
 
 |     AIRA Version    |             Platform             | Notes |
 |:-------------------:|:--------------------------------:|:-----:|
-| aira_build_08012024 | CentOS/RHEL 7.x | [Stack](https://github.com/airacommunity/AIRA-Documentation/blob/main/AIRA%20Server%20Configuration%20Setup.md) |
+| aira_build_08012024 | CentOS/RHEL 7.x | [Stack](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20AIRA%20Server%20Configuration%20Setup.md) |
 
 Before installing AIRA, check the Installation Requirements to determine whether your server meets the necessary hardware and software requirements. Ensure you have an Internet connection to download any necessary third-party components that your AIRA installation might require.
 
@@ -326,16 +326,11 @@ service nginx restart
     ```
     https://127.0.0.1:8888
     ```
-## Conclusion
-Congratulations! You have successfully completed the installation of AIRA on your CentOS/RHEL 7.x server. By following the provided steps, you've configured the necessary components, set file permissions, and accessed the AIRA installation wizard to finalise the setup.
+## Related Content
 
-As you proceed, it is essential to regularly check for updates, security patches, and any additional configuration requirements for optimal performance and security. Refer to the official AIRA documentation for any post-installation tasks, maintenance guidelines, or troubleshooting tips.
+To continue your learning journey, proceed to the next section where we delve deeper into the following topics:
 
-Feel free to explore the features and capabilities of AIRA through the web interface. If you encounter any issues, consult the provided installation guide or the official support channels for assistance.
-
-Thank you for choosing AIRA. If you have any further questions or need additional support, don't hesitate to refer to the documentation or seek help from the AIRA community.
-
-Happy exploring and utilising AIRA for your enterprise needs!
-
+- [Getting Started](https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md): Learn the initial steps to start using AIRA effectively.
+- [Dashboard](https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md): Explore the functionalities and features of the AIRA dashboard to optimize your workflow.
 
 
