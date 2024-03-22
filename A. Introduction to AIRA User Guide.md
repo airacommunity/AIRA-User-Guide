@@ -17,7 +17,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
   <tbody>
     <tr>
        <td align="center">1.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20AIRA%20User%20Guide_Introduction.md">Introduction to AIRA User Guide</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Introduction to AIRA User Guide</a></td>
       <td align="center">2.</td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Guide%20Objective.md">Guide Objective</a></td>
       <td align="center">3.</td>
@@ -29,15 +29,15 @@ To make things easy for you, the guide is set up in a way that lets you find wha
       <td align="center">5.</td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md">System Requirements</a></td>
       <td align="center">6.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20AIRA%20Installation%20Introduction.md">Introduction to AIRA Installation</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Introduction%20to%20AIRA%20Installation.md">Introduction to AIRA Installation</a></td>
       <td align="center">7.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md">Getting Started with AIRA</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Getting%20Started%20with%20AIRA.md">Getting Started with AIRA</a></td>
       <td align="center">8.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md">AIRA Dashboard Interface</a></td>   
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Dashboard%20Interface.md">AIRA Dashboard Interface</a></td>   
     </tr>
     <tr>
       <td align="center">9.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Workflow%20Creation.md">Workflow Creation Guide</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Workflow%20Creation%20Guide.md">Workflow Creation Guide</a></td>
       <td align="center">10.</td>
       <td align="center"><a href="#Cases">Cases</a></td> 
       <td align="center">11.</td>
