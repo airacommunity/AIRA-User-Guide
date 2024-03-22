@@ -11,10 +11,10 @@ Through the Jobs feature, users can create, manage, and execute automation workf
 
 By defining workflows in Jobs, users can streamline and optimise repetitive tasks, improve operational efficiency, and reduce manual effort. With the flexibility and customization options offered by AIRA Workflow, users can design automation solutions that align with their unique business processes and objectives.
 
-table>
+<table>
   <thead>
     <tr>
-      <th colspan="4">Guide Structure</th>
+      <th colspan="8">Guide Structure</th>
     </tr>
   </thead>
   <tbody>
