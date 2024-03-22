@@ -74,12 +74,135 @@ To make things easy for you, the guide is set up in a way that lets you find wha
 
 In this user guide, you'll get a deep dive into all of AIRA's features, from the basics to the advanced stuff. Each part is designed to be clear, with insights and examples to help you. Whether you're setting up Digital Agents, exploring Predictive Analytics, or trying out Process Mining, this guide has got you covered.
 
-As you start your journey with the AIRA User Guide, we hope you enjoy discovering the wealth of knowledge it has to offer. No matter if you're a beginner or an expert, our aim is to empower you to master AIRA for an even better hyper-automation experience.
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Expactations</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>Understanding of AIRA</td>
+      <td>Gain insights into the core functionalities and capabilities of the AIRA platform.</td>
+    </tr>
+    <tr>
+      <td>System Requirements</td>
+      <td>Learn about the hardware and software prerequisites needed to run AIRA effectively.</td>
+    </tr>
+    <tr>
+      <td>Introduction to AIRA Installation</td>
+      <td>Step-by-step guidance on installing and setting up AIRA for use.</td>
+    </tr>
+    <tr>
+      <td>AIRA Dashboard Interface</td>
+      <td>Familiarize yourself with the user interface of the AIRA dashboard and its key features.</td>
+    </tr>
+    <tr>
+      <td>Workflow Creation Guide</td>
+      <td>Learn how to create and customize workflows within the AIRA platform to automate tasks.</td>
+    </tr>
+    <tr>
+      <td>AIRA Connection with Multiple Platforms</td>
+      <td>Understand how to integrate AIRA with various platforms for seamless data exchange and interaction.</td>
+    </tr>
+    <tr>
+      <td>AIRA Digital Agent</td>
+      <td>Explore the functionality and capabilities of the AIRA digital agent for task automation and management.</td>
+    </tr>
+    <tr>
+      <td>AIRA Intelligent Document Processing</td>
+      <td>Discover how AIRA processes and analyzes documents intelligently to extract valuable insights.</td>
+    </tr>
+    <tr>
+      <td>AIRA Models for Advanced Analytics and Automation</td>
+      <td>Learn about advanced analytics models and automation techniques available in AIRA.</td>
+    </tr>
+    <tr>
+      <td>AIRA Orchestrator</td>
+      <td>Gain insights into the AIRA orchestrator for managing and coordinating automated workflows.</td>
+    </tr>
+    <tr>
+      <td>AIRA Reports</td>
+      <td>Understand how to generate and interpret reports within AIRA to track performance and analyze data.</td>
+    </tr>
+    <tr>
+      <td>AIRA Administration Section</td>
+      <td>Access detailed instructions and tools for administering and managing AIRA settings, users, and permissions.</td>
+    </tr>
+  </tbody>
+</table>
 
+## Guide Objective
+
+**The primary purposes of the User Guide are:**
+
+| Purpose                   | Description                                                                                       |
+|---------------------------|---------------------------------------------------------------------------------------------------|
+| Onboarding Assistance     | Provides step-by-step instructions for new users to navigate and utilize the AIRA platform.       |
+| Functional Understanding | Helps users comprehend the features and capabilities of AIRA, enabling them to use its full potential. |
+| Troubleshooting and Support | Offers solutions to common problems and guidance on resolving technical issues.                   |
+| Best Practices and Tips  | Provides recommendations for optimizing user experience and achieving optimal results with AIRA. |
+| Continuous Learning       | Serves as a resource for ongoing skill development and exploration of advanced features.          |
+
+## Audience Targeting
+
+The following describe the primary target audience along with specific objectives according to their unique needs.
+
+**New Users**
+
+**Description :** Individuals new to the AIRA platform, start on their journey with the system.
+**Objective :** Provide a comprehensive introduction and guide new users through onboarding, including navigating the interface, understanding core features, and basic tasks.
+
+**Experienced Users**
+
+**Description :** Users with prior experience using AIRA but seeking deeper insights into its functionalities.
+**Objective :** Offer detailed information on advanced features, best practices, and tips for optimising workflows to enhance existing skills and discover new functionalities.
+
+**Administrators**
+
+**Description :** Individuals tasked with administering and managing AIRA within an organisation.
+**Objective :** Provide comprehensive guidance on setting up, configuring, and maintaining AIRA, including managing user access, security, and integration with existing systems.
+
+**Developers**
+
+**Description :** Professionals involved in customising and extending AIRA functionalities through scripting and integration.
+**Objective :** Offer technical details, scripting guidelines, and integration protocols for enhancing AIRA to meet specific organisational needs, encouraging customization and innovation.
+
+**Business Analysts**
+
+**Description :** Analysts responsible for understanding and optimising business processes using AIRA.
+**Objective :** Provide insights into AIRA's analytical capabilities, including predictive analysis and process mining, to derive actionable intelligence and optimise workflows.
+
+**System Administrators**
+
+**Description :** IT professionals responsible for the overall health, security, and maintenance of the AIRA platform.
+**Objective :** Offer detailed instructions on platform administration, security protocols, and troubleshooting procedures to effectively manage and support the AIRA infrastructure.
+
+**End Users**
+
+**Description :** Individuals across departments utilising AIRA to streamline day-to-day task
+**Objective :** Provide task-specific guidance within the guide, ensuring efficient performance of roles using AIRA and understanding relevant features for daily activities.
+
+**Trainers and Educators**
+
+**Description :** Individuals responsible for training others within an organisation on using AIRA effectively.
+**Objective :** Facilitate training by serving as a comprehensive resource with instructional content, use cases, and examples to aid in knowledge transfer and skill development.
+
+**Decision Makers**
+
+**Description :** Executives and decision-makers involved in strategic planning and implementation of AIRA within an organisation.
+**Objective :** Gain an overview of strategic benefits, ROI, and impact of AIRA on organisational processes and outcomes, aiding informed decision-making on adoption and utilisation.
+
+**Continuous Learners**
+
+**Description :** Users interested in staying updated with the latest features and improvements in AIRA.
+**Objective :** Serve as a reference for continuous learning, offering insights into new features, updates, and best practices to ensure users stay abreast of evolving capabilities.
+
+----
 ## Related Content
 
-Explore further into guide objectives and audience targeting:
+To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
 
-- **[Guide Objective](https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Guide%20Objective.md):** Understand the purpose and expected outcomes of using AIRA, from streamlining workflows to enhancing productivity.
+- **[Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
 
-- **[Audience Targeting](https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Audience%20Targeting.md) :** Identify the different stakeholders who interact with AIRA, tailoring the approach to meet their specific needs and maximize value.
+- **[System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Learn about the necessary hardware and software specifications required for installing AIRA locally, ensuring a smooth setup process.
