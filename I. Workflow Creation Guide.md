@@ -1,5 +1,6 @@
+![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
+# Workflow Creation Guide  <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
-# Workflow Creation Guide
 
 AIRA Workflow, also referred to as "Jobs," is a systematic sequence of tasks or activities designed to automate specific business processes within the AIRA platform. Each workflow, or job, consists of a series of interconnected steps that define the logic and flow of operations to be executed automatically.
 
@@ -333,3 +334,19 @@ The Run Workflow Button initiates the execution of the workflow. Users can click
   
 
 In summary, mastering AIRA Workflow is key to optimising automation and streamlining business processes. By following the step-by-step guide, users can efficiently create tailored jobs to meet their needs. With a wide range of tools and functionalities, AIRA empowers users to enhance efficiency, reduce manual effort, and drive business success through intelligent automation. Embrace AIRA Workflow today for increased productivity and innovation.
+
+----
+
+<table border="0" align="center">
+  <tr>
+    <td><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20web.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
+    <td><a href="https://www.linkedin.com/company/aira-rpa/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20linkedin.png?raw=true" alt="Image 1" width="30" height="30"></a></td>
+    <td><a href="https://in.pinterest.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20pinterest.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
+    <td><a href="https://www.youtube.com/channel/UCHHCcwQrx-_19sAhu-2R4ww"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20youtube.png?raw=true" alt="Image 3" width="30" height="30"></a></td>
+    <td><a href="https://twitter.com/Aira_RPA"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20twitter.png?raw=true" alt="Image 4" width="30" height="30"></a></td>
+    <td><a href="mailto:connect@aira.fr"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20gmail.png?raw=true" alt="Image 6" width="30" height="30"></a></td>
+  </tr>
+</table>
+
+
+![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
