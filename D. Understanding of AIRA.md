@@ -23,19 +23,19 @@ AIRA, which stands for Artificial Intelligence Robotic Automation, is a state-of
 
 In AIRA, workflows serve as the backbone of automation, orchestrating seamless processes and optimising efficiency. Let's delve into the key aspects that define and elevate the capabilities of AIRA workflows:
 
-### Centralised Process Management:
+**Centralised Process Management:**
 
 AIRA workflows provide a centralised platform for managing and executing processes. Whether you're streamlining routine tasks or arrange complex procedures, workflows offer a unified space to design, implement, and monitor each step.
 
-### Visual Workflow Designer:
+**Visual Workflow Designer:**
 
 The intuitive visual designer empowers users to craft workflows with drag-and-drop simplicity. No coding expertise is required, allowing individuals across various roles to contribute to the automation journey.
 
-### Integration Capabilities:
+**Integration Capabilities:**
 
 Workflows seamlessly integrate with various apps and connections, strengthening a connected ecosystem. Whether it's pulling data from external sources or triggering actions in other applications, AIRA workflows create a symmetric automation experience.
 
-### Collaboration and Accessibility:
+**Collaboration and Accessibility:**
 
 Workflows support collaboration by providing a shared space for multiple users to contribute. Additionally, the accessibility of workflows ensures that automation is not limited to a specific role, fostering a culture of collaborative automation.
 
