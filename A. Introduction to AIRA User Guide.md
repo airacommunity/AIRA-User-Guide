@@ -1,4 +1,5 @@
-# Introduction to AIRA User Guide
+![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
+# Introduction to AIRA User Guide <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ## Overview
 
@@ -189,6 +190,7 @@ The following describe the primary target audience along with specific objective
 **Objective :** Serve as a reference for continuous learning, offering insights into new features, updates, and best practices to ensure users stay abreast of evolving capabilities.
 
 ----
+
 ## Related Content
 
 To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
@@ -196,3 +198,10 @@ To continue your learning journey, proceed to the next section where we dig deep
 - **[Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
 
 - **[System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Learn about the necessary hardware and software specifications required for installing AIRA locally, ensuring a smooth setup process.
+----
+
+
+
+
+![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
+
