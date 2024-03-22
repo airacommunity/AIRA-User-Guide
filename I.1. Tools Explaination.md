@@ -627,6 +627,10 @@ In conclusion, the diverse array of AIRA tools within the Tools Section empowers
 
 ----
 
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+----
+
 <table border="0" align="center">
   <tr>
     <td><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20web.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
