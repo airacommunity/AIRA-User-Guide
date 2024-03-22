@@ -33,7 +33,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
       <td align="center">7.</td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md">Getting Started with AIRA</a></td>
       <td align="center">8.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md">Dashboard Overview</a></td>   
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md">AIRA Dashboard Interface</a></td>   
     </tr>
     <tr>
       <td align="center">9.</td>
