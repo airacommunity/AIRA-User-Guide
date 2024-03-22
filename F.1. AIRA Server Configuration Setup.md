@@ -9,24 +9,24 @@ This guide provides detailed information on configuring the database and applica
 
 <table>
   <tr>
-    <td>Platform</td>
-    <td>CentOS/RHEL 7.x </td>
+    <td width="300">Platform</td>
+    <td width="600">CentOS/RHEL 7.x </td>
   </tr>
   <tr>
-    <td>Database</td>
-    <td>MySQL 8.0</td>
+    <td width="300">Database</td>
+    <td width="600">MySQL 8.0</td>
   </tr>
   <tr>
-    <td>Web Server</td>
-    <td>NGINX 1.x.x (Latest version)</td>
+    <td width="300">Web Server</td>
+    <td width="600">NGINX 1.x.x (Latest version)</td>
   </tr>
   <tr>
-    <td>Filesystem</td>
-    <td>xfs</td>
+    <td width="300">Filesystem</td>
+    <td width="600">xfs</td>
   </tr>
   <tr>
-    <td>Architecture</td>
-    <td>64-bit</td>
+    <td width="300">Architecture</td>
+    <td width="600">64-bit</td>
   </tr>
 </table>
 
