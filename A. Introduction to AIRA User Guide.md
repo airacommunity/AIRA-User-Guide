@@ -76,7 +76,7 @@ In this user guide, you'll get a deep dive into all of AIRA's features, from the
 
 As you start your journey with the AIRA User Guide, we hope you enjoy discovering the wealth of knowledge it has to offer. No matter if you're a beginner or an expert, our aim is to empower you to master AIRA for an even better hyper-automation experience.
 
-### Related Content
+## Related Content
 
 Explore further into guide objectives and audience targeting:
 
