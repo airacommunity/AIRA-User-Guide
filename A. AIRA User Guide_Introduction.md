@@ -17,7 +17,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20AIRA%20User%20Guide_Introduction.md">(AIRA User Guide: Introduction)</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20AIRA%20User%20Guide_Introduction.md">AIRA User Guide: Introduction</a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Guide%20Objective.md">Guide Objective</a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Audience%20Targeting.md">Audience Targeting</a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md">Understanding of AIRA</a></td>
