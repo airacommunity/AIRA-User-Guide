@@ -1,4 +1,4 @@
-# Dashboard Overview
+# AIRA Dashboard Interface
 
 Welcome to the nerve centre of your automation operations – the AIRA Dashboard. This section provides an in-depth exploration of the key elements and functionalities within the Dashboard interface, empowering users with comprehensive insights and control over their automation initiatives.
 
