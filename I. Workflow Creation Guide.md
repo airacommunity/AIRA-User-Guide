@@ -1,5 +1,5 @@
 
-# Understanding AIRA Workflow
+# Workflow Creation Guide
 
 AIRA Workflow, also referred to as "Jobs," is a systematic sequence of tasks or activities designed to automate specific business processes within the AIRA platform. Each workflow, or job, consists of a series of interconnected steps that define the logic and flow of operations to be executed automatically.
 
