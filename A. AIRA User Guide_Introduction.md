@@ -9,53 +9,47 @@ Welcome to the AIRA User Guide, your go-to source for understanding and making t
 
 To make things easy for you, the guide is set up in a way that lets you find what you're looking for without any confusion. You can move around sections, and follow instructions with clarity, so you get the information you need quickly.
 
-| SR.No | Guide Structure                     |
-|-------|------------------------------------|
-| 01.   | [AIRA User Guide: Introduction](https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20AIRA%20User%20Guide_Introduction.md)   |
-| 02.   | [Guide Objective](https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Guide%20Objective.md)                 |
-| 03.   | [Audience Targeting](https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Audience%20Targeting.md)                 |
-| 04.   | [Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md)              |
-| 05.   | [System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md)                |
-| 06.   | [Overview: AIRA Installation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Overview_AIRA%20Installation.md)        |
-|       |   - [Server Configuration Setup](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20AIRA%20Server%20Configuration%20Setup.md)    |
-|       |   - [AIRA Installation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Installation.md)             |
-| 07.   | [Getting Started](https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md)                    |
-| 08.   | [Dashboard](https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md)                          |
-| 09.   | [Jobs Creation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Jobs%20Creation.md)                      |
-|       |   - [AIRA Tools](https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.1.%20Tools.md)                     |
-|       |       - [Variable](https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.2.%20Variables.md)                  |
-|       |       - Apps                      |
-|       |           - API                   |
-|       |           - Elastic Search        |
-|       |           - Emails                |
-|       |           - Forms                 |
-|       |           - Google Calendar       |
-|       |           - Google Drive          |
-|       |           - Google Mail           |
-|       |           - Google Sheets         |
-|       |           - IDP                   |
-|       |           - MailChimp             |
-|       |           - Models                |
-|       |           - MySQL                 |
-|       |           - Notification          |
-|       |           - Output Document       |
-|       |           - SAP                   |
-|       |           - SFTP                  |
-|       |           - SMTP                  |
-|       |               - Form Functions    |
-|       |   - Trigger                        |
-|       |               - Trigger Functions |
-| 10.   | Cases                              |
-| 11.   | Connections                        |
-| 12.   | Digital Agents                     |
-| 13.   | Intelligent Document Processing    |
-| 14.   | AIRA Models                        |
-| 15.   | Orchestrator                       |
-| 16.   | Report                             |
-| 17.   | Administration                     |
-|       |   - Azure Configuration            |
-|       |   - Google Integration             |
-|       |   - MailChimp Integration          |
+<table>
+  <thead>
+    <tr>
+      <th colspan="5">Guide Structure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20AIRA%20User%20Guide_Introduction.md">(AIRA User Guide: Introduction)</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Guide%20Objective.md">Guide Objective</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Audience%20Targeting.md">Audience Targeting</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md">Understanding of AIRA</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md">System Requirements</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20AIRA%20Installation%20Introduction.md">Overview: AIRA Installation</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md">Getting Started</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md">Dashboard</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Workflow%20Creation.md">Jobs Creation</a></td>
+      <td align="center"><a href="#Cases">Cases</a></td>    
+    </tr>
+    <tr>
+      <td align="center"><a href="#connections">Connections</a></td>
+      <td align="center"><a href="#digital_agents">Digital Agents</a></td>
+      <td align="center"><a href="#intelligent_document_processing">Intelligent Document Processing</a></td>
+      <td align="center"><a href="#aira_models">AIRA Models</a></td>
+      <td align="center"><a href="#orchestrator">Orchestrator</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="#report">Report</a></td>
+      <td align="center"><a href="#administration">Administration</a></td>
+      <td align="center"><a href="#report"></a></td>
+      <td align="center"><a href="#administration"></a></td>
+      <td align="center"><a href="#administration"></a></td>
+    </tr>
+  
+  </tbody>
+</table>
+
+</body>
+</html>
 
 
 ## What to Expect ?
