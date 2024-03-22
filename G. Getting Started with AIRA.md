@@ -1,5 +1,5 @@
 
-# Getting Started
+# Getting Started with AIRA
 
 Welcome to the starting point of your AIRA journey! In this section, we'll guide you through the essential steps to log in and explore the user interface. Whether you're a newcomer or returning user, understanding these fundamentals is key to unlocking the full potential of AIRA.
 
