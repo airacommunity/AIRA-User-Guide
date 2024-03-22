@@ -4,6 +4,23 @@
 
 Getting started with AIRA server configuration this section will dive into the specifics of that step by reading the "Server Configuration Setup" resource that presents a detailed guide on how to do it. The next exciting step will be the "AIRA Installation" visit the respected section for a complete procedural guide on how to install it.
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">Guide Structure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td align="center">1.</td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20AIRA%20Server%20Configuration%20Setup.md">AIRA Server Configuration Setup</a></td>
+      <td align="center">2.</td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.2.%20AIRA%20Installation%20Guide.md">AIRA Installation Guide</a></td>
+    </tr>
+
+  </tbody>
+</table>
+
 ## Setting Up the Server for AIRA Installation
 
 To kick off your journey with AIRA, the first step is preparing your server. Dive into the details of the setup by clicking on ["AIRA Server Configuration Setup"](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20AIRA%20Server%20Configuration%20Setup.md) to get a comprehensive guide on the server setup process.
