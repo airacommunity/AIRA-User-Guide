@@ -17,7 +17,7 @@ The User Guide for AIRA serves as a comprehensive resource designed to assist us
 | Best Practices and Tips  | Provides recommendations for optimizing user experience and achieving optimal results with AIRA. |
 | Continuous Learning       | Serves as a resource for ongoing skill development and exploration of advanced features.          |
 
-### Related Content
+## Related Content
 
 To continue your learning journey, proceed to the next section where we dig deeper into the target audience and basic understanding of AIRA.
 
