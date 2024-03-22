@@ -1,4 +1,4 @@
-# AIRA Variables: Streamlining Data Management
+# AIRA Explaination
 
 In AIRA, the Variables feature plays a pivotal role in facilitating efficient data management within your workflows. Variables act as containers for storing and manipulating essential information, enabling users to keep their data organised and adaptable to diverse workflows. Whether you're collecting data through forms or creating custom variables created to your specific needs, AIRA's Variable Section empowers you with enhanced control over your data processing.
 
