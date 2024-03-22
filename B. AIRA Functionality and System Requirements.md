@@ -35,15 +35,15 @@ In AIRA, workflows serve as the backbone of automation, orchestrating seamless p
 
 AIRA Hyper-automation platform is available as an On-premise Hyper-automation suite deployable for enterprises. It currently runs on Linux-based OS Servers. The System Requirements are as follows: 
 
-## Server Type
+### Server Type
 
 AIRA Hyper Automation is designed to run on Linuxbased OS servers.
 
-## Operating System Version
+### Operating System Version
 
 AIRA Hyper Automation is compatible with CentOS 7 x86_64.
 
-## Hardware Requirements
+### Hardware Requirements
 
 | Category             | Specification                                      |
 |----------------------|----------------------------------------------------|
