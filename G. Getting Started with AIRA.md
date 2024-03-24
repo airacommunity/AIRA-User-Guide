@@ -50,7 +50,7 @@ The interface has 10 sections on the left, each serving a specific purpose for h
 -   **Administration:** Configure and administer AIRA settings to align the platform with your enterprise requirements. To learn more about the Administration and explore further insights, visit the [Administration](https://docs.google.com/document/d/1iyUnmwReMSTN0byJDAMmDqW4FsE1PXFCZNUupduc_NU/edit?usp=sharing) section.
     
 
-### Top Right Options
+## Top Right Options
 
 When you first access AIRA's user interface, your attention is drawn to the top right corner, where four significant options await your exploration.
 
