@@ -1,61 +1,41 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 # Variable Explaination  <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
+## Overview
+A variable is a named storage location in a workflow that holds a value. This value can be changed and manipulated throughout the worklfow execution. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. In workflow automation, variables typically have a data type, which determines the kind of data they can store (such as integers, floating-point numbers, strings, etc.). Variables must often be declared before they can be used, specifying both their name and data type. Whether user collecting data through forms or creating custom variables to specific needs, AIRA's Variable Section empowers with enhanced control over your data processing.
 
-In AIRA, the Variables feature plays a pivotal role in facilitating efficient data management within your workflows. Variables act as containers for storing and manipulating essential information, enabling users to keep their data organised and adaptable to diverse workflows. Whether you're collecting data through forms or creating custom variables created to your specific needs, AIRA's Variable Section empowers you with enhanced control over your data processing.
-
-## Global Variables
+### Global Variables:
 
 ![](https://lh7-us.googleusercontent.com/-dgoO69n8q2NnFry8gCYoGxZi2L6MAxzUdsVSSy0JDNHuSX6-Pb-VQ0e4_DoXOHjS9HF1WHW_1J63r2Uyem1iacyp1usvjTvjdFox9KLTSFVNqEvxugEEtsfOAZlCIjmga871zHuN3cy7h8LBpghMLY)
 
-When you create a form in AIRA, each component of the form automatically translates into a global variable. This seamless integration ensures that the data collected through forms is readily accessible across your entire workflow without any additional configuration. Thus, users can leverage collected data effortlessly, streamlining data handling processes and enhancing overall efficiency.
+In AIRA, global variables are automatically generated when creating forms within the platform. Each fields of the form corresponds to a global variable, facilitating seamless integration of collected data across the entire workflow. This integration enabling users to effortlessly access collected data and streamline data handling processes. Global variables enhance overall efficiency by ensuring that data collected through forms is readily available for use throughout the workflow.
 
-## Tailored Variable Creation:
+### Custom Variable:
 
-AIRA's Variable Section offers users the flexibility to create custom variables tailored to their unique requirements. Users can specify the type of variable needed, such as text, numbers, dates, and more, along with providing a descriptive name and purpose for the variable. This customization capability empowers users to align their data setup precisely with their workflow, fostering optimal efficiency and productivity.
+In AIRA, custom variables are user-defined variables created within the Variable Section to suit specific requirements. Users have the flexibility to specify the type of variable needed, including text, numbers, dates, and more, along with providing a descriptive name and purpose. This customization capability empowers users to precisely align their data setup with their workflow, promote optimal efficiency and productivity by using variables to meet their unique needs.
 
-### Enhanced Workflow Control:
-
-By strategically utilising variables within their workflows, users gain greater control over data movement and manipulation. Variables enable seamless storage, retrieval, and modification of information as needed, empowering users to make their processes smarter and more adaptable. With AIRA's Variable Section, users can optimise their workflows by efficiently managing data flow and responding dynamically to changing requirements.
-
-### How to Create a New Variable in AIRA:
+#### How to Create a New Variable in AIRA:
 
 ![](https://lh7-us.googleusercontent.com/tJDFDFUPsUpjdvMM022K0cOSM9h-j6yKquoGpQzXtqRvJRtJDmX8PHkG6CjOvHXEnNnOrLwuh0tm78HhN5ykAJIvKsc6tnUnqYxjpMj6l0GSlUkIABD4iTFjMVEQRVMCqsdpdMrVJg8wP7hsOIS8myA)
 
-1. Navigate to the Module Section: Launch AIRA and access the Module Section where you manage your workflows and data.
+- In the job section > workflow designer access the module list.
+- Locate the "Variable" option within the module list and click on it to access the Variables interface.
+- Within the Variable Section, find the option to add a new variable and click on it to initiate the variable creation process.
+- A new window will appear, prompting you to enter information for the new variable:
+  - Variable Type: Select the appropriate variable type from the options available in AIRA (e.g., string, integer, float, boolean, datetime, grid, array, file, multiple files, object).
+  - Name: Provide a descriptive name for the variable to identify it within your workflow.
+  - Description: Optionally, provide a brief description or purpose statement for the variable to clarify its intended use.
+  - Default Value: If applicable, specify a default value for the variable to be used in cases where no explicit value is assigned.
+- After entering all the required information, click on the "Submit" button to save the newly created variable.
+- If you decide not to proceed with creating the variable, you can click on the "Cancel" button next to the "Submit" button to abort the process and return to the Variable Section without saving changes.
 
-  
+----
 
-2. Click on "Variable" Option: Locate the "Variable" option within the Module Section and click on it to access the Variables interface.
+## Related Content
 
-  
+To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
 
-3. Add a New Variable: Within the Variable Section, find the option to add a new variable and click on it to initiate the variable creation process.
-
-  
-
-4. Enter Variable Information: A new window will appear, prompting you to enter information for the new variable:
-
--   Variable Type: Select the appropriate variable type from the options available in AIRA (e.g., string, integer, float, boolean, datetime, grid, array, file, multiple files, object).
-    
--   Name: Provide a descriptive name for the variable to identify it within your workflow.
-    
--   Description: Optionally, provide a brief description or purpose statement for the variable to clarify its intended use.
-    
--   Default Value: If applicable, specify a default value for the variable to be used in cases where no explicit value is assigned.
-    
-
-  
-
-5. Submit the Variable: After entering all the required information, click on the "Submit" button to save the newly created variable and integrate it into your workflow.
-
-  
-
-6. Cancel Option: If you decide not to proceed with creating the variable, you can click on the "Cancel" button next to the "Submit" button to abort the process and return to the Variable Section without saving changes.
-
-  
-
-By following these steps, users can effectively create and manage variables within AIRA, optimising their data workflows for enhanced efficiency and productivity.
+- **[Understanding of AIRA Activity](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** AIRA workflow activities automate tasks and streamline processes, boosting efficiency and productivity across various business operations.
 
 ----
 
