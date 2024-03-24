@@ -26,7 +26,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
        <td align="center">1.</td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Introduction to AIRA User Guide</a></td>
       <td align="center">2.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Functionality%20and%20System%20Requirements.md">AIRA Functionality and System Requirements</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">AIRA Components and System Requirements</a></td>
       <td align="center">3.</td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Introduction%20to%20AIRA%20Installation.md">Introduction to AIRA Installation</a></td>
     </tr>
