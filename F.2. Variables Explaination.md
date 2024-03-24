@@ -6,8 +6,6 @@ A variable is a named storage location in a workflow that holds a value. This va
 
 ### Global Variables:
 
-![](https://lh7-us.googleusercontent.com/-dgoO69n8q2NnFry8gCYoGxZi2L6MAxzUdsVSSy0JDNHuSX6-Pb-VQ0e4_DoXOHjS9HF1WHW_1J63r2Uyem1iacyp1usvjTvjdFox9KLTSFVNqEvxugEEtsfOAZlCIjmga871zHuN3cy7h8LBpghMLY)
-
 In AIRA, global variables are automatically generated when creating forms within the platform. Each fields of the form corresponds to a global variable, facilitating seamless integration of collected data across the entire workflow. This integration enabling users to effortlessly access collected data and streamline data handling processes. Global variables enhance overall efficiency by ensuring that data collected through forms is readily available for use throughout the workflow.
 
 ### Custom Variable:
@@ -15,8 +13,6 @@ In AIRA, global variables are automatically generated when creating forms within
 In AIRA, custom variables are user-defined variables created within the Variable Section to suit specific requirements. Users have the flexibility to specify the type of variable needed, including text, numbers, dates, and more, along with providing a descriptive name and purpose. This customization capability empowers users to precisely align their data setup with their workflow, promote optimal efficiency and productivity by using variables to meet their unique needs.
 
 #### How to Create a New Variable in AIRA:
-
-![](https://lh7-us.googleusercontent.com/tJDFDFUPsUpjdvMM022K0cOSM9h-j6yKquoGpQzXtqRvJRtJDmX8PHkG6CjOvHXEnNnOrLwuh0tm78HhN5ykAJIvKsc6tnUnqYxjpMj6l0GSlUkIABD4iTFjMVEQRVMCqsdpdMrVJg8wP7hsOIS8myA)
 
 - In the job section > workflow designer access the module list.
 - Locate the "Variable" option within the module list and click on it to access the Variables interface.
