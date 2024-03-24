@@ -12,6 +12,12 @@ The AIRA installation guide provides step-by-step instructions for deploying AIR
 
 Before installing AIRA, check the Installation Requirements to determine whether your server meets the necessary hardware and software requirements. Ensure you have an Internet connection to download any necessary third-party components that your AIRA installation might require.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
 ## Step 1 : Download AIRA Enterprise
 Before proceeding with the installation, ensure that your server meets the hardware and software requirements outlined in the installation guide.
 
@@ -341,9 +347,16 @@ To continue your learning journey, proceed to the next section where we delve de
 
 ----
 
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+<table align="right" border="0">
+    <tr>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md?plain=1">PREVIOUS</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Getting%20Started%20with%20AIRA.md">NEXT</a></td>
+    </tr>
+</table>
 
-----
+<br>
+<br>
+<br>
 
 <table border="0" align="center">
   <tr>
