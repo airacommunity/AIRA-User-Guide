@@ -47,17 +47,18 @@ AIRA Hyper-automation platform is available as an On-premise Hyper-automation su
 | **RAM**              | 16GB                                               |
 | **Storage**          | 256GB SSD                                          |
 
-
 ----
 
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
-
-----
 ## Related Content
 
 To continue your learning journey, proceed to the next section where we dig deeper into overview of AIRA installation Introduction.
 
 - [**AIRA Installation Introduction**](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20AIRA%20Installation%20Introduction.md) : A guide to installing and setting up AIRA for seamless automation.
+
+----
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
 ----
 
 <table border="0" align="center">
