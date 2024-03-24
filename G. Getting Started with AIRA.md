@@ -5,7 +5,7 @@
 
 Welcome to the starting point of your AIRA journey! In this section, we'll guide you through the essential steps to log in and explore the user interface. Whether you're a newcomer or returning user, understanding these fundamentals is key to unlocking the full potential of AIRA.
 
-### User Signup & Login
+## User Signup & Login
 
 The AIRA Sign-in options offer users flexibility and convenience in accessing the platform.
 
@@ -23,7 +23,7 @@ The AIRA Sign-in options offer users flexibility and convenience in accessing th
 **Google Sign In - Under development.**
     
 
-### Left Navigation Bar
+## Left Navigation Bar
 
 The interface has 10 sections on the left, each serving a specific purpose for hyper-automation with AIRA.
 
@@ -50,7 +50,7 @@ The interface has 10 sections on the left, each serving a specific purpose for h
 -   **Administration:** Configure and administer AIRA settings to align the platform with your enterprise requirements. To learn more about the Administration and explore further insights, visit the [Administration](https://docs.google.com/document/d/1iyUnmwReMSTN0byJDAMmDqW4FsE1PXFCZNUupduc_NU/edit?usp=sharing) section.
     
 
-#### Top Right Options
+### Top Right Options
 
 When you first access AIRA's user interface, your attention is drawn to the top right corner, where four significant options await your exploration.
 
