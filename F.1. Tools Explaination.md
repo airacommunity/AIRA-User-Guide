@@ -19,7 +19,7 @@ The Tools Section is the powerhouse of capabilities designed to elevate your wor
 > - Decision Making : Under development
 > - Do While : Pending - Take Clearity From Developement Team
 > - Do While End : Under Developement
-> - For Join : Pending - Take Clearity From Developement Team
+> - Fork Join : Pending - Take Clearity From Developement Team
 > - Join : Pending - Take Clearity From Developement Team
 
 ### Set Variable
