@@ -4,6 +4,13 @@
 ## Overview
 A variable is a named storage location in a workflow that holds a value. This value can be changed and manipulated throughout the worklfow execution. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. In workflow automation, variables typically have a data type, which determines the kind of data they can store (such as integers, floating-point numbers, strings, etc.). Variables must often be declared before they can be used, specifying both their name and data type. Whether user collecting data through forms or creating custom variables to specific needs, AIRA's Variable Section empowers with enhanced control over your data processing.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
+
 ### Global Variables:
 
 In AIRA, global variables are automatically generated when creating forms within the platform. Each fields of the form corresponds to a global variable, facilitating seamless integration of collected data across the entire workflow. This integration enabling users to effortlessly access collected data and streamline data handling processes. Global variables enhance overall efficiency by ensuring that data collected through forms is readily available for use throughout the workflow.
