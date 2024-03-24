@@ -53,7 +53,7 @@ The Set Variable tool is a component utilized within workflow design environment
    - **Trigger:** Set triggers on the "Set Variable" tool to initiate actions based on specified conditions or events.
    - **Delete Module:** Permanently delete the "Set Variable" tool from the workflow if it's no longer needed.
 
-### Subworkflow
+### Sub Workflow
 The "Sub Workflow" tool in AIRA Designer allows users to incorporate other workflows within their current workflow, promoting modularity and reusability.
 
 #### How to Use the Sub Workflow Tool:
