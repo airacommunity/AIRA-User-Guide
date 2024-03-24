@@ -6,10 +6,10 @@
 In this section we provides an introductory guide to installing AIRA, a hyper-automation platform. It outlines the process of setting up the server environment required for AIRA installation and then proceeding with the installation steps.
 
 ### Setting Up the Server for AIRA Installation
-Before initiating the AIRA installation process, it is essential to set up the server environment. This involves configuring the server hardware, ensuring compatibility with the required operating system, and allocating necessary resources such as CPU, RAM, and storage. In the below table, we provide the link to the server configuration setup guide. With the help of these guides, you can easily set up the server.
+Before initiating the AIRA installation process, it is essential to set up the server environment. This involves configuring the server hardware, ensuring compatibility with the required operating system, and allocating necessary resources such as CPU, RAM, and storage. In the below section, we provide the link to the server configuration setup guide. With the help of these guides, you can easily set up the server.
 
 ### Installing AIRA - Step by Step
-Once the server setup is complete, the next step is to install AIRA. For the installation of AIRA, we require multiple steps to perform. In the below table, we provide the link to the AIRA installation guide. With the help of these guides, you can easily install AIRA on the local system.
+Once the server setup is complete, the next step is to install AIRA. For the installation of AIRA, we require multiple steps to perform. In the below section, we provide the link to the AIRA installation guide. With the help of these guides, you can easily install AIRA on the local system.
 
 <table>
   <thead>
