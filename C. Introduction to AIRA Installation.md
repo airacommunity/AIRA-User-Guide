@@ -5,6 +5,12 @@
 
 In this section we provides an introductory guide to installing AIRA, a hyper-automation platform. It outlines the process of setting up the server environment required for AIRA installation and then proceeding with the installation steps.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
 ### Setting Up the Server for AIRA Installation
 Before initiating the AIRA installation process, it is essential to set up the server environment. This involves configuring the server hardware, ensuring compatibility with the required operating system, and allocating necessary resources such as CPU, RAM, and storage. In the below section, we provide the link to the server configuration setup guide. With the help of these guides, you can easily set up the server.
 
@@ -38,9 +44,16 @@ To continue your learning journey, proceed to the next section where we dig deep
 
 ----
 
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+<table align="right" border="0">
+    <tr>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">PREVIOUS</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md">NEXT</a></td>
+    </tr>
+</table>
 
-----
+<br>
+<br>
+<br>
 
 <table border="0" align="center">
   <tr>
