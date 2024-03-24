@@ -5,6 +5,13 @@
 
 AIRA Workflow Automation is a system designed to streamline and optimize business processes by automating repetitive tasks, facilitating seamless integration between different applications, and enabling intelligent decision-making within workflows. It employs a combination of tools and features to automate complex processes, improve efficiency, reduce errors, and enhance overall productivity. By automating manual tasks and orchestrating the flow of work, AIRA Workflow Automation empowers organizations to achieve greater consistency, scalability, and agility in their operations.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
+
 ## Creating a New Job in AIRA - Step by Step
 
 - Navigate to the left navigation console and click on the "Jobs" option to open a dedicated window for job-related functionalities.
