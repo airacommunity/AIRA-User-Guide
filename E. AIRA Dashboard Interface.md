@@ -7,6 +7,13 @@ Welcome to the nerve centre of your automation operations – the AIRA Dashboard
 
 In the comprehensive AIRA Dashboard, users encounter a wealth of information organised into distinct sections, each serving a pivotal role in orchestrating their automation landscape. As we navigate through these sections one by one, we unlock the power to smoothly manage, monitor, and optimise automation processes.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
+
 ## Dashboard Components
 
 ### 1. Quick Actions
