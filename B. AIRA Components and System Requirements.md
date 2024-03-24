@@ -54,17 +54,10 @@ AIRA Hyper-automation platform is available as an On-premise Hyper-automation su
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into overview of AIRA installation Introduction.
-
-- [**AIRA Installation Introduction**](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20AIRA%20Installation%20Introduction.md) : A guide to installing and setting up AIRA for seamless automation.
-
-----
 
 <table align="right" border="0">
     <tr>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md?plain=1">PREVIOUS</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">PREVIOUS</a></td>
         <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md">NEXT</a></td>
     </tr>
 </table>
