@@ -7,13 +7,9 @@ Welcome to the nerve centre of your automation operations – the AIRA Dashboard
 
 In the comprehensive AIRA Dashboard, users encounter a wealth of information organised into distinct sections, each serving a pivotal role in orchestrating their automation landscape. As we navigate through these sections one by one, we unlock the power to smoothly manage, monitor, and optimise automation processes.
 
-![](https://lh7-us.googleusercontent.com/4GoQpgFCrZheiKIJoxio5VHW7Tgjxut55iIKJswmE2DEDl9LWpdEXhdAXE8LmSd9Ej56uZvdYbJSdODhCTGSlQdSKUA8rmyFyS6relqI19eD82n5SrsQJ1vXwqG6d5y2wkdulElMlSkay-42aaml3e4)
-
 ## Dashboard Components
 
 ### 1. Quick Actions
-
-![](https://lh7-us.googleusercontent.com/mxGXMDa12br-x0mri6OWMUVkcHo6y0OT1CN58h76mWqoo2zRzMxhrXrWkX8p1fNAapH8L0MUcZ62_fXtSN6DK3kRpRnE0pHq7p-_dsR6DhsjpxuIBkIY4yxA5hQRecrr1UJ7eKaw5CrrGO-xILtDo10)
 
 **Overview:** The Quick Actions section acts as a centralised hub for streamlined access to fundamental AIRA features.
 
@@ -29,16 +25,12 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 ### 2. Transaction
 
-![](https://lh7-us.googleusercontent.com/LlMOrpHRQwg9agixGBAvxxUxG6BBsDVWlCawbKXgfEdb0JcZu4rH21PGAyCbPTcxtFoU3FzWuGj8r-9S9nM3jZA3oE_nuUvMFx0pFd4WONDoj9RWbr5hHao6TPDeGiVrPCFJuXv52R5gDsRq-O0_P6s)
-
 **Overview**: The Transaction Overview furnishes a dynamic line chart, offering a visual representation of total workflow transactions over a specified period.
 
 **Feature:** : Users can select a start date and end date to view workflow transaction within a specific date range.
 
 
 ### 3. Transaction Status Buttons
-
-![](https://lh7-us.googleusercontent.com/ahbCxAcMng9iCHKMjqP0EX6DUusRpk8GDfDhby94CbG6UB6Mm0KS7wtUaK-lII9SdkYNDrFP3KYcNvtPd6xbz53wZqdvny69SjmTq00jdEOlyEvac6P-FcXjBlpnHKr51if9F0Bk-O6CusRgIFU5Gvw)
 
 **Overview:**  The six status buttons located below the transaction chart classify transactions according to their status.
 
@@ -54,8 +46,6 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 **Functionality:** These buttons enable users to filter the displayed job list, providing a focused view of workflow transactions in different states.
 
 ### 4. Job List Table
-
-![](https://lh7-us.googleusercontent.com/sG6hWFjWVqjgJonhL9g0UCaRcOK8Fgyq01i2ztfjIZ6PiblDsSshj8xkC_CsqzIx5iAQ2Q-KixDAGywth4uwTozi3nbw7PdeKUMnBKeFJUrZb7eoGMYwUH-VCtbYwFEcDhn8Z9qxG-ZywJOcAU7oFrg)
 
 **Overview:** The Job List Table offers a detailed summary of workflows, presenting critical information at a glance.
 
