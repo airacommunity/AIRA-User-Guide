@@ -1,9 +1,11 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 # Getting Started with AIRA <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
+## Overview
+
 Welcome to the starting point of your AIRA journey! In this section, we'll guide you through the essential steps to log in and explore the user interface. Whether you're a newcomer or returning user, understanding these fundamentals is key to unlocking the full potential of AIRA.
 
-## User Signup & Login
+### User Signup & Login
 
 The AIRA Sign-in options offer users flexibility and convenience in accessing the platform.
 
@@ -21,7 +23,7 @@ The AIRA Sign-in options offer users flexibility and convenience in accessing th
 **Google Sign In - Under development.**
     
 
-## Left Navigation Bar
+### Left Navigation Bar
 
 The interface has 10 sections on the left, each serving a specific purpose for hyper-automation with AIRA.
 
@@ -48,7 +50,7 @@ The interface has 10 sections on the left, each serving a specific purpose for h
 -   **Administration:** Configure and administer AIRA settings to align the platform with your enterprise requirements. To learn more about the Administration and explore further insights, visit the [Administration](https://docs.google.com/document/d/1iyUnmwReMSTN0byJDAMmDqW4FsE1PXFCZNUupduc_NU/edit?usp=sharing) section.
     
 
-### Top Right Options
+#### Top Right Options
 
 When you first access AIRA's user interface, your attention is drawn to the top right corner, where four significant options await your exploration.
 
@@ -96,7 +98,7 @@ To continue your learning journey, proceed to the next section where we dig deep
 
 - **[Dashboard](https://docs.google.com/document/d/1C_womCQeEq9z-2owsdru9jQadOf8T0Am3giQdrc4UBM/edit?usp=drive_link)** : Access all AIRA functionalities and insights through the intuitive dashboard interface.
     
-- **[Job Creation](https://docs.google.com/document/d/1TDjdIR0_1kyKsvbCdnYDIkbvIbkmHRl0twNVKhVu1rM/edit?usp=drive_link)** : Effortlessly design and deploy automated workflows with AIRA's intuitive workflow creation tools.
+- **[Workflow Creation](https://docs.google.com/document/d/1TDjdIR0_1kyKsvbCdnYDIkbvIbkmHRl0twNVKhVu1rM/edit?usp=drive_link)** : Effortlessly design and deploy automated workflows with AIRA's intuitive workflow creation designer.
 
 ----
 
