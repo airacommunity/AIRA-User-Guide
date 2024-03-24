@@ -331,10 +331,6 @@ service nginx restart
 
 ----
 
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
-
-----
-
 ## Related Content
 
 To continue your learning journey, proceed to the next section where we delve deeper into the following topics:
@@ -342,6 +338,10 @@ To continue your learning journey, proceed to the next section where we delve de
 - [Getting Started](https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md): Learn the initial steps to start using AIRA effectively.
 - [Dashboard](https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md): Explore the functionalities and features of the AIRA dashboard to optimize your workflow.
 
+
+----
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
 
 ----
 
