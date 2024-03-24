@@ -14,9 +14,9 @@ AIRA Automation follows a 3-step process: strategize, streamline, and transform.
 | Transform  | Lastly, we initiate the transformation phase. Here, we implement the strategies and streamline processes to bring about significant improvements. Through automation, AIRA enables businesses to achieve enhanced productivity, reduced manual intervention, and improved outcomes.  |
 
 
-## Core Functionalities
+## Core Components
 
-In AIRA, workflows serve as the backbone of automation, orchestrating seamless processes and optimising efficiency. Let's delve into the key functionality that define and elevate the capabilities of AIRA workflows:
+In AIRA, workflows serve as the backbone of automation, orchestrating seamless processes and optimising efficiency. Let's dive into the key Components that define and elevate the capabilities of AIRA workflows:
 
 
 | Feature                   | Description                                                                                                                     |
