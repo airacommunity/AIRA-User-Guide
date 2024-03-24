@@ -28,15 +28,15 @@ To make things easy for you, the guide is set up in a way that lets you find wha
       <td align="center">2.</td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">AIRA Components and System Requirements</a></td>
       <td align="center">3.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Introduction%20to%20AIRA%20Installation.md">Introduction to AIRA Installation</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md">Introduction to AIRA Installation</a></td>
     </tr>
     <tr>
       <td align="center">4.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Getting%20Started%20with%20AIRA.md">Getting Started with AIRA</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Getting%20Started%20with%20AIRA.md">Getting Started with AIRA</a></td>
       <td align="center">5.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Dashboard%20Interface.md">AIRA Dashboard Interface</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20AIRA%20Dashboard%20Interface.md">AIRA Dashboard Interface</a></td>
       <td align="center">6.</td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Workflow%20Creation%20Guide.md">Workflow Creation Guide</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Workflow%20Creation%20Guide.md">Workflow Creation Guide</a></td>
     </tr>
     <tr>
       <td align="center">7.</td>
@@ -197,15 +197,6 @@ The following describe the primary target audience along with specific objective
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
-
-- **[Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
-
-- **[System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Learn about the necessary hardware and software specifications required for installing AIRA locally, ensuring a smooth setup process.
-
-----
 
 <table align="right" border="0">
     <tr>
