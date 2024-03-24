@@ -141,52 +141,52 @@ The following describe the primary target audience along with specific objective
 
 **New Users**
 
-**Description :** Individuals new to the AIRA platform, start on their journey with the system.
+**Description :** Individuals new to the AIRA platform, start on their journey with the system.<br>
 **Objective :** Provide a comprehensive introduction and guide new users through onboarding, including navigating the interface, understanding core features, and basic tasks.
 
 **Experienced Users**
 
-**Description :** Users with prior experience using AIRA but seeking deeper insights into its functionalities.
+**Description :** Users with prior experience using AIRA but seeking deeper insights into its functionalities.<br>
 **Objective :** Offer detailed information on advanced features, best practices, and tips for optimising workflows to enhance existing skills and discover new functionalities.
 
 **Administrators**
 
-**Description :** Individuals tasked with administering and managing AIRA within an organisation.
+**Description :** Individuals tasked with administering and managing AIRA within an organisation.<br>
 **Objective :** Provide comprehensive guidance on setting up, configuring, and maintaining AIRA, including managing user access, security, and integration with existing systems.
 
 **Developers**
 
-**Description :** Professionals involved in customising and extending AIRA functionalities through scripting and integration.
+**Description :** Professionals involved in customising and extending AIRA functionalities through scripting and integration.<br>
 **Objective :** Offer technical details, scripting guidelines, and integration protocols for enhancing AIRA to meet specific organisational needs, encouraging customization and innovation.
 
 **Business Analysts**
 
-**Description :** Analysts responsible for understanding and optimising business processes using AIRA.
+**Description :** Analysts responsible for understanding and optimising business processes using AIRA.<br>
 **Objective :** Provide insights into AIRA's analytical capabilities, including predictive analysis and process mining, to derive actionable intelligence and optimise workflows.
 
 **System Administrators**
 
-**Description :** IT professionals responsible for the overall health, security, and maintenance of the AIRA platform.
+**Description :** IT professionals responsible for the overall health, security, and maintenance of the AIRA platform.<br>
 **Objective :** Offer detailed instructions on platform administration, security protocols, and troubleshooting procedures to effectively manage and support the AIRA infrastructure.
 
 **End Users**
 
-**Description :** Individuals across departments utilising AIRA to streamline day-to-day task
+**Description :** Individuals across departments utilising AIRA to streamline day-to-day task<br>
 **Objective :** Provide task-specific guidance within the guide, ensuring efficient performance of roles using AIRA and understanding relevant features for daily activities.
 
 **Trainers and Educators**
 
-**Description :** Individuals responsible for training others within an organisation on using AIRA effectively.
+**Description :** Individuals responsible for training others within an organisation on using AIRA effectively.<br>
 **Objective :** Facilitate training by serving as a comprehensive resource with instructional content, use cases, and examples to aid in knowledge transfer and skill development.
 
 **Decision Makers**
 
-**Description :** Executives and decision-makers involved in strategic planning and implementation of AIRA within an organisation.
+**Description :** Executives and decision-makers involved in strategic planning and implementation of AIRA within an organisation.<br>
 **Objective :** Gain an overview of strategic benefits, ROI, and impact of AIRA on organisational processes and outcomes, aiding informed decision-making on adoption and utilisation.
 
 **Continuous Learners**
 
-**Description :** Users interested in staying updated with the latest features and improvements in AIRA.
+**Description :** Users interested in staying updated with the latest features and improvements in AIRA.<br>
 **Objective :** Serve as a reference for continuous learning, offering insights into new features, updates, and best practices to ensure users stay abreast of evolving capabilities.
 
 ----
