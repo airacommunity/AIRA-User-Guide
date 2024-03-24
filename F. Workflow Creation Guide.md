@@ -39,6 +39,28 @@ At the top of the Module section, a search bar allows users to quickly find spec
 
 The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Decision Making for conditional logic, Do While for repetitive tasks, Fork Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the [Tools section](https://docs.google.com/document/d/16UNFODdA63rArMu0RTKfn6LnERtW1gPe1tdVmAFK4g0/edit?usp=sharing).
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">AIRA Workflow Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width=300><a href="">Do While</a></td>
+      <td align="center" width=300><a href="">Fork join</a></td>
+      <td align="center" width=300><a href="">Join</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#set-variable">Set Variable</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#sub-workflow">Sub Workflow</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#switch">Switch</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#terminate">Terminate</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#wait">Wait</a></td>
+    </tr>
+    </tbody>
+</table>
+
 #### Variable
 
 A variable is a named storage location in a workflow that holds a value. This value can be changed and manipulated throughout the worklfow execution. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. To learn more about the Variable and explore further insights, visit the [Variable section](https://docs.google.com/document/d/1C-Sf6Fub6Wh5KAHpJgryJiK0X3GmHqRPKLfwpzSm_Jc/edit?usp=sharing)
