@@ -1,16 +1,17 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 # AIRA Dashboard Interface  <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
+## Overview
 
 Welcome to the nerve centre of your automation operations – the AIRA Dashboard. This section provides an in-depth exploration of the key elements and functionalities within the Dashboard interface, empowering users with comprehensive insights and control over their automation initiatives.
 
-![](https://lh7-us.googleusercontent.com/4GoQpgFCrZheiKIJoxio5VHW7Tgjxut55iIKJswmE2DEDl9LWpdEXhdAXE8LmSd9Ej56uZvdYbJSdODhCTGSlQdSKUA8rmyFyS6relqI19eD82n5SrsQJ1vXwqG6d5y2wkdulElMlSkay-42aaml3e4)
-
-  
-
 In the comprehensive AIRA Dashboard, users encounter a wealth of information organised into distinct sections, each serving a pivotal role in orchestrating their automation landscape. As we navigate through these sections one by one, we unlock the power to smoothly manage, monitor, and optimise automation processes.
 
-## 1. Quick Actions
+![](https://lh7-us.googleusercontent.com/4GoQpgFCrZheiKIJoxio5VHW7Tgjxut55iIKJswmE2DEDl9LWpdEXhdAXE8LmSd9Ej56uZvdYbJSdODhCTGSlQdSKUA8rmyFyS6relqI19eD82n5SrsQJ1vXwqG6d5y2wkdulElMlSkay-42aaml3e4)
+
+## Dashboard Components
+
+### 1. Quick Actions
 
 ![](https://lh7-us.googleusercontent.com/mxGXMDa12br-x0mri6OWMUVkcHo6y0OT1CN58h76mWqoo2zRzMxhrXrWkX8p1fNAapH8L0MUcZ62_fXtSN6DK3kRpRnE0pHq7p-_dsR6DhsjpxuIBkIY4yxA5hQRecrr1UJ7eKaw5CrrGO-xILtDo10)
 
@@ -26,7 +27,7 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 -   **Report:** Leads to the Reporting module for data-driven insights and analytics. To learn more about the Report and explore further insights, visit the [Reports](https://docs.google.com/document/d/1U3r83BpoxqhwoqmtW2tc5dPwWUf9W_RryymNXoCHwOg/edit?usp=sharing) section.
     
 
-## 2. Transaction
+### 2. Transaction
 
 ![](https://lh7-us.googleusercontent.com/LlMOrpHRQwg9agixGBAvxxUxG6BBsDVWlCawbKXgfEdb0JcZu4rH21PGAyCbPTcxtFoU3FzWuGj8r-9S9nM3jZA3oE_nuUvMFx0pFd4WONDoj9RWbr5hHao6TPDeGiVrPCFJuXv52R5gDsRq-O0_P6s)
 
@@ -35,7 +36,7 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 **Feature:** : Users can select a start date and end date to view workflow transaction within a specific date range.
 
 
-## 3. Transaction Status Buttons
+### 3. Transaction Status Buttons
 
 ![](https://lh7-us.googleusercontent.com/ahbCxAcMng9iCHKMjqP0EX6DUusRpk8GDfDhby94CbG6UB6Mm0KS7wtUaK-lII9SdkYNDrFP3KYcNvtPd6xbz53wZqdvny69SjmTq00jdEOlyEvac6P-FcXjBlpnHKr51if9F0Bk-O6CusRgIFU5Gvw)
 
@@ -52,7 +53,7 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
   
 **Functionality:** These buttons enable users to filter the displayed job list, providing a focused view of workflow transactions in different states.
 
-## 4. Job List Table
+### 4. Job List Table
 
 ![](https://lh7-us.googleusercontent.com/sG6hWFjWVqjgJonhL9g0UCaRcOK8Fgyq01i2ztfjIZ6PiblDsSshj8xkC_CsqzIx5iAQ2Q-KixDAGywth4uwTozi3nbw7PdeKUMnBKeFJUrZb7eoGMYwUH-VCtbYwFEcDhn8Z9qxG-ZywJOcAU7oFrg)
 
