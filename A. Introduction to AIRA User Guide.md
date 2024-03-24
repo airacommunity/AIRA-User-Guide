@@ -191,10 +191,6 @@ The following describe the primary target audience along with specific objective
 
 ----
 
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
-
-----
-
 ## Related Content
 
 To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
@@ -203,6 +199,11 @@ To continue your learning journey, proceed to the next section where we dig deep
 
 - **[System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Learn about the necessary hardware and software specifications required for installing AIRA locally, ensuring a smooth setup process.
 ----
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+----
+
 
 <table border="0" align="center">
   <tr>
