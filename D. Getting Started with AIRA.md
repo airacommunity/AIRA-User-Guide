@@ -9,8 +9,6 @@ Welcome to the starting point of your AIRA journey! In this section, we'll guide
 
 The AIRA Sign-in options offer users flexibility and convenience in accessing the platform.
 
-![](https://lh7-us.googleusercontent.com/tSNQcpAG6H75sUv5pFLHdqTB8mvxWa6rACctTGfjVafDe6qRIBGSRNOU3I_o5rswXmTdjDcPp7B3NkKCFhEIB1NODoiFUnqU1qzAXjro58bYKa5NLP5r47cT3B62yz0WCmmOlWwbCJdD8YVx61O9h_U)
-
 **Common Admin Login:** Users can sign in with a unique User ID and Password for administrative access.
 -   Enter the User ID and Password in the respected section.  
 -   Click on the login button.
@@ -26,8 +24,6 @@ The AIRA Sign-in options offer users flexibility and convenience in accessing th
 ## Left Navigation Bar
 
 The interface has 10 sections on the left, each serving a specific purpose for hyper-automation with AIRA.
-
-![](https://lh7-us.googleusercontent.com/ndg27PD0N1D_iMI2Nl5BATJN-WsDFWsVD2AphoROSN-1FKndOqJKCvXhys8h2yr_xttAiDJn1ThW8gPx2XXOOMiwhG30l1iyesTFicAXDbtW1QSBCZzMYpN1ok95I633qku_9ZlQoq9Q6cIMPRY_wsw)
 
 -   **Dashboard:** Get an overview of essential metrics and quick actions for streamlined navigation. To learn more about the Dashboard and explore further insights, visit the [Dashboard](https://docs.google.com/document/d/1C_womCQeEq9z-2owsdru9jQadOf8T0Am3giQdrc4UBM/edit?usp=sharing) section.
     
