@@ -5,6 +5,12 @@
 
 Welcome to the AIRA User Guide, your go-to source for understanding and making the most of the AIRA hyper-automation platform. Whether you're just starting with AIRA or already know your way around, this guide is here to help. Let's explore how the guide is organised, how to find what you need, and what exciting insights you can discover.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
 ## Guide Structure and Navigation
 
 To make things easy for you, the guide is set up in a way that lets you find what you're looking for without any confusion. You can move around sections, and follow instructions with clarity, so you get the information you need quickly.
@@ -198,12 +204,18 @@ To continue your learning journey, proceed to the next section where we dig deep
 - **[Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
 
 - **[System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Learn about the necessary hardware and software specifications required for installing AIRA locally, ensuring a smooth setup process.
-----
-
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
 
 ----
 
+<table align="right" border="0">
+    <tr>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">NEXT</a></td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
 
 <table border="0" align="center">
   <tr>
