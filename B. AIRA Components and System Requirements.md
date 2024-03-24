@@ -13,6 +13,11 @@ AIRA Automation follows a 3-step process: strategize, streamline, and transform.
 | Streamline | Next, we streamline all processes within the automation chain. AIRA ensures seamless integration of all necessary apps and connections within the workflow process using our automation designer. This step aims to optimize efficiency and enhance workflow performance.             |
 | Transform  | Lastly, we initiate the transformation phase. Here, we implement the strategies and streamline processes to bring about significant improvements. Through automation, AIRA enables businesses to achieve enhanced productivity, reduced manual intervention, and improved outcomes.  |
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
 
 ## Core Components
 
@@ -57,9 +62,17 @@ To continue your learning journey, proceed to the next section where we dig deep
 
 ----
 
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is currently in development and is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+<table align="right" border="0">
+    <tr>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md?plain=1">PREVIOUS</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md">NEXT</a></td>
+    </tr>
+</table>
 
-----
+<br>
+<br>
+<br>
+
 
 <table border="0" align="center">
   <tr>
