@@ -22,12 +22,12 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 **Features:**
 
--   **Digital Agent:** Navigates to the Digital Agent for configuring and overseeing digital bots. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents](https://docs.google.com/document/d/1RlJ5YCCXvarsDfKuWImxXGMqp-kszTQ3lA-luC5674k/edit?usp=sharing) section.
--   **Connection:** Provides access to connectivity settings for smooth integration with external platforms. To learn more about the connections and explore further insights, visit the [connection](https://docs.google.com/document/d/1vnOYQ_jgKVfA_1jhQ8Q1n4fQfGFLuqKapjw9527aDA0/edit?usp=sharing) section.
--   **Jobs:** Directs users to the workflow section for developing, managing and monitoring automated tasks. To learn more about the Jobs and explore further insights, visit the [jobs](https://docs.google.com/document/d/1TDjdIR0_1kyKsvbCdnYDIkbvIbkmHRl0twNVKhVu1rM/edit?usp=sharing) section.
--   **Intelligent Document Processing:** Enables users to engage with the IDP capabilities for efficient document processing. To learn more about the IDP and explore further insights, visit the [IDP](https://docs.google.com/document/d/1DfjMaXw4YhJw1x7SadbS7UYl5Gt5BQJ4xAILOPKJ65M/edit?usp=sharing) section. 
--   **Model**: Accesses the Model section for designing and refining AI models. To learn more about the Models and explore further insights, visit the [Models](https://docs.google.com/document/d/1F6OuMuxcDLYWINeE1GCLuT1Gb9YgOGZhnX6J5-EG4tQ/edit?usp=sharing) section.  
--   **Report:** Leads to the Reporting module for data-driven insights and analytics. To learn more about the Report and explore further insights, visit the [Reports](https://docs.google.com/document/d/1U3r83BpoxqhwoqmtW2tc5dPwWUf9W_RryymNXoCHwOg/edit?usp=sharing) section.
+-   **Digital Agent:** Navigates to the Digital Agent for configuring and overseeing digital bots. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents]() section.
+-   **Connection:** Provides access to connectivity settings for smooth integration with external platforms. To learn more about the connections and explore further insights, visit the [connection]() section.
+-   **Jobs:** Directs users to the workflow section for developing, managing and monitoring automated tasks. To learn more about the Jobs and explore further insights, visit the [jobs]() section.
+-   **Intelligent Document Processing:** Enables users to engage with the IDP capabilities for efficient document processing. To learn more about the IDP and explore further insights, visit the [IDP]() section. 
+-   **Model**: Accesses the Model section for designing and refining AI models. To learn more about the Models and explore further insights, visit the [Models]() section.  
+-   **Report:** Leads to the Reporting module for data-driven insights and analytics. To learn more about the Report and explore further insights, visit the [Reports]() section.
     
 
 ### 2. Transaction
