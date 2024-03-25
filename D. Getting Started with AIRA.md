@@ -94,15 +94,6 @@ AIRA understands the importance of language diversity. With support for six diff
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into the AIRA Dashboard Interface and the Workflow Creation Guide.
-
-- **[Dashboard](https://docs.google.com/document/d/1C_womCQeEq9z-2owsdru9jQadOf8T0Am3giQdrc4UBM/edit?usp=drive_link)** : Access all AIRA functionalities and insights through the intuitive dashboard interface.
-    
-- **[Workflow Creation](https://docs.google.com/document/d/1TDjdIR0_1kyKsvbCdnYDIkbvIbkmHRl0twNVKhVu1rM/edit?usp=drive_link)** : Effortlessly design and deploy automated workflows with AIRA's intuitive workflow creation designer.
-
-----
 
 <table align="right" border="0">
     <tr>
