@@ -207,15 +207,6 @@ The "Wait" tool enables users to specify a duration of time for the workflow to 
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
-
-- **[Understanding of AIRA](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Gain insights into the fundamental concepts and functionalities of AIRA, laying a solid foundation for your journey towards mastering its capabilities.
-
-- **[System Requirements](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Learn about the necessary hardware and software specifications required for installing AIRA locally, ensuring a smooth setup process.
-
-----
 
 <table align="right" border="0">
     <tr>
