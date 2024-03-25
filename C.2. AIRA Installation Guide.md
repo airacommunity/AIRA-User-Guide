@@ -8,7 +8,7 @@ The AIRA installation guide provides step-by-step instructions for deploying AIR
 
 |     AIRA Version    |             Platform             | Notes |
 |:-------------------:|:--------------------------------:|:-----:|
-| aira_build_08012024 | CentOS/RHEL 7.x | [Stack](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20AIRA%20Server%20Configuration%20Setup.md) |
+| aira_build_08012024 | CentOS/RHEL 7.x | [Stack](https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md) |
 
 Before installing AIRA, check the Installation Requirements to determine whether your server meets the necessary hardware and software requirements. Ensure you have an Internet connection to download any necessary third-party components that your AIRA installation might require.
 
