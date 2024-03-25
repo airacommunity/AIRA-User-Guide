@@ -475,13 +475,6 @@ setsebool -P httpd_can_network_connect 1
 ```
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into AIRA installation in the local environment.
-
-- **[AIRA Installation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Installation.md):** Explore the detailed steps for installing AIRA in a local environment, setting up for immediate use.
-
-----
 
 <table align="right" border="0">
     <tr>
