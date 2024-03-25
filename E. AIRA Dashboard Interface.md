@@ -67,13 +67,6 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 ---
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into the workflow creation for automation.
-
-- **[Workflow Creation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Easily design and customize automation workflows using AIRA's user-friendly interface, enabling smooth automation of complex processes with simplicity and precision.
-
-----
 
 <table align="right" border="0">
     <tr>
