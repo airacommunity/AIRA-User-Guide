@@ -106,8 +106,8 @@ To continue your learning journey, proceed to the next section where we dig deep
 
 <table align="right" border="0">
     <tr>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md?plain=1">PREVIOUS</a></td>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Getting%20Started%20with%20AIRA.md">NEXT</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.2.%20AIRA%20Installation%20Guide.md">PREVIOUS</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20AIRA%20Dashboard%20Interface.md">NEXT</a></td>
     </tr>
 </table>
 
