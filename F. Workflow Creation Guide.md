@@ -163,16 +163,6 @@ In the top-right corner of the AIRA Workflow Console, five buttons provide users
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
-
-- **[Tools Explaination](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** Tools in AIRA Workflow Automation are features designed to enhance workflow efficiency by providing functionalities such as decision-making, conditional branching, and parallel execution.
-
-- **[Variable Explaination](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20System%20Requirment.md):** Variables in AIRA Workflow Automation enable dynamic data handling and manipulation within workflows, facilitating adaptability and customization.
-
-----
-
 <table align="right" border="0">
     <tr>
         <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20AIRA%20Dashboard%20Interface.md">PREVIOUS</a></td>
