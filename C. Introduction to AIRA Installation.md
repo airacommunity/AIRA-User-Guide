@@ -35,14 +35,6 @@ Once the server setup is complete, the next step is to install AIRA. For the ins
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into AIRA server configuration and AIRA installation in the local environment.
-
-- **[AIRA Server Configuration Setup](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20AIRA%20Server%20Configuration%20Setup.md):** Delve deeper into configuring the AIRA server, ensuring optimal settings for its deployment.
-- **[AIRA Installation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20AIRA%20Installation.md):** Explore the detailed steps for installing AIRA in a local environment, setting up for immediate use.
-
-----
 
 <table align="right" border="0">
     <tr>
