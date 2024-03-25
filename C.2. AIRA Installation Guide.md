@@ -337,15 +337,7 @@ service nginx restart
 
 ----
 
-## Related Content
 
-To continue your learning journey, proceed to the next section where we delve deeper into the following topics:
-
-- [Getting Started](https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Getting%20Started.md): Learn the initial steps to start using AIRA effectively.
-- [Dashboard](https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Dashboard.md): Explore the functionalities and features of the AIRA dashboard to optimize your workflow.
-
-
-----
 
 <table align="right" border="0">
     <tr>
