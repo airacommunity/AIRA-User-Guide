@@ -2,7 +2,7 @@
 # Variable Explaination  <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ## Overview
-A variable is a named storage location in a workflow that holds a value. This value can be changed and manipulated throughout the worklfow execution. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. In workflow automation, variables typically have a data type, which determines the kind of data they can store (such as integers, floating-point numbers, strings, etc.). Variables must often be declared before they can be used, specifying both their name and data type. Whether user collecting data through forms or creating custom variables to specific needs, AIRA's Variable Section empowers with enhanced control over your data processing.
+A variable is a storage in a workflow that holds a value. This value can be changed and manipulated throughout the worklfow execution. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. In workflow automation, variables typically have a data type, which determines the kind of data they can store (such as integers, floating-point numbers, strings, etc.). Variables must often be declared before they can be used, specifying both their name and data type. Whether user collecting data through forms or creating custom variables to specific needs, AIRA's Variable Section empowers with enhanced control over your data processing.
 
 <br>
 
