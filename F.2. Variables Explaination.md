@@ -34,13 +34,6 @@ In AIRA, custom variables are user-defined variables created within the Variable
 
 ----
 
-## Related Content
-
-To continue your learning journey, proceed to the next section where we dig deeper into the basic understanding of AIRA and the system requirements for local installation.
-
-- **[Understanding of AIRA Activity](https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Understanding%20of%20AIRA.md):** AIRA workflow activities automate tasks and streamline processes, boosting efficiency and productivity across various business operations.
-
-----
 
 <table align="right" border="0">
     <tr>
