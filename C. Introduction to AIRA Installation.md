@@ -25,8 +25,8 @@ Once the server setup is complete, the next step is to install AIRA. For the ins
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="600"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20AIRA%20Server%20Configuration%20Setup.md">AIRA Server Configuration Setup</a></td>
-      <td align="center" width="600"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.2.%20AIRA%20Installation%20Guide.md">AIRA Installation Guide</a></td>
+      <td align="center" width="600"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md">AIRA Server Configuration Setup</a></td>
+      <td align="center" width="600"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.2.%20AIRA%20Installation%20Guide.md">AIRA Installation Guide</a></td>
     </tr>
 
   </tbody>
