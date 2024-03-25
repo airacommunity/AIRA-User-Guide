@@ -44,8 +44,8 @@ To continue your learning journey, proceed to the next section where we dig deep
 
 <table align="right" border="0">
     <tr>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md?plain=1">PREVIOUS</a></td>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md">NEXT</a></td>
+        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md">PREVIOUS</a></td>
+        <td align="center" width = 200><a href="">NEXT</a></td>
     </tr>
 </table>
 
