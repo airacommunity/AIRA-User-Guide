@@ -58,9 +58,9 @@ The "Do While" tool in the AIRA workflow designer is used to create loop structu
 
 - **Configure Loop:**
    - Drag and drop the app that you want to include in the loop into the "Do While" tool. This action will be repeated as long as the specified condition is true.
-   - Right-click on the "Do While" tool and select "SETTING" to set the loop parameters and condition.
+   - Right-click on the "Do While" tool and select "SETTING" to set the loop parameters.
    - In the settings, you have the flexibility to input any value into the parameters or select variables created elsewhere in the workflow. Parameters define the number of times the loop should execute.
-   - Click on the "Submit" button to save the loop parameters and condition.
+   - Click on the "Submit" button to save the loop parameters.
 
 - **Additional Options:**
 
