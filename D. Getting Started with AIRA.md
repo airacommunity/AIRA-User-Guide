@@ -21,13 +21,10 @@ The AIRA Sign-in options offer users flexibility and convenience in accessing th
 -   Enter the User ID and Password in the respected section.  
 -   Click on the login button.
     
-**SSO Login:** Users can login once to access microsoft applications without needing to log in separately for each one.
+**SSO Login:** Allows users to access with a single set of microsoft application login credentials, simplifying the login experience while ensuring security and reducing the need for multiple passwords.
 -   Click on the SSO login Button
 -   Enter the Credentials in the respected fields.
--   Click on the sign in.   
-
-**Google Sign In - Under development.**
-    
+-   Click on the sign in.       
 
 ## Left Navigation Bar
 
@@ -37,15 +34,15 @@ The interface has 10 sections on the left, each serving a specific purpose for h
 
 -   **Dashboard:** Get an overview of essential metrics and quick actions for streamlined navigation. To learn more about the Dashboard and explore further insights, visit the [Dashboard]() section.
     
--  **Cases:** Manage and track different cases efficiently for a comprehensive view of your workflow. To learn more about the Cases and explore further insights, visit the [Cases]() section.
+-  **Cases:** Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required. To learn more about the Cases and explore further insights, visit the [Cases]() section.
     
--  **Digital Agents:** Access and configure intelligent digital agents to automate tasks and processes. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents]() section.
+-  **Digital Agents:** Access and configure intelligent digital agents bots to automate tasks and processes. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents]() section.
     
 -  **Connections:** Establish and manage connections smoothly for a connected automation ecosystem. To learn more about the connections and explore further insights, visit the [connection]() section.
     
 -   **Jobs:** Create and execute automation workflows effortlessly. To learn more about the Jobs and explore further insights, visit the [jobs]() section.
     
--   **Intelligent Document Processing :** Leverage powerful document processing capabilities for efficient data extraction.To learn more about the IDP and explore further insights, visit the [IDP]() section.
+-   **Intelligent Document Processing :** Using powerful document processing capabilities for efficient data extraction.To learn more about the IDP and explore further insights, visit the [IDP]() section.
     
 -   **Models:** Explore and manage automation models to enhance your hyper-automation workflows. To learn more about the Models and explore further insights, visit the [Models]() section.
     
