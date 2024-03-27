@@ -19,6 +19,8 @@ When the Form module is incorporated into a workflow, it automatically triggers 
 ## Cases User Interface
 The user interface of Aira Cases features five primary options: "Start Execution," "Inbox Section," "Participated," "Unassigned," and "Advanced Search."
 
+![Cases](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Cases.gif)
+
 ### Start Execution
 This section facilitates users to continuously execute a specific case and fill in the required data.
 
@@ -62,9 +64,8 @@ The Advanced Search section offers a comprehensive approach to accessing detaile
 
 - **Search Cases:** Utilize the Advanced Search table to input specific criteria such as Case No., Case Title, Job Name, Status, Start Date, or Due Date to find relevant cases.
 - **View Case History:** Clicking on any case within the Advanced Search results will display a history table specific to that case, providing a detailed record of its activities and progress.
-- **Case Search:** Above the Advanced Search table, a search bar is available. Users can efficiently search for cases by entering their Case No., Case Title, Job Name, or Status.
-
-
+- **Backend Code:** In history table click on the specific case to see the the backend code of the case.
+- **Filter by Status:** Adjacent to the search bar, a status button is available. Click on this button to filter the table by status. It enables users to view all statuses, open cases, or closed cases.
 ----
 
 
