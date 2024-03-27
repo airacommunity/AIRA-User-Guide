@@ -14,6 +14,8 @@ AIRA Workflow Automation is a system designed to streamline and optimize busines
 
 ## Creating a New Job in AIRA - Step by Step
 
+![Workflow 1](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Workflow%201.gif)
+
 - Navigate to the left navigation console and click on the "Jobs" option to open a dedicated window for job-related functionalities.
 - If needed, Utilize the search bar located on the top right corner of the job window to search for existing workflows by their names.
 - If needed, use the import button next to the search bar to import a workflow into the platform.
@@ -26,6 +28,8 @@ AIRA Workflow Automation is a system designed to streamline and optimize busines
 ## Designer Navigation and Options in AIRA
 
 In the Designer of AIRA, the user interface is designed to help users create and manage workflows effortlessly. In Designer users have access to a multitude of options and functionalities.
+
+![Workflow 2](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Workflow%202.gif)
 
 ### Module Section : Bottom-Left
 
