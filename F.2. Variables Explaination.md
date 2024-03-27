@@ -13,9 +13,13 @@ A variable is a storage in a workflow that holds a value. Variables are fundamen
 
 ### Global Variables:
 
-In AIRA, global variables are automatically generated when creating forms within the platform. Each fields of the form corresponds to a global variable, facilitating seamless integration of collected data across the entire workflow. This integration enabling users to effortlessly access collected data and streamline data handling processes. Global variables enhance overall efficiency by ensuring that data collected through forms is readily available for use throughout the workflow.
+![Variable](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Variable%201.gif)
+
+In AIRA, global variables are automatically generated when creating forms within the platform. Each fields of the form corresponds to a global variable, facilitating seamless integration of collected data across the entire workflow. This integration enabling users to effortlessly access collected data and streamline data handling processes. Global variables enhance overall efficiency by ensuring that data collected through forms is readily available for use throughout the workflow. To learn more about forms visit [AIRA Forms](url).
 
 ### Custom Variable:
+
+![Varibale 2](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Varibale%202.gif)
 
 In AIRA, custom variables are user-defined variables created within the Variable Section to suit specific requirements. Users have the flexibility to specify the type of variable needed, including text, numbers, dates, and more, along with providing a descriptive name and purpose. This customization capability empowers users to precisely align their data setup with their workflow, promote optimal efficiency and productivity by using variables to meet their unique needs.
 
