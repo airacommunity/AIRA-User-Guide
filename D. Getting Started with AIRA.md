@@ -13,6 +13,8 @@ Welcome to the starting point of your AIRA journey! In this section, we'll guide
 
 ## User Signup & Login
 
+![Getting Started 1](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Getting%20Started%201.gif)
+
 The AIRA Sign-in options offer users flexibility and convenience in accessing the platform.
 
 **Common Admin Login:** Users can sign in with a unique User ID and Password for administrative access.
@@ -28,6 +30,8 @@ The AIRA Sign-in options offer users flexibility and convenience in accessing th
     
 
 ## Left Navigation Bar
+
+![Getting Started 2](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Getting%20Started%202.gif)
 
 The interface has 10 sections on the left, each serving a specific purpose for hyper-automation with AIRA.
 
@@ -53,6 +57,8 @@ The interface has 10 sections on the left, each serving a specific purpose for h
     
 
 ## Top Right Options
+
+![Getting Started 3](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Getting%20Started%203.gif)
 
 When you first access AIRA's user interface, your attention is drawn to the top right corner, where four significant options await your exploration.
 
