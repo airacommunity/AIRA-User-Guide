@@ -143,7 +143,7 @@ In this user guide, you'll get a deep dive into all of AIRA's features, from the
 
 ## Audience Targeting
 
-The following describe the primary target audience along with specific objectives according to their unique needs.
+The following describes the primary target audience along with specific objectives according to their unique needs.
 
 **New Users**
 
