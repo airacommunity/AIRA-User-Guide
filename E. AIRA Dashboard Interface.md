@@ -18,6 +18,8 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 ### 1. Quick Actions
 
+![Dashboard 1](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Dashboard%201.gif)
+
 **Overview:** The Quick Actions section acts as a centralised hub for streamlined access to fundamental AIRA features.
 
 **Features:**
@@ -32,12 +34,16 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 ### 2. Transaction
 
+![Dashboard 2](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Dashboard%202.gif)
+
 **Overview**: The Transaction Overview furnishes a dynamic line chart, offering a visual representation of total workflow transactions over a specified period.
 
 **Feature:** : Users can select a start date and end date to view workflow transaction within a specific date range.
 
 
 ### 3. Transaction Status Buttons
+
+![Dashboard](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Dashboard%203.gif)
 
 **Overview:**  The six status buttons located below the transaction chart classify transactions according to their status.
 
@@ -53,6 +59,8 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 **Functionality:** These buttons enable users to filter the displayed job list, providing a focused view of workflow transactions in different states.
 
 ### 4. Job List Table
+
+![Dashboard 4](https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Dashboard%204.gif)
 
 **Overview:** The Job List Table offers a detailed summary of workflows, presenting critical information at a glance.
 
