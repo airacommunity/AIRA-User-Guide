@@ -7,6 +7,12 @@
 
 Triggers within the AIRA workflow serve as a mechanism to apply specific business logic based on predefined conditions or events. They play a crucial role in enhancing workflow customization and automation, ensuring that precise actions are executed according to specific requirements.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
 ## Trigger Functions in AIRA
 
 AIRA has developed trigger functions to simplify the process of creating triggers, making it more convenient for users to implement their desired logic within workflows. These trigger functions provide predefined functionalities that can be easily incorporated into triggers, streamlining the trigger creation process and enhancing overall workflow efficiency.
