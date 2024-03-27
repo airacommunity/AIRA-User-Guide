@@ -24,7 +24,7 @@ The "Join" and "Fork Join" tools in AIRA Designer facilitate parallel execution 
 
 - **Drag and Drop Fork Join:**
    - Find the "Fork Join" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Fork Join" tool onto your workflow canvas.
+   - Drag the "Fork Join" tool onto your workflow designer.
    - Connect the "Fork Join" tool to the required place in your workflow where you want to initiate parallel execution of tasks.
 
 - **Connect Apps to Fork Join:**
@@ -33,7 +33,7 @@ The "Join" and "Fork Join" tools in AIRA Designer facilitate parallel execution 
 
 - **Drag and Drop Join:**
    - Find the "Join" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Join" tool onto your workflow canvas.
+   - Drag the "Join" tool onto your workflow designer.
    - Connect the "Join" tool to the end point of each branch of the parallel execution, i.e., connect it to the outputs of the apps connected to the "Fork Join" tool.
 
 - **Additional Options:**
@@ -115,7 +115,7 @@ The "Sub Workflow" tool in AIRA Designer allows users to incorporate other workf
 
 - **Drag and Drop:**
    - Locate the "Sub Workflow" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Sub Workflow" tool onto your workflow canvas.
+   - Drag the "Sub Workflow" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Sub Workflow" tool to the required place in your workflow where you want to invoke the subworkflow.
@@ -147,7 +147,7 @@ The "Switch" tool in AIRA Designer allows users to implement conditional branchi
 
 - **Drag and Drop:**
    - Find the "Switch" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Switch" tool onto your workflow canvas.
+   - Drag the "Switch" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Switch" tool to the required place in your workflow where you want to implement conditional branching.
