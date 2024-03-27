@@ -605,8 +605,6 @@ Developers can call this function with the identifier or selector of the desired
 | -----| -----|--------|
 | Shivani | 26 | shivani@aira.fr|
 
-![2](https://github.com/airacommunity/ARIA-Documentation/assets/153823636/01a3d4d5-c27b-4fdf-9e34-e940b6b64395)
-
 
 #### By Field Name
 ```js
@@ -661,8 +659,6 @@ Developers can call this function with the identifier or selector of the desired
 | Name | AGE | E-Mail |
 | -----| -----|--------|
 | Shivani | 26 | shivani@aira.fr|
-
-![2](https://github.com/airacommunity/ARIA-Documentation/assets/153823636/01a3d4d5-c27b-4fdf-9e34-e940b6b64395)
 
 
 #### By Field Name
@@ -826,9 +822,6 @@ Developers can call this function with the identifier or selector of the desired
 | ------------------- | --------------------------------|--------------------------------------------- |
 | Shivani |26 | shivani@aira.fr   |
 
-![2](https://github.com/airacommunity/ARIA-Documentation/assets/153823636/01a3d4d5-c27b-4fdf-9e34-e940b6b64395)
-
-
 #### By Field Name
 ```js
 let _element = getGridData(".formio-component-dataGrid")
@@ -882,8 +875,6 @@ Developers can call this function with the identifier or selector of the desired
 | Name | Count| E-Mail | Add/Remove|
 | -----| -----|--------|---------- |
 | Shivani | 26 | shivani@aira.fr|➕ ❌|
-
-![2](https://github.com/airacommunity/ARIA-Documentation/assets/153823636/01a3d4d5-c27b-4fdf-9e34-e940b6b64395)
 
 By Element Name
 ```js
