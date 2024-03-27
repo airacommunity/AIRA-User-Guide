@@ -41,7 +41,7 @@ At the top of the Module section, a search bar allows users to quickly find spec
 
 #### Tools
 
-The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Decision Making for conditional logic, Do While for repetitive tasks, Fork Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the [Tools section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md).
+The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Decision Making for conditional logic, Do While for repetitive tasks, Fork Join and Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the [Tools section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md).
 
 <table>
   <thead>
@@ -52,26 +52,26 @@ The Tools section in AIRA's workflow designer offers a range of powerful feature
   <tbody>
     <tr>
       <td align="center" width=300><a href="">Do While</a></td>
-      <td align="center" width=300><a href="">Fork join</a></td>
-      <td align="center" width=300><a href="">Join</a></td>
+      <td align="center" width=300><a href="">Fork Join and Join</a></td>
       <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#set-variable">Set Variable</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#sub-workflow">Sub Workflow</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#sub-workflow">Sub Workflow</a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#switch">Switch</a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#terminate">Terminate</a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#wait">Wait</a></td>
+      <td align="center"><a href=""></a></td>
     </tr>
     </tbody>
 </table>
 
 #### Variable
 
-A variable is a named storage location in a workflow that holds a value. This value can be changed and manipulated throughout the worklfow execution. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. To learn more about the Variable and explore further insights, visit the [Variable section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.2.%20Variables%20Explaination.md)
+A variable is a named storage location in a workflow that holds a value. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. To learn more about the Variable and explore further insights, visit the [Variable section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.2.%20Variables%20Explaination.md)
 
 #### Apps
 
-In the Apps section of AIRA, users encounter a diverse range of tools designed to enhance workflow capabilities. Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
+In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
 
 <table>
   <thead>
@@ -121,8 +121,14 @@ In the Apps section of AIRA, users encounter a diverse range of tools designed t
 Adjacent to the Module section in the AIRA Workflow Console, users encounter an execution bar equipped with various crucial options for managing and executing workflows. Here's a detailed breakdown:
 
 - **Run Button:** The Run button serves as the command to execute and test the workflow, allowing users to observe its functionality.
+  - **How to Use:** click on the run button to start execution of workflow. 
 - **Save Button:** The Save button empowers users to save the progress made during workflow design, preserving configurations and modifications.
+  - **How to Use:** click on the save button to save the workflow.
 - **Schedule Button:** The Schedule button offers a scheduling feature, enabling users to define specific start and end times for the execution of their workflows.
+  - How to use schedule button
+      - Click on the schedule button it open the the schedluing window.
+      - select run workflow intervals (at regular interval, Once, Every Day, Day of the Week, Day of the Month, Specified date)
+      
 - **Zoom In/Out Buttons**: These buttons provide users with the flexibility to zoom in or out of the workflow, facilitating a more detailed or comprehensive view.
 - **Create Version Button:** The Create Version button allows users to generate different versions of the workflow, aiding in tracking and managing changes over time.
 - **Export Workflow:** The Export Workflow option permits users to export a version of the workflow, facilitating documentation and sharing with collaborators.
