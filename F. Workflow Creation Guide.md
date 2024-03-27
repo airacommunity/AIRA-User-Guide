@@ -121,18 +121,65 @@ In the Apps section of AIRA, users encounter a diverse range of application desi
 Adjacent to the Module section in the AIRA Workflow Console, users encounter an execution bar equipped with various crucial options for managing and executing workflows. Here's a detailed breakdown:
 
 - **Run Button:** The Run button serves as the command to execute and test the workflow, allowing users to observe its functionality.
-  - **How to Use:** click on the run button to start execution of workflow. 
+  - **Usage Instructions:** Simply click on the run button to initiate the execution of the workflow.
 - **Save Button:** The Save button empowers users to save the progress made during workflow design, preserving configurations and modifications.
-  - **How to Use:** click on the save button to save the workflow.
+  - **Usage Instructions:** Click on the "Save" button to store the workflow.
 - **Schedule Button:** The Schedule button offers a scheduling feature, enabling users to define specific start and end times for the execution of their workflows.
-  - How to use schedule button
-      - Click on the schedule button it open the the schedluing window.
-      - select run workflow intervals (at regular interval, Once, Every Day, Day of the Week, Day of the Month, Specified date)
+
+  **Usage Instructions:**
+  
+  1. **Click on the Schedule button**: Locate and click on the Schedule button within the interface of your workflow tool or application. This action should open the scheduling window.
+  
+  2. **Select Run Workflow Intervals**: In the scheduling window, you will see options for different scheduling intervals. Choose the one that fits your requirement:
+  
+     - **At Regular Interval**
+     - **Once**
+     - **Every Day**
+     - **Day of the Week**
+     - **Day of the Month**
+     - **Specified Date**
+  
+  3. **At Regular Interval**:
+     - Select the interval type: Hours or minutes.
+     - Specify the interval duration.
+     - Enter the start and end dates for the scheduled execution.
+     - Click the OK button to confirm.
+  
+  4. **Once**:
+     - Select the specific date for the execution.
+     - Click the OK button to confirm.
+  
+  5. **Every Day**:
+     - Enter the time of day for the execution.
+     - Specify the start and end dates.
+     - Click the OK button to confirm.
+  
+  6. **Day of the Week**:
+     - Enter the day of the week when the workflow should run (e.g., Monday, Tuesday, etc.).
+     - Specify the time of day.
+     - Set the start and end dates.
+     - Click the OK button to confirm.
+  
+  7. **Day of the Month**:
+     - Choose the day of the month for execution.
+     - Specify the time.
+     - Set the start and end dates.
+     - Click the OK button to confirm.
+  
+  8. **Specified Date**:
+     - Select the month and day for execution.
+     - Enter the time.
+     - Specify the start and end dates.
+     - Click the OK button to confirm.
       
 - **Zoom In/Out Buttons**: These buttons provide users with the flexibility to zoom in or out of the workflow, facilitating a more detailed or comprehensive view.
+    - **Usage Instructions:** Simply click on the zoom In/Out button to initiate.
 - **Create Version Button:** The Create Version button allows users to generate different versions of the workflow, aiding in tracking and managing changes over time.
+    - **Usage Instructions:** Simply click on the version button to initiate.
 - **Export Workflow:** The Export Workflow option permits users to export a version of the workflow, facilitating documentation and sharing with collaborators.
+    - **Usage Instructions:** Simply click on the export button to initiate export.
 - **Auto Layout Button:** The Auto Layout button automates the arrangement and organisation of workflow elements, enhancing visual clarity and aesthetics.
+    - **Usage Instructions:** Simply click on the auto layout button to initiate.
 
 ### Execution Bar in AIRA Workflow Console : Top Left Corner
 
@@ -140,8 +187,8 @@ Positioned at the top left of the AIRA Workflow Console, three essential options
 
 - **Workflow Option:** Clicking on the Workflow option directs users to the primary workflow window. This is the central space where users actively create, modify, and configure their workflows.
 - **Execution History Option:** This feature provides users with a portal to review the historical execution of their workflows. Users can access detailed information about past executions, facilitating performance analysis and troubleshooting.
-Search Bar: Positioned on the left-hand side of the section, the search bar allows users to conveniently search for executions by their unique execution IDs.
-  - Execution Status Indicators:
+- **Search Bar:** Positioned on the left-hand side of the section, the search bar allows users to conveniently search for executions by their unique execution IDs.
+  - **Execution Status Indicators:**
     - Green Tick: Indicates successful execution of the workflow.
     - Red Tick: Highlights errors encountered during execution.
     - Yellow Tick: Flags warnings that occurred during execution.
