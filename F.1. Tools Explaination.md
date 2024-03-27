@@ -1,7 +1,6 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 # Tools Explaination  <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
-
 ## Overview
 
 The Tools Section is the powerhouse of capabilities designed to elevate your workflow by providing robust logic-building tools. It serves as your go-to destination for infusing intelligence and logic into your workflows, empowering users to define the flow and decision points to ensure a customised and efficient process.
