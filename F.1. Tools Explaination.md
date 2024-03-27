@@ -81,7 +81,7 @@ The Set Variable tool is a component utilized within workflow design environment
 
 - **Drag and Drop:**
    - Locate the "Set Variable" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Set Variable" tool onto your workflow canvas.
+   - Drag the "Set Variable" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Set Variable" tool to the app or tool where you want to apply the variable.
@@ -195,7 +195,7 @@ Terminate refers to a tool used to abruptly stop a process or task before it fin
 
 - **Drag and Drop:**
    - Find the "Terminate" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Terminate" tool onto your workflow canvas.
+   - Drag the "Terminate" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Terminate" tool to the app or tool where you want to apply the termination.
@@ -227,7 +227,7 @@ The "Wait" tool enables users to specify a duration of time for the workflow to 
 
 - **Drag and Drop:**
    - Go to the Tools Section of the AIRA Designer interface.
-   - Find the "Wait" tool and drag it onto the workflow canvas.
+   - Find the "Wait" tool and drag it onto the workflow designer.
 
 - **Connect:**
    - Drag a connection line from the output of the preceding action to the input of the "Wait" tool.
