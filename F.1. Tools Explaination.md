@@ -24,7 +24,7 @@ The "Join" and "Fork Join" tools in AIRA Designer facilitate parallel execution 
 
 - **Drag and Drop Fork Join:**
    - Find the "Fork Join" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Fork Join" tool onto your workflow designer.
+   - Drag and drop the "Fork Join" tool onto your workflow designer.
    - Connect the "Fork Join" tool to the required place in your workflow where you want to initiate parallel execution of tasks.
 
 - **Connect Apps to Fork Join:**
@@ -33,7 +33,7 @@ The "Join" and "Fork Join" tools in AIRA Designer facilitate parallel execution 
 
 - **Drag and Drop Join:**
    - Find the "Join" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Join" tool onto your workflow designer.
+   - Drag and drop the "Join" tool onto your workflow designer.
    - Connect the "Join" tool to the end point of each branch of the parallel execution, i.e., connect it to the outputs of the apps connected to the "Fork Join" tool.
 
 - **Additional Options:**
@@ -81,7 +81,7 @@ The Set Variable tool is a component utilized within workflow design environment
 
 - **Drag and Drop:**
    - Locate the "Set Variable" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Set Variable" tool onto your workflow designer.
+   - Drag and drop the "Set Variable" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Set Variable" tool to the app or tool where you want to apply the variable.
@@ -115,7 +115,7 @@ The "Sub Workflow" tool in AIRA Designer allows users to incorporate other workf
 
 - **Drag and Drop:**
    - Locate the "Sub Workflow" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Sub Workflow" tool onto your workflow designer.
+   - Drag and drop the "Sub Workflow" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Sub Workflow" tool to the required place in your workflow where you want to invoke the subworkflow.
@@ -147,7 +147,7 @@ The "Switch" tool in AIRA Designer allows users to implement conditional branchi
 
 - **Drag and Drop:**
    - Find the "Switch" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Switch" tool onto your workflow designer.
+   - Drag and drop the "Switch" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Switch" tool to the required place in your workflow where you want to implement conditional branching.
@@ -195,7 +195,7 @@ Terminate refers to a tool used to abruptly stop a process or task before it fin
 
 - **Drag and Drop:**
    - Find the "Terminate" tool in the Tools Section of the AIRA Designer interface.
-   - Drag the "Terminate" tool onto your workflow designer.
+   - Drag and drop the "Terminate" tool onto your workflow designer.
 
 - **Connect:**
    - Connect the "Terminate" tool to the app or tool where you want to apply the termination.
@@ -227,7 +227,7 @@ The "Wait" tool enables users to specify a duration of time for the workflow to 
 
 - **Drag and Drop:**
    - Go to the Tools Section of the AIRA Designer interface.
-   - Find the "Wait" tool and drag it onto the workflow designer.
+   - Find the "Wait" tool, drag & drop it onto the workflow designer.
 
 - **Connect:**
    - Drag a connection line from the output of the preceding action to the input of the "Wait" tool.
