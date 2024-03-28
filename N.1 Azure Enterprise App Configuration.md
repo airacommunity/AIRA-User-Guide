@@ -5,6 +5,13 @@
 
 Effortlessly integrate AIRA applications with Azure through our comprehensive guide. Navigate Single Sign-On (SSO) setup using SAML, ensuring precision in configuration and credential management. Streamline authentication, enhance security, and optimise efficiency in your Azure environment with AIRA. 
 
+### Benefits
+
+- Seamless integration
+- Effortless Single Sign-On setup with SAML
+- Enhanced security through streamlined authentication
+- Optimized efficiency for users and administrators.
+
 <br>
 
 > <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
