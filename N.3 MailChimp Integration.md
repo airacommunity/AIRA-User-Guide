@@ -11,16 +11,14 @@ Mailchimp is a widely used marketing automation platform and email marketing ser
 <br>
 
 ### Mailchimp in AIRA
-In AIRA, Mailchimp is integrated as an app within the platform's ecosystem. This integration enables users to leverage Mailchimp's features directly within their AIRA workflows, streamlining their marketing processes and enhancing efficiency. The Mailchimp app in AIRA offers various functionalities tailored to email marketing needs, allowing users to create, manage, and analyse email campaigns seamlessly.
+In AIRA, Mailchimp is integrated as an app within the platform's ecosystem. This integration enables users to access Mailchimp's features directly within their AIRA workflows, streamlining their marketing processes and enhancing efficiency. The Mailchimp app in AIRA offers various functionalities used to email marketing needs, allowing users to create, manage, and analyse email campaigns seamlessly.
 
 ### Use of Mailchimp in AIRA:
 The integration of Mailchimp in AIRA offers several benefits and use cases:
 
-- Email Campaign Management: Users can create and manage email marketing campaigns directly within AIRA, utilising Mailchimp's intuitive campaign creation tools.
-- Audience Segmentation: AIRA users can segment their subscriber lists and target specific audience segments based on various criteria, such as demographics, past behaviour, or engagement levels.
-- Automation: Mailchimp's automation features can be leveraged within AIRA workflows to set up automated email sequences, drip campaigns, and triggered emails based on user actions or events.
-- Analytics and Reporting: AIRA users can access Mailchimp's robust analytics and reporting capabilities to track the performance of their email campaigns, including open rates, click-through rates, and conversion metrics.
-- Subscriber Management: The integration allows for seamless management of subscriber lists, including adding, updating, and segmenting subscribers directly from AIRA.
+- **Email Campaign Management:** Users can create and manage email marketing campaigns directly within AIRA, utilising Mailchimp's intuitive campaign creation tools.
+- **Audience Segmentation:** AIRA users can segment their subscriber lists and target specific audience segments based on various criteria, such as demographics, past behaviour, or engagement levels.
+- **Automation:** Mailchimp's automation features can be used within AIRA workflows to set up automated email sequences, drip campaigns, and triggered emails based on user actions or events.
 
 ## Integrating AIRA with Mailchimp:
 - Below are the steps to integrate AIRA with Mailchimp:
