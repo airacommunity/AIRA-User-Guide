@@ -9,6 +9,12 @@ Forms in AIRA workflows play a crucial role in facilitating human-centric activi
 - **Human Activity Focus:** Form app is designed to cater to human-centric tasks within workflows.
 - **Data Collection Hub:** This app serves as a central hub for collecting and processing human-inputted data.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
 ## Relationship Between Form and Workflow
 When the Form module is incorporated into a workflow, it automatically triggers the creation of a corresponding case. Cases essentially function as sub-parts of the Form module, dedicated to capturing and processing data specific to the form. The data entered within the case corresponds to the respective form fields established within the workflow, establishing a smooth connection between human-driven interactions and the structured data collection process. This integral relationship ensures that the workflow progresses efficiently, using the captured data for further processing and automation.
 
