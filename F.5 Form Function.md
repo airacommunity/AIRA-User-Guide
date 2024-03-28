@@ -982,8 +982,8 @@ Empower your workflow with AIRA - Your Trusted Partner in Automation Solutions. 
 
 <table align="right" border="0">
     <tr>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">PREVIOUS</a></td>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">NEXT</a></td>
+      <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
 
@@ -993,9 +993,9 @@ Empower your workflow with AIRA - Your Trusted Partner in Automation Solutions. 
 
 <table border="0" align="center">
   <tr>
-    <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20web.png?raw=true" alt="Image 5" width="35" height="35"></a></td>
+    <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-website.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
     <td><a href="https://www.linkedin.com/company/aira-rpa/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20linkedin.png?raw=true" alt="Image 1" width="30" height="30"></a></td>
-    <td><a href="https://in.pinterest.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20pinterest.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
+    <td><a href="https://www.instagram.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-instagram.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
     <td><a href="https://www.youtube.com/channel/UCHHCcwQrx-_19sAhu-2R4ww"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20youtube.png?raw=true" alt="Image 3" width="30" height="30"></a></td>
     <td><a href="https://twitter.com/Aira_RPA"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20twitter.png?raw=true" alt="Image 4" width="30" height="30"></a></td>
     <td><a href="mailto:connect@aira.fr"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20gmail.png?raw=true" alt="Image 6" width="30" height="30"></a></td>
@@ -1004,3 +1004,4 @@ Empower your workflow with AIRA - Your Trusted Partner in Automation Solutions. 
 
 
 ![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
+
