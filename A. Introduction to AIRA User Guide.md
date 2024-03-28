@@ -48,6 +48,26 @@ To make things easy for you, the guide is set up in a way that lets you find wha
       <td align="center">6.</td>
       <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Workflow%20Creation%20Guide.md">Workflow Creation Guide</a></td>
     </tr>
+      <tr>
+      <td align="center">6.1.</td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Tools Explaination</a></td>
+    </tr>
+    <tr>
+      <td align="center">6.2</td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Variables Explaination</a></td>
+    </tr>
+    <tr>
+      <td align="center">6.3</td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">AIRA Apps</a></td>
+    </tr>
+    <tr>
+      <td align="center">6.4</td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Trigger Functions</a></td>
+    </tr>
+    <tr>
+      <td align="center">6.5</td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Form Functions</a></td>
+    </tr>
     <tr>
       <td align="center">7.</td>
       <td align="left"><a href="#Cases">Cases</a></td>
@@ -79,6 +99,18 @@ To make things easy for you, the guide is set up in a way that lets you find wha
     <tr>
       <td align="center">14.</td>
       <td align="left"><a href="#administration">Administration</a></td>
+    </tr>
+    <tr>
+      <td align="center">14.1</td>
+      <td align="left"><a href="#administration">Azure Configuration</a></td>
+    </tr>
+    <tr>
+      <td align="center">14.2</td>
+      <td align="left"><a href="#administration">Google Configuration</a></td>
+    </tr>
+    <tr>
+      <td align="center">14.3</td>
+      <td align="left"><a href="#administration">MailChimp Configuration</a></td>
     </tr>
   </tbody>
 </table>
