@@ -57,15 +57,14 @@ AIRA Hyper-automation platform is available as an On-premise Hyper-automation su
 
 <table align="right" border="0">
     <tr>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">PREVIOUS</a></td>
-        <td align="center" width = 200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md">NEXT</a></td>
+      <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
 
 <br>
 <br>
 <br>
-
 
 <table border="0" align="center">
   <tr>
