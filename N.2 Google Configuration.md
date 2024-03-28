@@ -2,14 +2,30 @@
 # Google Cloud Platform <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ## Overview
-Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google, providing a range of infrastructure and platform services for computing, storage, networking, machine learning, big data, and more. It's one of the leading cloud service providers globally, competing with other major players like Amazon Web Services (AWS) and Microsoft Azure. 
-Integrating Google Cloud services with AIRA can significantly enhance the capabilities of the platform, allowing for seamless access to a wide range of cloud-based resources and functionalities. 
+GCP stands for Google Cloud Platform, which is a suite of cloud computing services offered by Google. It provides various infrastructure and platform services for computing, storage, data analytics, machine learning, and more, allowing organisations to build, deploy, and scale applications and services on Google's infrastructure.
+
 
 <br>
 
 > <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
 
 <br>
+
+### Google API
+
+GCP API services refer to the application programming interfaces (APIs) provided by Google Cloud Platform for accessing and interacting with specific Google services, such as Google Sheets, Google Drive, Google Calendar, and Gmail. These APIs enable developers to integrate Google services into their applications, automate workflows, and access data stored in Google's cloud services programmatically.
+
+### GCP API In AIRA
+In AIRA, GCP API services are used to integrate Google services seamlessly into the AIRA platform, enhancing its functionality and enabling users to leverage the capabilities of Google's services within their workflows. 
+
+- **Google Sheets API:** Allows users to read, write, and manipulate data in Google Sheets directly from AIRA workflows, enabling automated data processing and analysis.
+
+- **Google Drive API:** Enables users to access files and folders stored in Google Drive, upload and download files, and manage permissions, facilitating document management and collaboration within AIRA workflows.
+
+- **Google Calendar API:** Allows users to create, update, and manage calendar events and schedules in Google Calendar, enabling automated scheduling and calendar management within AIRA workflows.
+
+- **Gmail API:** Facilitates sending and receiving emails, managing email threads, and accessing email metadata, enabling communication and email automation within AIRA workflows.
+
 
 ## Integrate AIRA With Google Cloud
 
@@ -38,7 +54,7 @@ Integrating Google Cloud services with AIRA can significantly enhance the capabi
 - Click on the continue.
 
 ### OAuth Consent Screen
-- Fill in the required information:
+- Fill in the required information
 - App information:
   - App name: Name of the app requesting consent.
   - User support email: Contact email for users with consent inquiries.
