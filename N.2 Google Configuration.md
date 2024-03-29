@@ -50,8 +50,8 @@ In AIRA, GCP API services are used to integrate Google services seamlessly into 
 ### OAuth consent Configuration 
 - Navigate to the "OAuth consent screen" tab in the "API and Services" section.
 - Choose the appropriate user type:
-- Internal: Only available to users within your organisation. No need for app verification.
-- External: Available to any test user with a Google Account. App starts in testing mode.
+  - Internal: Only available to users within your organisation. No need for app verification.
+  - External: Available to any test user with a Google Account. App starts in testing mode.
 - Click on the continue.
 
 ### OAuth Consent Screen
@@ -86,8 +86,8 @@ In AIRA, GCP API services are used to integrate Google services seamlessly into 
   - Desktop app: If your app runs on desktop or laptop computers.
 - Enter a name for your OAuth 2.0 client.
 - Add the authorised JavaScript origins and redirect URIs:
-  - Authorised JavaScript origins: URLs from which requests originate (e.g., http://localhost:3000).
-  - Authorised redirect URIs: URLs where OAuth responses can be sent after user authorization (e.g., http://localhost:3000/auth/callback).
+  - Authorised JavaScript origins: URLs from which requests originate.
+  - Authorised redirect URIs: URLs where OAuth responses can be sent after user authorization.
 - Click the "Create" button to generate the OAuth client ID and client secret.
 
 
