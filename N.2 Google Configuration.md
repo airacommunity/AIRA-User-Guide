@@ -30,8 +30,9 @@ In AIRA, GCP API services are used to integrate Google services seamlessly into 
 ## Integrate AIRA With Google Cloud
 
 ### Access Google Cloud Console:
-- Go to the Google Cloud Console at https://console.cloud.google.com/.
+- Go to the Google Cloud at https://cloud.google.com/.
 - Log in to the Google Cloud Integration service using your Google login credentials.
+- Go to the Google Cloud Console.
 
 ### Create or Select a Project:
 - Create a new one by clicking on the project dropdown menu at the top of the page and selecting "New Project."
