@@ -18,7 +18,7 @@ Welcome to the starting point of your AIRA journey! In this section, we'll guide
 The AIRA Sign-in options offer users flexibility and convenience in accessing the platform.
 
 **Common Admin Login:** Users can sign in with a unique User ID and Password for administrative access.
--   Enter the User ID and Password in the respected section.  
+-   Enter the Email-ID and Password in the respected section.  
 -   Click on the login button.
     
 **SSO Login:** Allows users to access with a single set of microsoft application login credentials, simplifying the login experience while ensuring security and reducing the need for multiple passwords.
