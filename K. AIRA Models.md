@@ -4,6 +4,13 @@
 ## Overiview
 An AIRA model refers to a computational framework designed within the AIRA platform to facilitate predictive analytics, automation, and intelligent decision-making. These models utilize various machine learning algorithms and data analysis techniques to process input data, generate insights, and produce actionable predictions.
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
+
 ### Key Components of an AIRA Model:
 
 - **Input Data:** AIRA models require input data, which can be in the form of structured datasets such as CSV, JSON, Excel files, or connected databases like Google Sheets, PostgreSQL, or MySQL. This data serves as the foundation for training and generating predictions.
@@ -12,70 +19,78 @@ An AIRA model refers to a computational framework designed within the AIRA platf
 - **Deployment:** After satisfactory performance during the prediction phase, the model can be deployed for operational use within the AIRA platform. Deployment involves providing a name for the model and confirming the deployment process.
 - **Integration:** Deployed models can be seamlessly integrated into various workflows and applications within the AIRA platform. They serve as powerful tools for automation, intelligence, and optimization, enhancing operational efficiency and decision-making processes.
 
-## How to Create AIRA Model ?
+## How to Create an AIRA Model
 
-- Navigate left navigation and click on the model, model window open.
-- In model section a search bar is availabe in it, with the help of search bar user can search previous uploaded or created models.
-- to create model click on the "Create New Model" button.
-- A pop-up window will appear where you can enter a name for your new model.
-- Click on the "Create New Model" button.
-- The first step is to connect the training dataset, click on the upload button. Model can take CSV or Excel Formate data set.
-- after selecting data set the data set table shown in Connect Training Data, Table shown the data distribution chart and data.
-- With Change button user can change  data set.
-- After connet the data set click on the next button to move forward.
-- Next section is model training, there are 2 section in it target and features. select thte target and feature of the data set. for trainin the model.
-- After selecting target and feature click on start training.
-- after start training, it shows the summary  of the model, top fields, and data set.
-- After training the data set click on the nextto mode forward
-- Fill in feature values to get predictive results.
-- user can use the "Upload" option to to upload feature for prediction.
-- Click on the subnit button for prediction
-- If satisfied with the prediction results, click on the "Deploy" button located below.
-- Provide an activating name and confirm deployment.
-- Your model is now deployed and ready for use in your AIRA workflows.
-- 
+1. **Navigate to Model Section:**
+   - Go to the left navigation menu and click on the "Model" option. This action will open the model window.
 
-### Step 1: naviigate left menu of aira and click on the model tab.
+2. **Search Existing Models (Optional):**
+   - In the model section, there is a search bar available. Use this search bar to find any previously uploaded or created models if needed.
 
-### Step 2: Add a New Model
-- Within the Model Section, locate and click on the "Add New Model" option.
-- A pop-up window will appear where you can enter a name for your new model.
-- Click on the "Create New Model" button.
+3. **Create a New Model:**
+   - To create a new model, click on the "Create New Model" button.
 
-### Step 3: Connect Training Dataset
-- Upon clicking, a new window will open, initiating the new model creation workflow.
-- The first step is to connect the training dataset.
-- Choose from multiple options:
-  - Table: Upload CSV, Json, or Excel data types.
-  - Google Sheets, PostgreSQL, MySQL: (Note: In Progress)
-  - For the "Table" option, a new window will open where you can drag and drop the dataset. Use the search bar to find and connect previous datasets.
-  - Once attributes are correctly uploaded, click the "Next" button to complete the data connection process.
+4. **Enter Model Name:**
+   - A window will appear prompting you to enter a name for your new model. Provide a descriptive name for your model.
 
-### Step 4: Model Training
-- Proceed to the model training phase.
-- Two options available: "Target" and "Features."
-- In "Target," select the final output to predict. In "Features," choose predictive features.
-- Click on "Start Training" to initiate the model training process.
-- After completion, a summary of the training dataset, including accuracy percentage, will be displayed.
+5. **Confirm Model Creation and Open:**
+   - Click on the "Create New Model" button to confirm the creation of your model.
+   - Search for the model by its name in the model section and click on it to open.
 
-### Step 5: Training Summary
-- The summary section presents AI algorithm details, accuracy percentage, RMSE (Root Mean Square Error), and MAE (Mean Absolute Error) values.
-- Another summary section highlights the top fields contributing to predictions and their data distribution.
-- The last summary section provides a comparison sheet between Actual and Predicted Values.
+6. **Connect Training Dataset:**
+   - The first step is to connect the training dataset. Click on the upload button and select your dataset. AIRA models accept datasets in CSV or Excel format.
+   - After selecting the dataset, the data distribution chart and data table will be shown in the "Connect Training Data" section.
+   - After uploading data set, user can change the data type of columns in (Numberic, Date Time, ID , Text, Categorical Etc)
+   - If needed, you can change the dataset by clicking on the "Change" button.
 
-### Step 6: Model Prediction
-- Clicking "Next" opens the model prediction section.
-- Fill in feature values to get predictive results.
+7. **Proceed to Model Training:**
+   - After connecting the dataset, click on the "Next" button to move forward.
+   - In the model training section, identify the target and features of the dataset for training the model.
 
-Use the "Upload" option to predict datasets by uploading CSV, JSON, or Excel files.
+8. **Start Training:**
+   - Once you have selected the target and features, click on the "Start Training" button to begin the model training process.
 
-### Step 7: Model Deployment
-- If satisfied with the prediction results, click on the "Deploy" button located below.
-- Provide an activating name and confirm deployment.
-- Your model is now deployed and ready for use in your AIRA workflows.
+9. **Review Model Summary:**
+   - After training, a summary of the model, top fields, and dataset will be displayed.
 
-### Step 8: Model Integration
-- Utilise the deployed model seamlessly in various workflows within the AIRA platform.
-- Enjoy the benefits of predictive analytics and enhanced automation using your newly created model.
+10. **Fill in Feature Values for Prediction:**
+    - To get predictive results, fill in feature values. You can upload feature values using the "Upload" option.
+
+11. **Submit Prediction:**
+    - After filling in the feature values, click on the "Submit" button for prediction.
+
+12. **Deploy the Model:**
+    - If satisfied with the prediction results, Provide an activity name and click on the "Deploy" button located below.
+
+13. **Model Deployment Confirmation:**
+    - Your model is now deployed and ready for use in your AIRA workflows.
+
 
 As we wrap up this section, envision with me the transformative power that models bring to AIRA. The knowledge gained here sets the stage for us to leverage models as catalysts for automation, intelligence, and operational excellence within your AIRA-driven workflows.
+
+----
+
+<table align="right" border="0">
+    <tr>
+      <td align="center"><a href=""><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href=""><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-website.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
+    <td><a href="https://www.linkedin.com/company/aira-rpa/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20linkedin.png?raw=true" alt="Image 1" width="30" height="30"></a></td>
+    <td><a href="https://www.instagram.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-instagram.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
+    <td><a href="https://www.youtube.com/channel/UCHHCcwQrx-_19sAhu-2R4ww"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20youtube.png?raw=true" alt="Image 3" width="30" height="30"></a></td>
+    <td><a href="https://twitter.com/Aira_RPA"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20twitter.png?raw=true" alt="Image 4" width="30" height="30"></a></td>
+    <td><a href="mailto:connect@aira.fr"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20gmail.png?raw=true" alt="Image 6" width="30" height="30"></a></td>
+  </tr>
+</table>
+
+
+![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
