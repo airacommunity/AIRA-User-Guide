@@ -68,6 +68,142 @@ An AIRA model refers to a computational framework designed within the AIRA platf
 
 As we wrap up this section, envision with me the transformative power that models bring to AIRA. The knowledge gained here sets the stage for us to leverage models as catalysts for automation, intelligence, and operational excellence within your AIRA-driven workflows.
 
+## How to upload Model In AIRA
+
+As an example, let's consider a linear regression model that takes two input features, "one" and "two", and returns an output value based on these inputs. 
+
+**Create File:** Serialise your trained machine learning model into a pickle/folder/json/pdf file, In this example we are creating a pickle file. This file will allow you to save and load your model within the AIRA platform.
+
+**Create Main.py:** Within the zip file, include a main.py file. This file will serve as the entry point for running your model within the AIRA platform.
+
+### Steps To Creating "main.py" File - Related to Current Example
+
+#### Step 1 : Import Dependencies
+
+Within the main.py file, import all the necessary dependencies required for your machine learning model.
+
+```
+# For Current Example
+
+import numpy as np
+import pickle
+import argparse
+import base64
+import json
+
+```
+#### Step 2 : Define Prediction Function
+
+In the main.py file, create a function named predict that takes input features and the path to the model as arguments.
+
+```
+
+def predict(inp_features, model_path):
+   
+    # Load the trained model from the pickle file
+    model = pickle.load(open(model_path, 'rb'))
+    
+    # Perform prediction on the input features
+    prediction = model.predict(inp_features)
+    
+    # Round the prediction to two decimal places
+    output = round(prediction[0], 2)
+    
+    # Print the output value
+    print(output)
+    
+    # Return the predicted output
+    return output
+
+```
+**Explanation**
+
+* The predict function takes two arguments: inp_features, which represents the input features for prediction, and model_path, which specifies the path to the trained model file.
+
+* It loads the trained machine learning model from the specified pickle file using the pickle.load() function.
+
+* Then, it performs prediction on the input features using the loaded model and stores the result in the prediction variable.
+
+* The predicted value is rounded to two decimal places using the round() function and stored in the output variable.
+
+* The predicted output is printed to the console using the print() function.
+
+* Finally, the predicted output is returned from the function.
+
+#### Step 3 : Entry Point Function
+
+In the main.py file, create a function named outputs that serves as the entry point of the script.
+
+```
+def output():
+    # Parse command-line arguments
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-i", "--input", required=True, help="Input Feature JSON")
+    ap.add_argument("-m", "--mpath", required=True, help="Path to Model")
+    args = vars(ap.parse_args())
+
+    # Decode and parse the input JSON
+    input_passed_encoded = args['input']
+    input_passed_decoded = base64.b64decode(input_passed_encoded).decode('utf-8')
+    input_passed_decoded_dict = json.loads(input_passed_decoded)
+    input_passed_decoded_dict = next(iter(input_passed_decoded_dict.values()))
+    input_passed_decoded_dict = json.loads(input_passed_decoded_dict)
+
+    # Extract input features in the required order
+    feature_ordered_list = ["one", "two"]
+    input_list = [input_passed_decoded_dict[i] for i in feature_ordered_list]
+
+    # Load the model and make predictions
+    model_path = args['mpath'] + 'model.pkl'
+    predict([input_list], model_path)
+
+```
+**Explanation**
+
+* The output function is defined to handle the main execution logic of the script.
+
+* It starts by setting up command-line argument parsing using the argparse module, defining two required arguments: -i for input feature JSON and -m for the path to the model.
+
+* Command-line arguments are parsed and stored in the args dictionary using the vars() function.
+
+* The input feature JSON is decoded from base64 encoding and parsed into a Python dictionary using the base64 and json modules.
+
+* The input features are extracted from the dictionary in the required order specified by feature_ordered_list.
+
+* The path to the model file is constructed by appending 'model.pkl' to the specified model directory path.
+
+* Finally, the predict function is called with the input features and model path to make predictions.
+
+#### Step 4 : Condition for Main Function Call
+
+Below the definition of the main function, add a conditional statement to check if the script is being run directly as the main module.
+
+```
+if __name__ == "__main__":
+    output()
+
+```
+**Explanation:**
+
+* The if __name__ == "__main__": statement checks if the script is being executed directly by the Python interpreter as the main module.
+
+* If the condition is True, indicating that the script is the main module, the output() function is called to initiate the execution of the script.
+
+* This conditional statement ensures that the output() function is only called when the script is executed directly, not when it is imported as a module into another script.
+
+**Purpose:**
+
+* By wrapping the call to the output() function inside this conditional statement, you ensure that the script's main functionality is executed only when the script is run directly.
+
+* This allows the script to be reusable and importable as a module in other scripts without automatically triggering its main functionality.
+
+#### Step 5 : Packaging Main Script and Model File
+
+With the main.py script finalised and the model file containing the trained model, both files are bundled together into a single zip archive for easy distribution and deployment.
+
+This point highlights the action of packaging both the script and the model into a convenient zip file, ensuring that they can be easily transported, shared, and deployed across different environments or systems.
+
+#### Step 6 : Steps To Upload Model In AIRA
 ----
 
 <table align="right" border="0">
