@@ -77,8 +77,8 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 <table align="right" border="0">
     <tr>
-      <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
-      <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Getting%20Started%20with%20AIRA.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Workflow%20Creation%20Guide.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
 
