@@ -334,6 +334,9 @@ service nginx restart
     ```
     https://127.0.0.1:8888
     ```
+----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
 
 ----
 
