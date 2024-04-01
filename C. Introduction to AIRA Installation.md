@@ -32,6 +32,9 @@ Once the server setup is complete, the next step is to install AIRA. For the ins
   </tbody>
 </table>
 
+----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
 
 ----
 
