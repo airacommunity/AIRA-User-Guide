@@ -247,6 +247,10 @@ The following describes the primary target audience along with specific objectiv
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+----
+
 
 <table align="right" border="0">
     <tr>
