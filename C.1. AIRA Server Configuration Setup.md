@@ -473,6 +473,11 @@ Adjusts the SELinux boolean to allow the Apache HTTP Server (`httpd`) to make ne
 ```
 setsebool -P httpd_can_network_connect 1
 ```
+
+----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
 ----
 
 <table align="right" border="0">
