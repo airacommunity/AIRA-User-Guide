@@ -18,7 +18,7 @@ Welcome to the starting point of your AIRA journey! In this section, we'll guide
 The AIRA Sign-in options offer users flexibility and convenience in accessing the platform.
 
 **Common Admin Login:** Users can sign in with a unique User ID and Password for administrative access.
--   Enter the Email-ID and Password in the respected section.  
+-   Enter the User-ID and Password in the respected section.  
 -   Click on the login button.
     
 **SSO Login:** Allows users to access with a single set of microsoft application login credentials, simplifying the login experience while ensuring security and reducing the need for multiple passwords.
@@ -59,12 +59,116 @@ The interface has 10 sections on the left, each serving a specific purpose for h
 
 When you first access AIRA's user interface, your attention is drawn to the top right corner, where four significant options await your exploration.
 
-**Support and Documentation**
+#### Support and Documentation
 
--   **Help and Support:** Clicking on this option redirects you to AIRA's customer support page, offering assistance for any queries or issues you might encounter.
-    
--   **Documentation:** For a deeper understanding of AIRA's functionalities, the Documentation link provides access to the comprehensive user guide.
-    
+#### Help and Support
+
+Clicking on this option redirects you to AIRA's customer support page, offering assistance for any queries or issues you might encounter.
+
+<table>
+  <tr>
+    <th colspan="2">Sections</th>
+  </tr>
+  <tr>
+    <th>Section</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Search Bar</td>
+    <td>A search bar is placed at the top right-hand corner for "What can we help you find?"</td>
+  </tr>
+  <tr>
+    <td>I'M Having Trouble With</td>
+    <td>
+      <p>Clicking on this section allows you to report the specific issue you are facing. A query form will open with the following options:</p>
+      <ul>
+        <li><strong>Name:</strong> [Your Name]</li>
+        <li><strong>Issue Summary Title:</strong> [Brief summary of the issue]</li>
+        <li><strong>Category:</strong> [Category of the issue]</li>
+        <li><strong>Priority:</strong>
+          <ul>
+            <li>Critical</li>
+            <li>High</li>
+            <li>Medium</li>
+          </ul>
+        </li>
+        <li><strong>Description of Issue:</strong> [Detailed description of the issue]</li>
+      </ul>
+      <p>After filling out all the information, click on submit to raise the issue. Our support executive will contact you as soon as possible.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>I would like to Learn</td>
+    <td>
+      <p>In this section, you can learn about:</p>
+      <ul>
+        <li>Digital agents</li>
+        <li>Jobs</li>
+        <li>IDP (Identity Provider)</li>
+        <li>Models</li>
+        <li>Orchestrator</li>
+        <li>Reports</li>
+        <li>And lots more.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>I'd Like to Upgrade</td>
+    <td>
+      <p>In this section, you can find upgrade options and support related to:</p>
+      <ul>
+        <li>License</li>
+        <li>Connections</li>
+        <li>Administration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+#### Documentation:
+
+For a deeper understanding of AIRA's functionalities, the Documentation link provides access to the comprehensive user guide.
+
+<table width="100%">
+  <tr>
+    <th colspan="2">Sections</th>
+  </tr>
+  <tr>
+    <th>Section</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>I would like to Learn</td>
+    <td>
+      <p>In this section, you can learn about:</p>
+      <ul>
+        <li>Digital agents</li>
+        <li>Jobs</li>
+        <li>IDP (Identity Provider)</li>
+        <li>Models</li>
+        <li>Orchestrator</li>
+        <li>Reports</li>
+        <li>And lots more.</li>
+      </ul>
+      <p>Feel free to explore by clicking on any of the options above to dive into the corresponding documentation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>I'd Like to Upgrade</td>
+    <td>
+      <p>In this section, you can find documentation related to:</p>
+      <ul>
+        <li>License</li>
+        <li>Connections</li>
+        <li>Administration</li>
+      </ul>
+      <p>Feel free to explore by clicking on any of the options above to dive into the corresponding documentation.</p>
+    </td>
+  </tr>
+</table>
+
+
 **Mode**
 
 This functionality allows you to customise your visual experience. You can smoothly switch between Dark and Light modes, ensuring a comfortable and personalised interface.
@@ -85,15 +189,16 @@ AIRA understands the importance of language diversity. With support for six diff
     - Contact Number
     - Country
     - Email ID
-
-    
-
-  
+    <br>
+    After filling out all the information, click on submit to save the profile setting.
 
 -   **Settings**: Clicking on Settings navigates you to the administration section of AIRA, where you can fine-tune configurations based on your preferences. To learn more about the Administration and explore further insights, visit the [Administration]() section.
     
 -   **Logout:** For a secure exit, the Logout button is available, ensuring your account remains protected.
     
+----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
 
 ----
 
