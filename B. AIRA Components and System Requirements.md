@@ -54,6 +54,10 @@ AIRA Hyper-automation platform is available as an On-premise Hyper-automation su
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+----
+
 
 <table align="right" border="0">
     <tr>
