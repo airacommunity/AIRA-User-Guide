@@ -73,6 +73,13 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 **Functionality:** Users can track and monitor the progress of specific workflows, facilitating informed decision-making.
 
+- User can select row per page for the job list table
+- with the help of arrow button user can shift to next or previous page of the job list table
+
+----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
 ---
 
 <table align="right" border="0">
