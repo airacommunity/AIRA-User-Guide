@@ -187,7 +187,6 @@ In this user guide, you'll get a deep dive into all of AIRA's features, from the
 |---------------------------|---------------------------------------------------------------------------------------------------|
 | Onboarding Assistance     | Provides step-by-step instructions for new users to navigate and utilize the AIRA platform.       |
 | Functional Understanding | Helps users comprehend the features and capabilities of AIRA, enabling them to use its full potential. |
-| Troubleshooting and Support | Offers solutions to common problems and guidance on resolving technical issues.                   |
 | Best Practices and Tips  | Provides recommendations for optimizing user experience and achieving optimal results with AIRA. |
 | Continuous Learning       | Serves as a resource for ongoing skill development and exploration of advanced features.          |
 
