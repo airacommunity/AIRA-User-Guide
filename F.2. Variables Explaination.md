@@ -38,6 +38,9 @@ In AIRA, custom variables are user-defined variables created within the Variable
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+---
 
 <table align="right" border="0">
     <tr>
