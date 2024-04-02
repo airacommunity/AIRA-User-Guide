@@ -108,6 +108,10 @@ In AIRA, GCP API services are used to integrate Google services seamlessly into 
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+---
+
 
 <table align="right" border="0">
     <tr>
