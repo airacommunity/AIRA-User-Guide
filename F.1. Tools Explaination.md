@@ -263,7 +263,9 @@ The "Wait" tool enables users to specify a duration of time for the workflow to 
    - **Trigger:** Set triggers on the "Wait" tool to initiate actions based on specified conditions or events.
    - **Delete Module:** Permanently delete the "Wait" tool from the workflow if it's no longer needed.
 
+----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
 
 ----
 
