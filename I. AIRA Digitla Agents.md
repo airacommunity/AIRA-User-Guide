@@ -36,6 +36,10 @@ Whether you are searching for specific bots, downloading them for specific tasks
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+---
+
 <table align="right" border="0">
     <tr>
       <td align="center"><a href=""><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
