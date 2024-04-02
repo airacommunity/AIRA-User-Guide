@@ -193,6 +193,9 @@ In summary, the guide outlines a comprehensive process for setting up Single Sig
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+---
 
 <table align="right" border="0">
     <tr>
