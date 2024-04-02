@@ -139,38 +139,38 @@ Adjacent to the Module section in the AIRA Workflow Console, users encounter an 
      - **Day of the Month**
      - **Specified Date**
   
-  3. **At Regular Interval**:
-     - Select the interval type: Hours or minutes.
-     - Specify the interval duration.
-     - Enter the start and end dates for the scheduled execution.
-     - Click the OK button to confirm.
-  
-  4. **Once**:
-     - Select the specific date for the execution.
-     - Click the OK button to confirm.
-  
-  5. **Every Day**:
-     - Enter the time of day for the execution.
-     - Specify the start and end dates.
-     - Click the OK button to confirm.
-  
-  6. **Day of the Week**:
-     - Enter the day of the week when the workflow should run (e.g., Monday, Tuesday, etc.).
-     - Specify the time of day.
-     - Set the start and end dates.
-     - Click the OK button to confirm.
-  
-  7. **Day of the Month**:
-     - Choose the day of the month for execution.
-     - Specify the time.
-     - Set the start and end dates.
-     - Click the OK button to confirm.
-  
-  8. **Specified Date**:
-     - Select the month and day for execution.
-     - Enter the time.
-     - Specify the start and end dates.
-     - Click the OK button to confirm.
+      1. **At Regular Interval**:
+         - Select the interval type: Hours or minutes.
+         - Specify the interval duration.
+         - Enter the start and end dates for the scheduled execution.
+         - Click the OK button to confirm.
+      
+      2. **Once**:
+         - Select the specific date for the execution.
+         - Click the OK button to confirm.
+      
+      3. **Every Day**:
+         - Enter the time of day for the execution.
+         - Specify the start and end dates.
+         - Click the OK button to confirm.
+      
+      4. **Day of the Week**:
+         - Enter the day of the week when the workflow should run (e.g., Monday, Tuesday, etc.).
+         - Specify the time of day.
+         - Set the start and end dates.
+         - Click the OK button to confirm.
+      
+      5. **Day of the Month**:
+         - Choose the day of the month for execution.
+         - Specify the time.
+         - Set the start and end dates.
+         - Click the OK button to confirm.
+      
+      6. **Specified Date**:
+         - Select the month and day for execution.
+         - Enter the time.
+         - Specify the start and end dates.
+         - Click the OK button to confirm.
       
 - **Zoom In/Out Buttons**: These buttons provide users with the flexibility to zoom in or out of the workflow, facilitating a more detailed or comprehensive view.
     - **Usage Instructions:** Simply click on the zoom In/Out button to initiate.
@@ -219,6 +219,10 @@ In the top-right corner of the AIRA Workflow Console, five buttons provide users
 - **Monitor and Iterate:** Monitor the workflow's performance over time and make adjustments as needed. Iterate on the workflow design to optimise efficiency and address any issues that arise during operation.
 
 ----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+---
 
 <table align="right" border="0">
     <tr>
