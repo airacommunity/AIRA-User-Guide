@@ -33,7 +33,6 @@ AIRA reports are essential tools within the AIRA platform, providing visualized 
 #### Query Builder
 
 1. **Create or Select Data Set:**
-- Begin by creating or selecting a data set that forms the basis of your report.
 - Select table users want to use to visualize.
 
 2. **Join Tables:**
@@ -89,25 +88,29 @@ AIRA reports are essential tools within the AIRA platform, providing visualized 
 - Exclude results falling within a specified range using the "Where Not Between" option.
 - Choose the column and provide range values (from and to).
 
+12. **Submit the Data source:**
+- After selecting data click "Submit" to submit the data source.
+
 #### Query Statement:
-- When using the Query Statement option in AIRA's Report section, you have the flexibility to write SQL queries to extract data based on your specific requirements. Here are examples of SQL queries for common data extraction scenarios:
+When using the Query Statement option in AIRA's Report section, you have the flexibility to write SQL queries to extract data based on your specific requirements. Here are examples of SQL queries for common data extraction scenarios:
 
-  **Example 1:** Basic Data Retrieval
+  **Example :** Basic Data Retrieval
+  
+    ```
+      SELECT * FROM Table_Name;
+    ```
+  **Submit the Data source:**
+  - After wrting the SQL query, click "Submit" to submit the data source.
 
-  ```
-    SELECT * FROM employees;
-  ```
 
 ### Configure Graph and Style:
-- Choose the style of the graph.
-- Set up the style preferences.
-- Customize the chart style.
+- User can Set up the style preferences and customize the chart style.
+  - Setup : With this option user can select the graph type for the visualisation.
+  - Customise : User can customise the chart style with this option.
 
-### Add New Chart (Optional):
-- Use the "Add New Chart" button at the top to add more charts to the report.
 
-### Submit the Report:
-- After selecting data and defining the graph style, click "Submit" to create the report.
+
+
 
 
 
