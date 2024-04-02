@@ -23,7 +23,7 @@ The Intelligent Document Processing (IDP) module within the workflow plays a piv
 ### 2. Create New Learning Instance
 
   - To create a new instance, locate and click the "Add New Instance" button in the learning Instance window.
-  - In the "Learning Instance Name" section, assign a unique and name to your instance.
+  - In the "Learning Instance Name" section, assign a unique name to your instance.
   - Find the "Drop File" section below the "Learning Instance Name." Upload files into this section by dragging and dropping or browsing. Supported file formats include JPG, JPEG, PNG, and PDF.
   - Click on "Create" to initiate the instance creation process.
 
@@ -47,6 +47,8 @@ The Intelligent Document Processing (IDP) module within the workflow plays a piv
 - In the "Field Name" section, specify the actual field name you are looking for.
 - Click on the "Add" button to apply the new fields.
 - Finally, click on the "Extract Data" button to extract all the fields.
+- Add Custom Rule if data is not extracted properly.
+
 
 #### Add Custom Rule
 
@@ -83,7 +85,7 @@ In the event that some data is not extracted or errors occur during the data ext
 
 ### 5. Extract Table
 
-- Beneath the "Extract Data" section, locate the "Table Extraction" section.
+- Beneath the "Extract Data" section, locate the "Extract Table" section.
 - Click on the "Extract Table" button within the Table Extraction section.
 - A new window will appear, displaying the extracted table on the right side.
 - Navigate to the right section of the window and click on the table of interest.
