@@ -167,7 +167,7 @@ The License section encompasses essential details about your AIRA licence. This 
 
 **Transaction Graph** : On the right-hand side of the License Management section, a transaction graph is featured. This graph visually represents the total number of transactions based on either the year or month selection. This graphical representation offers a quick overview of transaction trends over time.
 
-#### Integration Service
+### Integration Service
 AIRA Integration Service enables seamless connectivity with external platforms, empowering users to incorporate the functionalities of various third-party services into automation workflows. Through integration, users can use the capabilities of external platforms within the AIRA ecosystem, enhancing productivity and efficiency.
 
 **Integration Activation:**
@@ -210,7 +210,7 @@ Mailchimp Integration with AIRA facilitates seamless integration of Mailchimp's 
 
 To configure the integration with the platform, detailed [documentation](url) is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
 
-#### System Configuration
+### System Configuration
 
 The System Configuration section in AIRA provides a comprehensive view of both system and personal information. This section is essential for understanding the underlying infrastructure of the AIRA platform and customising personal details. Here's a detailed guide on how to navigate and utilise the System Configuration feature:
 System Information
@@ -281,9 +281,37 @@ System Information
 
 You can Edit the Title, Logo Light, Logo Dark, Favicon, and Monogram based on preferences and save the changes.
 
-#### Master Data Management
+### Master Data Management
 
 Master Data Management (MDM) in AIRA allows users to create and manage tables that can be utilised in report creation. The MDM section consists of two main options: Tables and Report Tables. Here's a step-by-step guide on how to navigate and use these features:
 
 **Table Section**
+
+The Table Section in Aira serves the purpose of both data creation and upload. These tables play a pivotal role in generating reports and facilitating automation processes.
+
+- Navigate to Administration and select "Master Data Management."
+- Upon entering the Tables section, various tables are displayed, showcasing pertinent information such as Table Name, Total Records, Created at, and available Actions.
+- Two primary actions are available: Delete and View.
+  - **Delete:** Utilized for removing a table.
+  - **View:** Allows users to inspect the table's data.
+- Utilize the search bar positioned at the top right to swiftly locate specific tables.
+- Next to the search bar, users can find the "Upload Table" option.
+- Tables in PMT format can be conveniently uploaded via drag-and-drop or browsing.
+
+**Adding a New Table**
+
+- Click on the "Add Table" button to initiate the process.
+- Provide essential details such as Table Name and Description.
+- Utilize the "Add Column" option to specify column details including Column Name, Column Label, Data Type, Size, Null, Auto Increment, Index, Unique, Primary Key, Foreign Key, Reference Table, Reference Column, and available Actions.
+- Upon defining all columns, click "Create" to finalize the table creation.
+
+**Viewing Table Details**
+
+- Click on the View button to access detailed information about the table.
+- A search bar is available above the detailed table for streamlined data exploration.
+- Import and export CSV options are positioned adjacent to the search bar, facilitating data management.
+- The View Schema button, located next to the Import/Export options, provides insights into the table's schema.
+
+**Report Table**
+The "Report table" section facilitates the creation of table-formatted representations from workflow variables.
 
