@@ -315,3 +315,64 @@ The Table Section in Aira serves the purpose of both data creation and upload. T
 **Report Table**
 The "Report table" section facilitates the creation of table-formatted representations from workflow variables.
 
+**1. Viewing and Deleting Existing Tables:**
+
+- Navigate to the Report Tables section.
+- Existing tables will be displayed.
+- To view a table, click on "View Table." This allows users to see complete information about each report table.
+- To delete a table, click on "Delete Table." This action removes the complete table and its associated data.
+
+**Searching for Specific Report Tables:**
+Utilize the search bar provided to find specific report tables quickly.
+
+**Adding a New Report Table:** 
+- Click on the "Add Table" button.
+- In the new interface, provide a title for the table.
+- Specify the following:
+  - Jobs (Workflows)
+  - Variable Type (Global or Grid)
+  - If Grid is selected, choose Grid Type
+  - Variable.
+- Under the "Variable" section, define the following:
+  - Primary Key
+  - Foreign Key
+  - Reference Table
+  - Reference Column
+  - Action (For deleting Variable).
+- Click "Create" to finalize the report table creation.
+
+<br>
+
+As we conclude the Administration section, envision the impact of proficient administration in fostering excellence and ensuring the sustained success of your AIRA initiatives.
+
+----
+
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+----
+
+
+<table align="right" border="0">
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-website.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
+    <td><a href="https://www.linkedin.com/company/aira-rpa/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20linkedin.png?raw=true" alt="Image 1" width="30" height="30"></a></td>
+    <td><a href="https://www.instagram.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-instagram.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
+    <td><a href="https://www.youtube.com/channel/UCHHCcwQrx-_19sAhu-2R4ww"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20youtube.png?raw=true" alt="Image 3" width="30" height="30"></a></td>
+    <td><a href="https://twitter.com/Aira_RPA"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20twitter.png?raw=true" alt="Image 4" width="30" height="30"></a></td>
+    <td><a href="mailto:connect@aira.fr"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20gmail.png?raw=true" alt="Image 6" width="30" height="30"></a></td>
+  </tr>
+</table>
+
+
+![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
