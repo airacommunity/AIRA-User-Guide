@@ -33,7 +33,7 @@ In AIRA, SFTP plays a crucial role in securely uploading files to remote systems
 
 **Additional Options:**
 
-Right-click on the "Trigger Activity" app in the AIRA Designer workflow to access additional options:
+Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
 - Setting: Access and modify the settings of the app.
