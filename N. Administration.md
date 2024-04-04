@@ -198,7 +198,7 @@ AIRA Integration Service enables seamless connectivity with external platforms, 
   </tr>
 </table>
 
-**Google Integration COnfiguration**
+**Google Integration Configuration**
 
 Google Integration with AIRA enables users to integrate Google's suite of productivity tools and services seamlessly into their automation workflows. By connecting with Google, users can access services such as Google Drive, Google Sheets, Gmail, Google Calendar, and more directly within the AIRA platform. This integration streamlines collaboration, data management, communication, and task automation, allowing users to leverage Google's powerful tools to enhance productivity and efficiency.
 
