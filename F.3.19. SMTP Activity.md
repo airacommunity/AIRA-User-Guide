@@ -65,6 +65,16 @@ By configuring SMTP settings within AIRA workflow, users can set up triggers or 
 - Once all settings have been configured according to your requirements, review them to ensure accuracy.
 - Click the submit button located below the configuration window to save the settings for sending the email.
 
+**Additional Options:**
+
+Right-click on the "Trigger Activity" app in the AIRA Designer workflow to access additional options:
+
+- Unlink: Disconnect the app from any connected apps or tools in the workflow.
+- Setting: Access and modify the settings of the app.
+- Rename: Change the name of the apps for better organization.
+- Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
+- Delete Module: Permanently delete the app from the workflow if it's no longer needed.
+
 ----
 
 > To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
