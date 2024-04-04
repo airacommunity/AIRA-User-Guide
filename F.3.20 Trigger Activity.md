@@ -10,7 +10,6 @@ Triggers within AIRA workflow provide a means to apply specific business logic b
 
 <br>
 
-
 ### Creating Universal Triggers Using the App Section in AIRA Workflow
 
 - Open the AIRA workflow platform.
@@ -24,6 +23,15 @@ Triggers within AIRA workflow provide a means to apply specific business logic b
 - Place the created trigger within the workflow according to your desired placement.
 - Connect the trigger block to other workflow components as needed.
 
+**Additional Options:**
+
+Right-click on the "Trigger Activity" app in the AIRA Designer workflow to access additional options:
+
+- Unlink: Disconnect the app from any connected apps or tools in the workflow.
+- Setting: Access and modify the settings of the "trigger" app.
+- Rename: Change the name of the apps for better organization.
+- Trigger: Set triggers on the trigger app to initiate actions based on specified conditions or events.
+- Delete Module: Permanently delete the trigger app from the workflow if it's no longer needed.
 
 ### App-Specific Trigger Setup within AIRA Workflow
 
