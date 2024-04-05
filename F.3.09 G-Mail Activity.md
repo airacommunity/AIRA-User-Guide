@@ -1,6 +1,12 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 # Gmail Acctivity  <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
+<br>
+
+> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-caution.jpg?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+
+<br>
+
 Thank you for your interest in this section of our website. We're currently in the process of enhancing its content to better serve your needs. Please bear with us as we work diligently to bring you the most valuable information and resources.
 
 Your patience during this time is greatly appreciated. Rest assured, we're committed to providing you with a comprehensive and informative experience as soon as possible.
