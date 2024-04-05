@@ -1,6 +1,8 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 # Google Calendar Activity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
+## Overview
+
 The Google Calendar app in AIRA is a tool used to interact with Google Calendar directly within workflows. It provides features such as retrieving and searching calendar events, enabling users to automate tasks related to calendar management.
 
 ## Use of Get Calendar Event App in AIRA Workflow:
