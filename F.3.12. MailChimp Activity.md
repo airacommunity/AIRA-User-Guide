@@ -109,15 +109,15 @@ The "Perform a Campaign Action" app in AIRA Mailchimp enables users to execute v
 -   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp.
 -   Provide the campaign ID of the campaign on which you want to perform the action. This information can be manually entered or dynamically populated using variables.
 -   Choose the action you want to apply to the campaign from the available options:
-  -   Cancel a campaign
-  -   Send a campaign
-  -   Schedule a campaign
-  -   Unschedule a campaign
-  -   Pause a RSS driven campaign
-  -   Resume a RSS driven campaign
-  -   Replicate a campaign
-  -   Send a test email
-  -   Resend a campaign
+      -   Cancel a campaign
+      -   Send a campaign
+      -   Schedule a campaign
+      -   Unschedule a campaign
+      -   Pause a RSS driven campaign
+      -   Resume a RSS driven campaign
+      -   Replicate a campaign
+      -   Send a test email
+      -   Resend a campaign
 -   Click the submit button to save the settings and initiate the selected action on the campaign.
     
 
