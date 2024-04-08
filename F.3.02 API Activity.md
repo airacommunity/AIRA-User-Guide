@@ -13,11 +13,8 @@ The API Authentication app in AIRA facilitates secure access to external APIs by
 ### Use in AIRA
 
 -   Both apps play crucial roles in integrating AIRA workflows with external systems and services.
-    
 -   The API Call app enables the execution of API requests to perform various operations, such as fetching data from external sources or updating remote resources.
-    
 -   The API Authentication app ensures secure communication with external APIs by handling authentication protocols, thereby safeguarding sensitive data and resources.
-    
 -   Together, these apps empower users to automate complex processes, interact with external systems, and leverage the capabilities of external APIs within AIRA workflows.
     
 <br>
@@ -30,105 +27,56 @@ The API Authentication app in AIRA facilitates secure access to external APIs by
 
 
 -   Navigate to the API App in the AIRA app section.
-    
 -   Click on API, where you'll find two options: API Authentication and API Call.
-    
 -   Drag and drop the API call app into the AIRA workflow designer.
-    
 -   Connect the app to the desired location within the workflow.
-    
 -   Double-click on the app to open the app setting.
-    
 -   Select the method of API authentication: GET, PUT, POST, or PATCH.
-    
 -   Insert the URL. You can use variables to dynamically populate the URL.
-    
 -   Insert the parameter, header, and body. Variables can also be used to fill these details.
-    
 -   Choose the type of authorization for the API. Options include:
-    
-
--   No authorization
-    
--   API key
-    
--   Basic authorization
-    
--   OAuth 2.0
-    
-
+    -   No authorization
+    -   API key
+    -   Basic authorization
+    -   OAuth 2.0
 -   Select the accepted format: JSON, XML, JavaScript, Form, or PDF.
-    
 -   Insert token, username, password, key, and value. Variables can be used to insert these details.
-    
 -   Click on the submit button to save.
     
-
 **Additional Options:**
 
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
-
-  
 
 ### To use API Authentication in AIRA, follow these steps:
 
 
 -   Navigate to the API App in the AIRA app section.
-    
 -   Click on API, where you'll find two options: API Authentication and API Call.
-    
 -   Drag and drop the API Authentication app into the AIRA workflow designer.
-    
 -   Connect the app to the desired location within the workflow.
-    
 -   Double-click on the app to open the app settings.
-    
 -   Select the method of API authentication: GET, PUT, POST, or PATCH
-    
-
--   GET: Retrieve data from the server.
-    
--   PUT: Update or replace existing server resources.
-    
--   POST: Create new resources or submit data for processing.
-    
--   PATCH: Update existing server resources partially.
-    
-
+    -   GET: Retrieve data from the server.
+    -   PUT: Update or replace existing server resources.
+    -   POST: Create new resources or submit data for processing.
+    -   PATCH: Update existing server resources partially.
 -   Insert the URL. You can use variables to dynamically populate the URL.
-    
 -   Choose the type of authorization for the API. Options include:
-    
-
--   No authorization
-    
--   API key
-    
--   Basic authorization
-    
--   OAuth 2.0
-    
-
+    -   No authorization
+    -   API key
+    -   Basic authorization
+    -   OAuth 2.0
 -   Select the accepted format: JSON, XML, JavaScript, or Form.
-    
 -   Fill in the header for the API authentication. Variables can be used here.
-    
 -   Fill in the body for the API authentication. Variables can also be used.
-    
 -   Fill in the username, password, key, and value for the API authentication. Variables can be utilised for dynamic data.
-    
 -   Select the "Add to" option. You can choose to add to either headers or query parameters.
-    
 -   Click the submit button to save the settings.
     
 
@@ -137,13 +85,9 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ----
