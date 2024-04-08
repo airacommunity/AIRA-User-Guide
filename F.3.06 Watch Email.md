@@ -19,21 +19,13 @@ Watch Email is used in AIRA workflow to trigger actions based on incoming emails
   
 
 1. Navigate to the Email app in the AIRA app section.
-
 2. Click on the Email app, and the Watch Email app will appear.
-
 3. Drag and drop the Watch Email app into the AIRA workflow designer.
-
 4. Connect the app to the required place in the workflow.
-
 5. Double click on the app to open its settings.
-
 6. Select the connection for email access.
-
 7. Enter the subject of the email. Variables can also be used to dynamically insert the subject.
-
 8. Enter the sender's email address. Variables can also be used here.
-
 9. Click on the submit button to save the app settings.
 
 **Additional Options:**
@@ -41,13 +33,9 @@ Watch Email is used in AIRA workflow to trigger actions based on incoming emails
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ----
