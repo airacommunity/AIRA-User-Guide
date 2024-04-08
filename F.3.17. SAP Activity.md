@@ -14,53 +14,21 @@ SAP (Systems, Applications, and Products) is an enterprise resource planning (ER
 
 SAP Business Application Programming Interface (BAPI) Non-Unicode Remote Function Call (NWRFC) is a technology that allows external systems to communicate with SAP systems and execute remote function calls.
 
-  
-
 ### Use in AIRA Workflow
 
 SAP BAPI NWRFC can be used in AIRA workflows to integrate SAP functionalities into automated processes, enabling seamless data exchange and interaction between SAP systems and other applications.
 
-  
-
-## SAP WSDL Calls
-
-SAP WSDL (Web Services Description Language) Calls allow AIRA workflows to invoke SAP's web services and execute specific functions or operations within the SAP system.
-
-  
-
-### Use in AIRA Workflow
-
-SAP WSDL Calls facilitate the integration of SAP web services into AIRA workflows, enabling automated interactions with SAP systems to perform tasks such as data retrieval, updates, and more.
-
-  
-
-Working Together in AIRA: SAP BAPI NWRFC and SAP WSDL Calls work together within AIRA workflows to enable comprehensive integration with SAP systems. BAPI NWRFC facilitates direct communication with SAP systems, while WSDL Calls enable interaction with SAP's web services, collectively allowing for seamless integration and automation of SAP-related tasks within the AIRA platform.
-
-  
-
 #### To use SAP BAPI NWRFC in AIRA, follow these steps:
 
-  
-
 1. Navigate to the SAP section in the AIRA app section.
-
 2. Click on SAP, where you'll find two options: SAP BAPI NWRFC and SAP WSDL Calls.
-
 3. Drag and drop the SAP BAPI NWRFC app into the AIRA workflow designer.
-
 4. Connect the app to the desired location within the workflow.
-
 5. Double-click on the app to open the app settings.
-
 6. Select the required connection to establish the connection between SAP and AIRA.
-
 7. Fill in the SAP BAPI name in the designated section. You can use variables to dynamically populate the SAP BAPI name.
-
 8. Provide the SAP BAPI structure. Again, variables can be used to dynamically fill the SAP BAPI structure.
-
 9. Click on the submit button to save the app settings.
-
-  
 
 **Additional Options:**
 
@@ -72,48 +40,36 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
   
+## SAP WSDL Calls
+
+SAP WSDL (Web Services Description Language) Calls allow AIRA workflows to invoke SAP's web services and execute specific functions or operations within the SAP system.
+
+### Use in AIRA Workflow
+
+SAP WSDL Calls facilitate the integration of SAP web services into AIRA workflows, enabling automated interactions with SAP systems to perform tasks such as data retrieval, updates, and more.
+
+Working Together in AIRA: SAP BAPI NWRFC and SAP WSDL Calls work together within AIRA workflows to enable comprehensive integration with SAP systems. BAPI NWRFC facilitates direct communication with SAP systems, while WSDL Calls enable interaction with SAP's web services, collectively allowing for seamless integration and automation of SAP-related tasks within the AIRA platform.
 
 #### To use SAP WSDL calls in AIRA, follow these steps:
 
-  
-
 1. Navigate to the SAP section in the AIRA app section.
-
 2. Click on SAP, where you'll find two options: SAP BAPI NWRFC and SAP WSDL Calls.
-
 3. Drag and drop the SAP WSDL call app into the AIRA workflow designer.
-
 4. Connect the app to the desired location within the workflow.
-
 5. Double-click on the app to open its settings.
-
 6. Fill in the request URL. You can use variables to dynamically populate the request URL.
-
 7. Select the request method. Choose from GET, PUT, POST, PATCH, or DELETE based on your requirements.
-
 8. Understand the use of each request method:
-
-GET: Retrieve data from the server.
-
-PUT: Update data on the server.
-
-POST: Send data to the server to create a new resource.
-
-PATCH: Update specific parts of data on the server.
-
-DELETE: Remove data from the server.
-
+    - GET: Retrieve data from the server.
+    - PUT: Update data on the server.
+    - POST: Send data to the server to create a new resource.
+    - PATCH: Update specific parts of data on the server.
+    - DELETE: Remove data from the server.
 9. Select the appropriate authorization method: no authorization, basic authorization, or bearer token.
-
 10. Fill in the body of the request. Variables can be used to dynamically populate the request body.
-
 11. Enter the username. Variables can also be used here.
-
 12. Provide the password.
-
 13. Click on the submit button to save the app settings.
-
-  
 
 **Additional Options:**
 
