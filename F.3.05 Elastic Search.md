@@ -17,23 +17,14 @@ ElasticSearch is used in AIRA workflow to perform advanced search, data analysis
 
 
 1. Navigate to ElasticSearch in the AIRA app section.
-
 2. Double-click on the app to open its settings.
-
 3. Drag and drop the app into the AIRA workflow designer.
-
 4. Connect the app to the required place in the workflow.
-
 5. In the app settings, enter the request URL. You can provide variables for dynamic URLs.
-
 6. Select the request method: GET, POST, PUT, PATCH, DELETE.
-
 7. Choose the authorization type: No authorization, Bearer token, Basic authorization.
-
 8. Insert the body and username in the respective sections. You can also use variables to insert the details.
-
 9. Enter the password.
-
 10. Click on the submit button to save the settings.
 
 **Additional Options:**
@@ -41,13 +32,9 @@ ElasticSearch is used in AIRA workflow to perform advanced search, data analysis
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ----
