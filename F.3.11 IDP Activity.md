@@ -19,15 +19,10 @@ Follow these steps to effectively utilise AIRA IDP:
   
 
 -   Locate the IDP tool within the AIRA application interface.
-    
 -   Drag the IDP tool from the app section and drop it into the AIRA workflow designer canvas.
-    
 -   Establish connections between the IDP tool and other components of your workflow by drawing lines or arrows between them.
-    
 -   Double-click on the IDP tool to access its settings.
-    
 -   Within the IDP settings, choose the appropriate learning instance or model for document processing.
-    
 -   Click on the submit button or any equivalent option to save the configured settings for the IDP tool.
     
 **Additional Options:**
@@ -35,13 +30,9 @@ Follow these steps to effectively utilise AIRA IDP:
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ----
