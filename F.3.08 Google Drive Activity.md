@@ -21,21 +21,13 @@ The Google Drive app in AIRA enables users to interact with files and folders st
 The Copy File app within the Google Drive apps in AIRA allows users to duplicate files from one location to another within their Google Drive account. It simplifies the process of replicating files for backup, sharing, or organisational purposes.
 
 -   Navigate to the Google Drive app in the AIRA app section.
-    
 -   Locate the Copy File app option within the Google Drive app.
-    
 -   Drag and drop the Copy File app into the AIRA workflow canvas and connect it to the desired workflow components.
-    
 -   Double-click on the Copy File app to open its settings.
-    
 -   Select the appropriate connection for the app to access Google Drive.
-    
 -   Enter the File ID of the file you want to copy, or use a variable to dynamically populate the File ID.
-    
 -   Enter the desired File Title for the copied file, or use a variable to dynamically populate the File Title.
-    
 -   Enter the Folder ID of the destination folder where you want to copy the file, or use a variable to dynamically populate the Folder ID.
-    
 -   Click on the submit button to save the app settings.
     
 
@@ -44,13 +36,9 @@ The Copy File app within the Google Drive apps in AIRA allows users to duplicate
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ### Create Drive File App:
@@ -60,23 +48,14 @@ The Create Drive File app within the Google Drive apps in AIRA facilitates the g
 
 
 -   Navigate to the Google Drive app in the AIRA app section.
-    
 -   Locate the Create Drive File app option within the Google Drive app.
-    
 -   Drag and drop the Create Drive File app into the AIRA workflow canvas and connect it to the desired workflow components.
-    
 -   Double-click on the Create Drive File app to open its settings.
-    
 -   Select the appropriate connection for the app to access Google Drive.
-    
 -   Enter the Folder ID of the destination folder where you want to create the new file. You can also use a variable to dynamically populate the Folder ID.
-    
 -   Enter the desired File Name for the new file. You can also use a variable to dynamically populate the File Name.
-    
 -   Select the desired file type from the available options: DOCX, XSLX, PDF, CSV.
-    
 -   Enter the content of the file in the provided section. You can also use a variable to dynamically populate the file content.
-    
 -   Click on the submit button to save the app settings and create the new file in the specified Google Drive folder.
     
 
@@ -85,13 +64,9 @@ The Create Drive File app within the Google Drive apps in AIRA facilitates the g
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 
@@ -101,17 +76,11 @@ The Delete Folder or File app within the Google Drive apps in AIRA enables users
 
 
 -   Navigate to the Google Drive app in the AIRA app section.
-    
 -   Locate the Delete Folder or File app option within the Google Drive app.
-    
 -   Drag and drop the Delete Folder or File app into the AIRA workflow canvas and connect it to the desired workflow components.
-    
 -   Double-click on the Delete Folder or File app to open its settings.
-    
 -   Select the required connection to access Google Drive.
-    
 -   Enter the Folder or File ID of the item you want to delete in the respective field. You can also use a variable to dynamically populate the Folder or File ID.
-    
 -   Click on the submit button to save the app settings and initiate the deletion process.
     
 
@@ -120,13 +89,9 @@ The Delete Folder or File app within the Google Drive apps in AIRA enables users
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ### Create Drive Folder App:
@@ -135,17 +100,11 @@ The Create Drive Folder app in AIRA allows users to generate new folders directl
 
 
 -   Navigate to the Google Drive app in the AIRA app section.
-    
 -   Locate the Create Drive Folder App option within the Google Drive app.
-    
 -   Drag and drop the Create Drive Folder App into the AIRA workflow canvas and connect it to the desired workflow components.
-    
 -   Double-click on the Create Drive Folder App to open its settings.
-    
 -   Select the required connection to access Google Drive.
-    
 -   Enter the desired folder name in the respective field. You can also use a variable to dynamically populate the folder name.
-    
 -   Click on the submit button to save the app settings and initiate the folder creation process.
     
 
@@ -156,13 +115,9 @@ The Create Drive Folder app in AIRA allows users to generate new folders directl
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
   
@@ -171,43 +126,26 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 
 The Move File app in the AIRA Google Drive app allows users to relocate files from one location to another within their Google Drive storage. This feature streamlines file management and organisation, enabling users to keep their Drive contents well-structured.
 
-
-  
-
 -   Navigate to the Google Drive app in the AIRA app section.
-    
 -   Locate the Move File App option within the Google Drive app.
-    
 -   Drag and drop the Move File App into the AIRA workflow canvas and connect it to the desired workflow components.
-    
 -   Double-click on the Move File App to open its settings.
-    
 -   Select the required connection to access Google Drive.
-    
 -   Enter the file ID of the file you want to move. You can also use a variable to dynamically populate the file ID.
-    
 -   Enter the target folder ID where you want to move the file. Again, you can use a variable to dynamically populate the target folder ID.
-    
 -   Click on the submit button to save the settings and initiate the file movement process.
-    
-
   
 **Additional Options:**
 
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
   
-
 5. Delete Module:
 
 Purpose: If you no longer need the app in your workflow, you can use this option to permanently delete it.
@@ -220,17 +158,11 @@ The Search File Folder app in the AIRA Google Drive apps allows users to find sp
 
 
 -   Navigate to the Google Drive app in the AIRA app section.
-    
 -   Locate the Search File Folder App option within the Google Drive app.
-    
 -   Drag and drop the Search File Folder App into the AIRA workflow canvas and connect it to the desired workflow components.
-    
 -   Double-click on the Search File Folder App to open its settings.
-    
 -   Select the required connection to access Google Drive.
-    
 -   Enter the folder ID of the folder you want to search for. You can also use a variable to dynamically populate the folder ID.
-    
 -   Click on the submit button to save the settings and initiate the folder search process.
     
 
@@ -239,13 +171,9 @@ The Search File Folder app in the AIRA Google Drive apps allows users to find sp
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ----
