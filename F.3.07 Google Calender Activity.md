@@ -20,39 +20,25 @@ The Get Calendar Event app in AIRA allows users to retrieve calendar events from
 
 The Get Calendar Event app in AIRA's Google Calendar integration retrieves specific calendar events based on user-defined criteria. It streamlines the process of fetching event data directly within workflows, enhancing automation and task management efficiency.
 
-  
 
 -   Navigate to Google Calendar App: Go to the AIRA app section and search for the Google Calendar app.
-    
 -   Select Get Calendar Event: Click on the Google Calendar app, which will display options including the Get Calendar Event app.
-    
 -   Drag and Drop into Workflow: Drag and drop the Get Calendar Event app into the AIRA workflow canvas and connect it to the desired location.
-    
 -   Open App Settings: Double-click on the app to open its settings.
-    
--   Select Connection: Choose the appropriate connection to authenticate with Google Calendar.
-    
+-   Select Connection: Choose the appropriate connection to authenticate with Google Calendar
 -   Choose Calendar: Select the calendar from which you want to retrieve events.
-    
 -   Select Event: Specify the event or events you want to retrieve.
-    
 -   Save Settings: Click on the submit button to save the app settings.
-    
 
-  
 
 **Additional Options:**
 
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
   
 
@@ -60,25 +46,14 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 
 The Search Calendar Event app within AIRA's Google Calendar integration enables users to search for calendar events based on specified criteria directly within workflows. This feature streamlines event retrieval and facilitates automated processes involving event data.
 
-  
-
-
-  
 
 -   Navigate to Google Calendar App: Access the Google Calendar app in the AIRA app section.
-    
 -   Select Search Calendar Event App: Within the Google Calendar app, locate and select the Search Calendar Event app.
-    
 -   Add to Workflow: Drag and drop the Search Calendar Event app into the AIRA workflow canvas and connect it to the relevant section of the workflow.
-    
 -   Open App Settings: Double-click on the app to open its settings.
-    
 -   Choose Connection: Select the appropriate connection to authenticate with Google Calendar.
-    
 -   Select Calendar: Choose the calendar from which you want to search events.
-    
 -   Specify Date Range: Define the start and end dates for the event search. Optionally, you can use variables to dynamically input date values.
-    
 -   Save Settings: Click the submit button to save the app settings.
     
 
@@ -87,13 +62,9 @@ The Search Calendar Event app within AIRA's Google Calendar integration enables 
 Right-click on the app in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
-
 - Setting: Access and modify the settings of the app.
-
 - Rename: Change the name of the apps for better organization.
-
 - Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-
 - Delete Module: Permanently delete the app from the workflow if it's no longer needed.
 
 ----
