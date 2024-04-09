@@ -31,25 +31,25 @@ The AIRA Sign-in options offer users flexibility and convenience in accessing th
 
 The interface has 10 sections on the left, each serving a specific purpose for hyper-automation with AIRA.
 
--   **Dashboard:** Get an overview of essential metrics and quick actions for streamlined navigation. To learn more about the Dashboard and explore further insights, visit the [Dashboard]() section.
+-   **Dashboard:** Get an overview of essential metrics and quick actions for streamlined navigation. To learn more about the Dashboard and explore further insights, visit the [Dashboard](https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Dashboard%20Interface.md) section.
     
--  **Cases:** Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required. To learn more about the Cases and explore further insights, visit the [Cases]() section.
+-  **Cases:** Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required. To learn more about the Cases and explore further insights, visit the [Cases](https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Cases%20AIRA%20Human%20Activity.md) section.
     
--  **Digital Agents:** Access and configure intelligent digital agents bots to automate tasks and processes. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents]() section.
+-  **Digital Agents:** Access and configure intelligent digital agents bots to automate tasks and processes. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents](https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Digitla%20Agents.md) section.
     
--  **Connections:** Establish and manage connections smoothly for a connected automation ecosystem. To learn more about the connections and explore further insights, visit the [connection]() section.
+-  **Connections:** Establish and manage connections smoothly for a connected automation ecosystem. To learn more about the connections and explore further insights, visit the [connection](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md) section.
     
--   **Jobs:** Create and execute automation workflows effortlessly. To learn more about the Jobs and explore further insights, visit the [jobs]() section.
+-   **Jobs:** Create and execute automation workflows effortlessly. To learn more about the Jobs and explore further insights, visit the [jobs](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Workflow%20Creation%20Guide.md) section.
     
--   **Intelligent Document Processing :** Using powerful document processing capabilities for efficient data extraction.To learn more about the IDP and explore further insights, visit the [IDP]() section.
+-   **Intelligent Document Processing :** Using powerful document processing capabilities for efficient data extraction.To learn more about the IDP and explore further insights, visit the [IDP](https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Intelligent%20Document%20Processing.md) section.
     
--   **Models:** Explore and manage automation models to enhance your hyper-automation workflows. To learn more about the Models and explore further insights, visit the [Models]() section.
+-   **Models:** Explore and manage automation models to enhance your hyper-automation workflows. To learn more about the Models and explore further insights, visit the [Models](https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Models.md) section.
     
--   **Orchestrator:** Orchestrate and streamline the execution of tasks and processes for optimal efficiency.To learn more about the orchestrator and explore further insights, visit the [orchestrator]() section.
+-   **Orchestrator:** Orchestrate and streamline the execution of tasks and processes for optimal efficiency.To learn more about the orchestrator and explore further insights, visit the [orchestrator](https://github.com/airacommunity/AIRA-User-Guide/blob/main/L.%20Orchestrator.md) section.
     
--   **Report:** Generate detailed reports to gain insights into your automation processes and performance. To learn more about the Report and explore further insights, visit the [Reports]() section.
+-   **Report:** Generate detailed reports to gain insights into your automation processes and performance. To learn more about the Report and explore further insights, visit the [Reports](https://github.com/airacommunity/AIRA-User-Guide/blob/main/M.%20Reports.md) section.
     
--   **Administration:** Configure and administer AIRA settings to align the platform with your enterprise requirements. To learn more about the Administration and explore further insights, visit the [Administration]() section.
+-   **Administration:** Configure and administer AIRA settings to align the platform with your enterprise requirements. To learn more about the Administration and explore further insights, visit the [Administration](https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.%20Administration.md) section.
     
 
 ## Top Right Options
@@ -191,7 +191,7 @@ AIRA understands the importance of language diversity. With support for six diff
     <br>
     After filling out all the information, click on submit to save the profile setting.
 
--   **Settings**: Clicking on Settings navigates you to the administration section of AIRA, where you can fine-tune configurations based on your preferences. To learn more about the Administration and explore further insights, visit the [Administration]() section.
+-   **Settings**: Clicking on Settings navigates you to the administration section of AIRA, where you can fine-tune configurations based on your preferences. To learn more about the Administration and explore further insights, visit the [Administration](https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.%20Administration.md) section.
     
 -   **Logout:** For a secure exit, the Logout button is available, ensuring your account remains protected.
     
@@ -204,7 +204,7 @@ AIRA understands the importance of language diversity. With support for six diff
 <table align="right" border="0">
     <tr>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.2.%20AIRA%20Installation%20Guide.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20AIRA%20Dashboard%20Interface.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Dashboard%20Interface.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
 
