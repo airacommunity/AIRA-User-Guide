@@ -8,7 +8,7 @@ The AIRA installation guide provides step-by-step instructions for deploying AIR
 
 |     AIRA Version    |             Platform             | Notes |
 |:-------------------:|:--------------------------------:|:-----:|
-| aira_build_08012024 | CentOS/RHEL 7.x | [Stack](https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md) |
+| aira_build_08012024 | CentOS/RHEL 7.x | [Stack](https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20Server%20Configuration%20Setup.md) |
 
 Before installing AIRA, check the Installation Requirements to determine whether your server meets the necessary hardware and software requirements. Ensure you have an Internet connection to download any necessary third-party components that your AIRA installation might require.
 
@@ -342,7 +342,7 @@ service nginx restart
 
 <table align="right" border="0">
     <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20AIRA%20Server%20Configuration%20Setup.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20Server%20Configuration%20Setup.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
       <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Getting%20Started%20with%20AIRA.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
