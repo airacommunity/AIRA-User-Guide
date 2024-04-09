@@ -10,53 +10,52 @@ In the AIRA workflow designer, "AIRA Apps" refer to pre-built functionalities or
 
 <br>
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <th colspan="7">AIRA ACTIVITY APPLICATIONS</th>
-  </tr>
-  <tr align="center">
-    <td>AIRA Form</td>
-    <td width=100>API</td>
-    <td>Elastic Search</td>
-    <td width=150>Email</td>
-    <td>Google Calendar</td>
-    <td>Google Drive</td>
-    <td>Google Mail</td>
-  </tr>
-  <tr align="center">
-    <td>Google Sheet</td>
-    <td>IDP</td>
-    <td>Mail Chimp</td>
-    <td>ML Model</td>
-    <td>MySQL</td>
-    <td>Notification</td>
-    <td>Output Document</td>
-  </tr>
-  <tr align="center">
-    <td>SAP</td>
-    <td>SFTP</td>
-    <td>SMTP</td>
-    <td>Trigger</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">AIRA App Activities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.01%20AIRA%20Form%20Activity.md">AIRA Forms</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.02%20API%20Activity.md">API Call</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.05%20Elastic%20Search.md">Elastic Search</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.06%20Watch%20Email.md">Watch Email</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.07%20Google%20Calender%20Activity.md">Google Calender</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.08%20Google%20Drive%20Activity.md">Google Drive</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.09%20G-Mail%20Activity.md">Google Mails</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.10%20Google%20Sheets%20Activity.md">Google Sheets</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.11%20IDP%20Activity.md">IDP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.12.%20MailChimp%20Activity.md">MailChimps</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.13.%20Model%20Activity.md">ML Models</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.14.%20MySQL%20Activity.md">MySQL</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.15%20Notification%20Activity.md">Notification</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.04%20Oracle%20ERP%20Activity.md">Oracle ERP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.16.%20Output%20Document.md">Output Document</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.17.%20SAP%20Activity.md">SAP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.18.%20SFTP%20Activity.md">SFTP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.19.%20SMTP%20Activity.md">SMTP</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.20%20Trigger%20Activity.md">Trigger</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.03%20AIRA%20BOT%20Activity.md">AIRA Bots</a></td>
+      <td align="center"><a href=""></a></td>
+      <td align="center"><a href=""></a></td>
+      <td align="center"><a href=""></a></td>
+      <td align="center"><a href=""></a></td>
+    </tr>
+
+  </tbody>
 </table>
 
 To learn more about each app, click on the respective app name to visit its dedicated section. There, you'll find detailed explanations about the app's purpose and how to use it within the AIRA automation workflow.
 
 ----
-
-> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
-
-----
-
-
-<table align="right" border="0">
-    <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
-    </tr>
-</table>
 
 <br>
 <br>
