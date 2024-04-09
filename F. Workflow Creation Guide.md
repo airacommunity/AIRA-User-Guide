@@ -83,30 +83,30 @@ In the Apps section of AIRA, users encounter a diverse range of application desi
     <tr>
       <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.01%20AIRA%20Form%20Activity.md">AIRA Forms</a></td>
       <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.02%20API%20Activity.md">API Call</a></td>
-      <td align="center" width=200><a href="">Elastic Search</a></td>
-      <td align="center" width=200><a href="">Email</a></td>
-      <td align="center" width=200><a href="">Google Calender</a></td>
-      <td align="center" width=200><a href="">Google Drive</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.05%20Elastic%20Search.md">Elastic Search</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.06%20Watch%20Email.md">Watch Email</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.07%20Google%20Calender%20Activity.md">Google Calender</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.08%20Google%20Drive%20Activity.md">Google Drive</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="">Google Mails</a></td>
-      <td align="center"><a href="">Google Sheets</a></td>
-      <td align="center"><a href="">IDP</a></td>
-      <td align="center"><a href="">MailChimps</a></td>
-      <td align="center"><a href="">ML Models</a></td>
-      <td align="center"><a href="">MySQL</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.09%20G-Mail%20Activity.md">Google Mails</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.10%20Google%20Sheets%20Activity.md">Google Sheets</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.11%20IDP%20Activity.md">IDP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.12.%20MailChimp%20Activity.md">MailChimps</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.13.%20Model%20Activity.md">ML Models</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.14.%20MySQL%20Activity.md">MySQL</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="">Notification</a></td>
-      <td align="center"><a href="">Oracle</a></td>
-      <td align="center"><a href="">Output Document</a></td>
-      <td align="center"><a href="">SAP</a></td>
-      <td align="center"><a href="">SFTP</a></td>
-      <td align="center"><a href="">SMTP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.15%20Notification%20Activity.md">Notification</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.04%20Oracle%20ERP%20Activity.md">Oracle ERP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.16.%20Output%20Document.md">Output Document</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.17.%20SAP%20Activity.md">SAP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.18.%20SFTP%20Activity.md">SFTP</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.19.%20SMTP%20Activity.md">SMTP</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="">Trigger</a></td>
-      <td align="center"><a href=""></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.20%20Trigger%20Activity.md">Trigger</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.03%20AIRA%20BOT%20Activity.md">AIRA Bots</a></td>
       <td align="center"><a href=""></a></td>
       <td align="center"><a href=""></a></td>
       <td align="center"><a href=""></a></td>
@@ -230,8 +230,8 @@ In the top-right corner of the AIRA Workflow Console, five buttons provide users
 
 <table align="right" border="0">
     <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20AIRA%20Dashboard%20Interface.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Dashboard%20Interface.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Cases%20AIRA%20Human%20Activity.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
 
