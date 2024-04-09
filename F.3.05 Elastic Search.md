@@ -1,5 +1,5 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
-# ElasticSearch <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
+# Elastic Search <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ElasticSearch is a distributed, RESTful search and analytics engine built on top of Apache Lucene. It is designed for horizontal scalability, reliability, and real-time search.
 
