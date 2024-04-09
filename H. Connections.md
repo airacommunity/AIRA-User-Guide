@@ -174,6 +174,18 @@ AIRA Connection is your gateway to seamless connectivity across multiple platfor
 
 ----
 
+> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
+
+---
+
+<table align="right" border="0">
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Cases%20AIRA%20Human%20Activity.md?plain=1"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Digitla%20Agents.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+    </tr>
+</table>
+
+
 <br>
 <br>
 <br>
