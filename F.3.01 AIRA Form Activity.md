@@ -152,7 +152,7 @@ In the additional settings located at the top right corner of the form designer,
 1. Preview: Allows you to preview the form layout and functionality before saving or deploying it. This feature helps ensure that the form appears and behaves as intended.
 
 
-2. JavaScript: Enables you to apply special form functions using JavaScript. You can write custom JavaScript code to enhance the form's functionality or implement specific behaviours based on user interactions. To Know more about it, visit [AIRA form functions](https://docs.google.com/document/d/1jRi0jPBCZ1zNBLc6vMOi7_Yy-VCHGlWgA4eC1Np9rKM/edit?usp=drive_link).
+2. JavaScript: Enables you to apply special form functions using JavaScript. You can write custom JavaScript code to enhance the form's functionality or implement specific behaviours based on user interactions. To Know more about it, visit [AIRA form functions](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.01.01%20Form%20Function.md).
 
 
 3. Save: Saves the changes made to the form configuration. Clicking this option ensures that any modifications or updates to the form are retained.
@@ -184,22 +184,6 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 
 
 ----
-
-> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
-
-----
-
-<table align="right" border="0">
-
-<tr>
-
-<td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
-
-<td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
-
-</tr>
-
-</table>
 
 <br>
 
