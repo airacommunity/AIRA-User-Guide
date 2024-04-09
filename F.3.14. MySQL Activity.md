@@ -1,6 +1,6 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
 
-# MySQL ctivity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
+# MySQL Activity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 Thank you for your interest in this section of our website. We're currently in the process of enhancing its content to better serve your needs. Please bear with us as we work diligently to bring you the most valuable information and resources.
 
