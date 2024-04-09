@@ -30,11 +30,19 @@ To make things easy for you, the guide is set up in a way that lets you find wha
     </tr>
     <tr>
       <td align="center">2.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md">AIRA Components and System Requirements</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Components%20and%20System%20Requirements.md">Components and System Requirements</a></td>
     </tr>
     <tr>
       <td align="center">3.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20AIRA%20Installation.md">Introduction to AIRA Installation</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20Installation.md">Introduction to Installation</a></td>
+    </tr>
+    <tr>
+      <td align="center">3.1</td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20Installation.md">Server Configuration</a></td>
+    </tr>
+    <tr>
+      <td align="center">3.2</td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20Installation.md">Installation Guide</a></td>
     </tr>
     <tr>
       <td align="center">4.</td>
@@ -42,7 +50,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
     </tr>
     <tr>
       <td align="center">5.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20AIRA%20Dashboard%20Interface.md">AIRA Dashboard Interface</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Dashboard%20Interface.md">Dashboard Interface</a></td>
     </tr>
     <tr>
       <td align="center">6.</td>
@@ -50,67 +58,60 @@ To make things easy for you, the guide is set up in a way that lets you find wha
     </tr>
       <tr>
       <td align="center">6.1.</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Tools Explaination</a></td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md">Tools Explaination</a></td>
     </tr>
     <tr>
       <td align="center">6.2</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Variables Explaination</a></td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.2.%20Variables%20Explaination.md">Variables Explaination</a></td>
     </tr>
     <tr>
       <td align="center">6.3</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">AIRA Apps</a></td>
+      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3%20Activity%20Application.md">Activity Applications</a></td>
     </tr>
     <tr>
-      <td align="center">6.4</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Trigger Functions</a></td>
-    </tr>
-    <tr>
-      <td align="center">6.5</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Form Functions</a></td>
-    </tr>
     <tr>
       <td align="center">7.</td>
-      <td align="left"><a href="#Cases">Cases</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Cases%20AIRA%20Human%20Activity.md">Cases AIRA Human Activity</a></td>
     </tr>
     <tr>
       <td align="center">8.</td>
-      <td align="left"><a href="#connections">Connections</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md">Connections</a></td>
     </tr>
     <tr>
       <td align="center">9.</td>
-      <td align="left"><a href="#digital_agents">Digital Agents</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Digitla%20Agents.md">Digital Agents</a></td>
     </tr>
     <tr>
       <td align="center">10.</td>
-      <td align="left"><a href="#intelligent_document_processing">Intelligent Document Processing</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Intelligent%20Document%20Processing.md">Intelligent Document Processing</a></td>
     </tr>
     <tr>
       <td align="center">11.</td>
-      <td align="left"><a href="#aira_models">AIRA Models</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Models.md">AIRA Models</a></td>
     </tr>
     <tr>
       <td align="center">12.</td>
-      <td align="left"><a href="#orchestrator">Orchestrator</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/L.%20Orchestrator.md">Orchestrator</a></td>
     </tr>
     <tr>
       <td align="center">13.</td>
-      <td align="left"><a href="#report">Report</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/M.%20Reports.md">Report</a></td>
     </tr>
     <tr>
       <td align="center">14.</td>
-      <td align="left"><a href="#administration">Administration</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.%20Administration.md">Administration</a></td>
     </tr>
     <tr>
       <td align="center">14.1</td>
-      <td align="left"><a href="#administration">Azure Configuration</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.1%20Azure%20Enterprise%20App%20Configuration.md">Azure Configuration</a></td>
     </tr>
     <tr>
       <td align="center">14.2</td>
-      <td align="left"><a href="#administration">Google Configuration</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.2%20Google%20Configuration.md">Google Configuration</a></td>
     </tr>
     <tr>
       <td align="center">14.3</td>
-      <td align="left"><a href="#administration">MailChimp Configuration</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.3%20MailChimp%20Integration.md">MailChimp Configuration</a></td>
     </tr>
   </tbody>
 </table>
@@ -253,7 +254,7 @@ The following describes the primary target audience along with specific objectiv
 
 <table align="right" border="0">
     <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20AIRA%20Components%20and%20System%20Requirements.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Components%20and%20System%20Requirements.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
     </tr>
 </table>
 
