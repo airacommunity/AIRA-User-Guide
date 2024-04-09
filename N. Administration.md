@@ -125,7 +125,7 @@ The "Department Section" provides a comprehensive view of all department and its
    
 ### SAML Configuration
 
-SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit [Azure Enterprice Application Configuration](url).
+SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit [Azure Enterprice Application Configuration](https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.1%20Azure%20Enterprise%20App%20Configuration.md).
 
 ### Document Management
 
@@ -202,13 +202,13 @@ AIRA Integration Service enables seamless connectivity with external platforms, 
 
 Google Integration with AIRA enables users to integrate Google's suite of productivity tools and services seamlessly into their automation workflows. By connecting with Google, users can access services such as Google Drive, Google Sheets, Gmail, Google Calendar, and more directly within the AIRA platform. This integration streamlines collaboration, data management, communication, and task automation, allowing users to leverage Google's powerful tools to enhance productivity and efficiency.
 
-To configure the integration with the platform, detailed [documentation](url) is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
+To configure the integration with the platform, detailed [documentation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.2%20Google%20Configuration.md) is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
 
 **Mailchimp Integration Configuration**
 
 Mailchimp Integration with AIRA facilitates seamless integration of Mailchimp's email marketing platform into automation workflows. By connecting with Mailchimp, users can automate email campaigns, manage subscriber lists, track engagement metrics, and more directly within the AIRA platform. This integration simplifies email marketing processes, enhances campaign management, and improves audience targeting, enabling users to leverage Mailchimp's robust features to drive effective marketing campaigns and achieve their business goals.
 
-To configure the integration with the platform, detailed [documentation](url) is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
+To configure the integration with the platform, detailed [documentation](https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.3%20MailChimp%20Integration.md) is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
 
 ### System Configuration
 
