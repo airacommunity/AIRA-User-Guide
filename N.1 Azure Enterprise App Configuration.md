@@ -193,17 +193,6 @@ In summary, the guide outlines a comprehensive process for setting up Single Sig
 
 ----
 
-> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
-
----
-
-<table align="right" border="0">
-    <tr>
-      <td align="center"><a href=""><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.2%20Google%20Configuration.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
-    </tr>
-</table>
-
 <br>
 <br>
 <br>
