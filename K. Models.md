@@ -1,5 +1,5 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
-# AIRA Models <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
+# Models <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ## Overiview
 An AIRA model refers to a computational framework designed within the AIRA platform to facilitate predictive analytics, automation, and intelligent decision-making. These models utilize various machine learning algorithms and data analysis techniques to process input data, generate insights, and produce actionable predictions.
