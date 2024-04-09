@@ -265,10 +265,6 @@ The "Wait" tool enables users to specify a duration of time for the workflow to 
 
 ----
 
-> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
-
-----
-
 <br>
 <br>
 <br>
