@@ -125,7 +125,7 @@ The "Department Section" provides a comprehensive view of all department and its
    
 ### SAML Configuration
 
-SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit [azure enterprise application login](url).
+SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit [Azure Enterprice Application Configuration](url).
 
 ### Document Management
 
