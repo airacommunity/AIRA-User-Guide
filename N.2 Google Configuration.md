@@ -108,18 +108,6 @@ In AIRA, GCP API services are used to integrate Google services seamlessly into 
 
 ----
 
-> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
-
----
-
-
-<table align="right" border="0">
-    <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.1%20Azure%20Enterprise%20App%20Configuration.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-previous.png" alt="Image 5" width="40" height="40"></a></td>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.3%20MailChimp%20Integration.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
-    </tr>
-</table>
-
 <br>
 <br>
 <br>
