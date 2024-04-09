@@ -1,5 +1,5 @@
 ![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
-# Exploring AIRA Cases Human Activity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
+# Cases AIRA Human Activity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ## Overview
 Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required. But to understand “Cases” first we have to understand the “Forms” app activity.To learn about AIRA forms, visit the [AIRA Form](url) section.
