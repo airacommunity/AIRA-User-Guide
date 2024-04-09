@@ -42,7 +42,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
     </tr>
     <tr>
       <td align="center">3.2</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20Installation.md">AIRA Installation Guide</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.2.%20AIRA%20Installation%20Guide.md">AIRA Installation Guide</a></td>
     </tr>
     <tr>
       <td align="center">4.</td>
