@@ -157,9 +157,9 @@ In the additional settings located at the top right corner of the form designer,
 
 3. Save: Saves the changes made to the form configuration. Clicking this option ensures that any modifications or updates to the form are retained.
 
-4. Upload: Allows you to upload files or data to the form. This feature is useful for adding attachments or importing data into the form from external sources.
+4. Import: Allows you to Import files or data to the form. This feature is useful for adding attachments or importing data into the form from external sources.
 
-5. Download: Enables you to download files or data from the form. You can use this option to export form submissions, attachments, or any other relevant data for further analysis or storage.
+5. Export: Enables you to Export files or data from the form. You can use this option to export form submissions, attachments, or any other relevant data for further analysis or storage.
 
 These additional settings provide essential functionalities to manage and customise your form effectively, ensuring a seamless user experience and facilitating data collection and processing.
 
