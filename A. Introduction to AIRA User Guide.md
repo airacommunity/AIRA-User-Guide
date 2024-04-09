@@ -34,7 +34,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
     </tr>
     <tr>
       <td align="center">3.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Introduction%20to%20Installation.md">Introduction to Installation</a></td>
+      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Installation%20Introduction.md">Installation Introduction</a></td>
     </tr>
     <tr>
       <td align="center">3.1</td>
