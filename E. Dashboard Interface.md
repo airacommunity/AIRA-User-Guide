@@ -24,12 +24,12 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 
 **Features:**
 
--   **Digital Agent:** Navigates to the Digital Agent for configuring and overseeing digital bots. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents]() section.
--   **Connection:** Provides access to connectivity settings for smooth integration with external platforms. To learn more about the connections and explore further insights, visit the [connection]() section.
--   **Jobs:** Directs users to the workflow section for developing, managing and monitoring automated tasks. To learn more about the Jobs and explore further insights, visit the [jobs]() section.
--   **Intelligent Document Processing:** Enables users to engage with the IDP capabilities for efficient document processing. To learn more about the IDP and explore further insights, visit the [IDP]() section. 
--   **Model**: Accesses the Model section for designing and refining AI models. To learn more about the Models and explore further insights, visit the [Models]() section.  
--   **Report:** Leads to the Reporting module for data-driven insights and analytics. To learn more about the Report and explore further insights, visit the [Reports]() section.
+-   **Digital Agent:** Navigates to the Digital Agent for configuring and overseeing digital bots. To learn more about the Digital Agents and explore further insights, visit the [Digital Agents](https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Digitla%20Agents.md) section.
+-   **Connection:** Provides access to connectivity settings for smooth integration with external platforms. To learn more about the connections and explore further insights, visit the [connection](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md) section.
+-   **Jobs:** Directs users to the workflow section for developing, managing and monitoring automated tasks. To learn more about the Jobs and explore further insights, visit the [Jobs](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Workflow%20Creation%20Guide.md) section.
+-   **Intelligent Document Processing:** Enables users to engage with the IDP capabilities for efficient document processing. To learn more about the IDP and explore further insights, visit the [IDP](https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Intelligent%20Document%20Processing.md) section. 
+-   **Model**: Accesses the Model section for designing and refining AI models. To learn more about the Models and explore further insights, visit the [Models](https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Models.md) section.  
+-   **Report:** Leads to the Reporting module for data-driven insights and analytics. To learn more about the Report and explore further insights, visit the [Reports](https://github.com/airacommunity/AIRA-User-Guide/blob/main/M.%20Reports.md) section.
     
 
 ### 2. Transaction
