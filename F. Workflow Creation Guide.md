@@ -41,7 +41,7 @@ At the top of the Module section, a search bar allows users to quickly find spec
 
 #### Tools
 
-The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Decision Making for conditional logic, Do While for repetitive tasks, Fork Join and Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the [Tools section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md).
+The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Do While for repetitive tasks, Fork Join and Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the [Tools section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md).
 
 <table>
   <thead>
@@ -51,8 +51,8 @@ The Tools section in AIRA's workflow designer offers a range of powerful feature
   </thead>
   <tbody>
     <tr>
-      <td align="center" width=300><a href="">Do While</a></td>
-      <td align="center" width=300><a href="">Fork Join and Join</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#do-while">Do While</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#fork-join-and-join">Fork Join and Join</a></td>
       <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#set-variable">Set Variable</a></td>
       <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md#sub-workflow">Sub Workflow</a></td>
     </tr>
@@ -71,7 +71,7 @@ A variable is a named storage location in a workflow that holds a value. Variabl
 
 #### Apps
 
-In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
+In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. To learn more about the Apps and explore further insights, visit the [Acitvity section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3%20Activity%20Application.md) Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
 
 <table>
   <thead>
@@ -81,8 +81,8 @@ In the Apps section of AIRA, users encounter a diverse range of application desi
   </thead>
   <tbody>
     <tr>
-      <td align="center" width=200><a href="">AIRA Forms</a></td>
-      <td align="center" width=200><a href="">API Call</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.01%20AIRA%20Form%20Activity.md">AIRA Forms</a></td>
+      <td align="center" width=200><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.02%20API%20Activity.md">API Call</a></td>
       <td align="center" width=200><a href="">Elastic Search</a></td>
       <td align="center" width=200><a href="">Email</a></td>
       <td align="center" width=200><a href="">Google Calender</a></td>
@@ -192,8 +192,12 @@ Positioned at the top left of the AIRA Workflow Console, three essential options
     - Green Tick: Indicates successful execution of the workflow.
     - Red Tick: Highlights errors encountered during execution.
     - Yellow Tick: Flags warnings that occurred during execution.
-- **Logs Option:** Clicking on the Logs option grants users access to the execution logs of the workflow. These logs provide detailed information about the sequence of events during the execution process, facilitating debugging and analysis.
-
+- **Real Time Logs:** Clicking on the Logs option grants users access to the execution logs of the workflow. These logs provide detailed information about the sequence of events during the execution process, facilitating debugging and analysis.
+  - **Execution Status Indicators:**
+    - Green Tick: Indicates successful execution of the workflow.
+    - Red Tick: Highlights errors encountered during execution.
+    - Yellow Tick: Flags warnings that occurred during execution.
+  
 ### AIRA Workflow Execution Bar - Top Right Corner 
 
 In the top-right corner of the AIRA Workflow Console, five buttons provide users with essential controls and insights into the status and execution of their workflows.
