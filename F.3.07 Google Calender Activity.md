@@ -25,7 +25,7 @@ The Get Calendar Event app in AIRA's Google Calendar integration retrieves speci
 -   Select Get Calendar Event: Click on the Google Calendar app, which will display options including the Get Calendar Event app.
 -   Drag and Drop into Workflow: Drag and drop the Get Calendar Event app into the AIRA workflow canvas and connect it to the desired location.
 -   Open App Settings: Double-click on the app to open its settings.
--   Select Connection: Choose the appropriate connection to authenticate with Google Calendar
+-   Select Connection: Choose the appropriate connection to authenticate with Google Calendar. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Choose Calendar: Select the calendar from which you want to retrieve events.
 -   Select Event: Specify the event or events you want to retrieve.
 -   Save Settings: Click on the submit button to save the app settings.
@@ -51,7 +51,7 @@ The Search Calendar Event app within AIRA's Google Calendar integration enables 
 -   Select Search Calendar Event App: Within the Google Calendar app, locate and select the Search Calendar Event app.
 -   Add to Workflow: Drag and drop the Search Calendar Event app into the AIRA workflow canvas and connect it to the relevant section of the workflow.
 -   Open App Settings: Double-click on the app to open its settings.
--   Choose Connection: Select the appropriate connection to authenticate with Google Calendar.
+-   Choose Connection: Select the appropriate connection to authenticate with Google Calendar. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Select Calendar: Choose the calendar from which you want to search events.
 -   Specify Date Range: Define the start and end dates for the event search. Optionally, you can use variables to dynamically input date values.
 -   Save Settings: Click the submit button to save the app settings.
