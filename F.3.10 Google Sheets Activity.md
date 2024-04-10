@@ -19,7 +19,7 @@ The Add New Row Columns app in AIRA Google Sheet apps allows users to add new ro
 -   Click on the Google Sheet app, where multiple app options are available. Select the Add New Rows Column app.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID in the respective field. You can also use variables to dynamically populate the spreadsheet ID.
 -   Enter the sheet ID where you want to add new rows or columns. Similarly, you can use variables for dynamic entry.
 -   Specify the number of rows or columns you want to add in the respective field. Again, variables can be used here.
@@ -45,7 +45,7 @@ The Add New Sheet app in AIRA Google Sheet apps enables users to create a new sh
 -   Click on the Google Sheet app, where multiple app options are available. Select the Add New Sheet App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the name of the new sheet in the respective field. You can also use variables to dynamically populate the sheet name.
 -   Enter the spreadsheet ID of the document where you want to add the new sheet. Similarly, you can use variables for dynamic entry.
 -   Click on the submit button to save the settings of the app.
@@ -68,7 +68,7 @@ The Add Rows app in AIRA Google Sheets apps facilitates the addition of new rows
 -   Click on the Google Sheet app, where multiple app options are available. Select the Add Rows App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Choose the method of adding rows: Select from Drive or Enter Manually.
 -   Select from Drive: When selecting this option, a "Browse for Drive" button will appear. Click on the button to open a side window where you can select the file containing the spreadsheet.
 -   Enter Manually: With this option, manually enter the Spreadsheet ID and Sheet Name. You can use variables to populate these fields. Then, select the column range where the new rows will be added.
@@ -93,7 +93,7 @@ The Append Rows and Columns app in AIRA Google Sheets enables users to add new r
 -   Click on the Google Sheet app, where multiple app options are available. Select the Append Rows and Columns app.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the data to be appended for the rows and columns. Variables can be used to dynamically populate this data.
 -   Enter the Spreadsheet ID where the rows and columns will be appended. Variables can also be used for this field.
 -   Specify the range where the new rows and columns will be appended. Variables can be utilised here as well.
@@ -118,7 +118,7 @@ The Copy Google Sheets app in AIRA's Google Sheets functionality allows users to
 -   Click on the Google Sheet app, where multiple app options are available. Select the Copy Google Sheets app.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the source spreadsheet in the respective field. You can also use variables to dynamically populate this information.
 -   Enter the sheet ID of the source sheet. Variables can also be used for this field.
 -   Enter the destination spreadsheet ID where you want to copy the sheet or range. Again, variables can be utilised here.
@@ -143,7 +143,7 @@ The Create Spreadsheet app in AIRA's Google Sheets functionality enables users t
 -   Click on the Google Sheet app, where multiple app options are available. Select the Create Spreadsheet App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the desired spreadsheet name in the respective field. Variables can also be used to dynamically populate this information.
 -   Click on the submit button to save the settings.
     
@@ -166,7 +166,7 @@ The Delete Google Sheets app in AIRA's Google Sheets functionality allows users 
 -   Click on the Google Sheet app, where multiple app options are available. Select the Delete Google Sheets App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the sheet you want to delete in the respective field. Variables can also be used to dynamically populate this information.
 -   Enter the Sheet ID of the specific sheet within the spreadsheet. Variables can also be used for this input.
 -   Click on the submit button to save the settings.
@@ -191,7 +191,7 @@ The Delete Rows Columns app in AIRA's Google Sheets functionality enables users 
 -   Click on the Google Sheet app, where multiple app options are available. Select the Delete Rows Columns App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the document you want to modify in the respective field. Variables can also be used to dynamically populate this information.
 -   Enter the Sheet ID of the specific sheet within the spreadsheet. Variables can also be used for this input.
 -   Enter the start index and end index for rows and columns that you want to delete, or specify the exact rows and columns you want to remove. Variables can be used for dynamic data manipulation.
@@ -216,7 +216,7 @@ The "Rename Google Sheet" app in AIRA's Google Sheet app allows users to rename 
 -   Within the Google Sheet app, choose the "Rename Google Sheet" option from the available app options.
 -   Drag the "Rename Google Sheet" app into the AIRA workflow designer canvas and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the appropriate connection to access Google Sheets.
+-   Select the appropriate connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Provide the spreadsheet ID of the Google Sheets document in which the sheet you want to rename is located. You can use variables to dynamically populate this information.
 -   Specify the ID of the specific sheet within the spreadsheet that you wish to rename. Again, variables can be used for this input.
 -   In the required field, enter the new name that you want to assign to the sheet. Variables can also be used here.
@@ -242,7 +242,7 @@ The Get Sheet Name app in AIRA's Google Sheets functionality allows users to ret
 -   Click on the Google Sheet app, where multiple app options are available. Select the Get Sheet Name App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the document from which you want to retrieve sheet names in the respective field. Variables can also be used to dynamically populate this information.
 -   Click on the submit button to save the settings.
     
@@ -265,7 +265,7 @@ The Read Sheet app in AIRA's Google Sheets functionality allows users to extract
 -   Click on the Google Sheet app, where multiple app options are available. Select the Read Sheet App.
 -   Simply drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the document from which you want to read data in the respective field. Variables can also be used to dynamically populate this information.
 -   Enter the sheet name from which you want to read data. Variables can also be used for this input.
 -   Specify the range of rows and columns from which you want to retrieve data. Variables can also be used for this input.    
@@ -291,7 +291,7 @@ The Read Google Sheet Cell app in AIRA's Google Sheets functionality enables use
 -   Click on the Google Sheet app, where multiple app options are available. Select the Read Google Sheet Cell App.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the sheet from which you want to read data in the respective field. Variables can also be used to dynamically populate this information.
 -   Specify the range of cells from which you want to retrieve data. This can be done by entering the starting and ending cell coordinates or using variables to dynamically populate this information.    
 -   Click on the submit button to save the settings.
@@ -315,7 +315,7 @@ The Read Google Sheet Columns app is a feature within AIRA's Google Sheets funct
 -   Click on the Google Sheet app, where multiple app options are available. Select the Read Google Sheet Columns App.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the spreadsheet ID of the sheet from which you want to read data in the respective field. Variables can also be used to dynamically populate this information.
 -   Specify the range of columns from which you want to retrieve data. This can be done by entering the starting and ending column coordinates or using variables to dynamically populate this information.
 -   Click on the submit button to save the settings.
@@ -338,7 +338,7 @@ The Write Google Sheet Cells app in AIRA's Google Sheets functionality enables u
 -   Choose the "Write Google Sheet Cells" app from the available options within the Google Sheet app.
 -   Drag the "Write Google Sheet Cells" app into the AIRA workflow designer and connect it to the desired section of the workflow.
 -   Double-click on the app to open its settings.
--   Select the required connection to access Google Sheets.
+-   Select the required connection to access Google Sheets. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Provide the spreadsheet ID of the Google Sheets document where you want to update cells. Variables can be used for dynamic data insertion.
 -   Enter the data that you want to write into the cells. This can be done directly or using variables for dynamic data insertion.
 -   Specify the range of cells where you want to write the data. This can be done by specifying the starting and ending cell coordinates or using variables for dynamic population.
