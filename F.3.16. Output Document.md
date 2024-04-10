@@ -34,6 +34,7 @@ The ability to save generated documents in the document management section enhan
 - After clicking on the create document design section open, it works as a normal text editor We can also use variables in it.
 - Design the document in the editor.
 - Click on the Save content button to save the settings
+- After Creating output document, Simply select the document with drop down menu.
 
 **Additional Options:**
 
