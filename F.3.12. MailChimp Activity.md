@@ -27,7 +27,7 @@ The "Create a Campaign" app in AIRA Mailchimp enables users to set up and launch
 -   Navigate to the Mailchimp app in the AIRA app section and select "Create a Campaign" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location.
 -   Double-click on the app to access its settings.
--   Select the required connection to access Mailchimp.
+-   Select the required connection to access Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the campaign title, which can be a static text or dynamically populated using variables.
 -   Choose the audience (list ID) to which the campaign will be sent, available in the connection.
 -   Enter the subject line of the email campaign, using variables if needed.
@@ -58,7 +58,7 @@ The "Edit a Template Content" app in AIRA Mailchimp allows users to customise th
 -   Access the Mailchimp app in the AIRA app section and select the "Edit a Template Content" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location within the workflow.
 -   Double-click on the app to access its settings and configure the editing process.
--   Choose the required connection to access Mailchimp, ensuring seamless communication between AIRA and Mailchimp.
+-   Choose the required connection to access Mailchimp, ensuring seamless communication between AIRA and Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Select the template you wish to edit from the available options within the AIRA Mailchimp connection.
 -   Provide the campaign ID associated with the template. This information can be static or dynamic, using variables to populate the details.
 -   Click the submit button to save the settings and initiate the editing process.
@@ -83,7 +83,7 @@ The "Delete Campaign" app in AIRA Mailchimp Campaign allows users to remove camp
 -   Navigate to the Mailchimp app in the AIRA app section and select the "Delete Campaign" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location within the workflow.
 -   Double-click on the app to access its settings.
--   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp.
+-   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Provide the campaign ID of the campaign you wish to delete. This information can be manually entered or dynamically populated using variables.
 -   Click the submit button to save the settings and initiate the deletion process.
 
@@ -106,7 +106,7 @@ The "Perform a Campaign Action" app in AIRA Mailchimp enables users to execute v
 -   Navigate to the Mailchimp app in the AIRA app section and select the "Perform a Campaign Action" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location within the workflow.
 -   Double-click on the app to access its settings.
--   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp.
+-   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Provide the campaign ID of the campaign on which you want to perform the action. This information can be manually entered or dynamically populated using variables.
 -   Choose the action you want to apply to the campaign from the available options:
       -   Cancel a campaign
@@ -142,7 +142,7 @@ The "Get Campaign" app in AIRA Mailchimp allows users to retrieve information ab
 -   Navigate to the Mailchimp app in the AIRA app section and select the "Get Campaign" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location within the workflow.
 -   Double-click on the app to access its settings.
--   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp.
+-   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Provide the campaign ID of the campaign from which you want to retrieve information. You can either manually enter the campaign ID or use a variable to dynamically populate this information.
 -   Optionally, you can turn off the map button above the campaign ID section to use a dropdown menu to select the campaign ID.
 -   Click the submit button to save the settings and initiate the retrieval of campaign information.
@@ -167,7 +167,7 @@ The "Search Campaign" app in AIRA Mailchimp enables users to search for specific
 -   Navigate to the Mailchimp app in the AIRA app section and select the "Search Campaign" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location within the workflow.
 -   Double-click on the app to access its settings.
--   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp.
+-   Select the required connection to access Mailchimp, ensuring seamless integration between AIRA and Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Enter the search details in the respective section. This can include criteria such as campaign name, status, type, etc. Variables can be used to dynamically populate this information.
 -   Enter the limit for the number of campaigns to retrieve in the respective section. This determines how many campaigns will be returned based on the search criteria. Variables can also be used for this input.
 -   Click on the submit button to save the settings and initiate the search for campaigns based on the specified criteria.
@@ -193,7 +193,7 @@ The "Update Campaign" app in AIRA Mailchimp allows users to modify and update ex
 -   Navigate to the Mailchimp app in the AIRA app section and select the "Update Campaign" app.
 -   Drag and drop the app into the AIRA workflow designer and connect it to the desired location.
 -   Double-click on the app to access its settings.
--   Select the required connection to access Mailchimp.
+-   Select the required connection to access Mailchimp. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 -   Choose the campaign ID associated with the template from the dropdown menu.
 -   Enter the campaign title. This can be a static text or dynamically populated using variables.
 -   Select the audience (list ID) to which the campaign will be sent, available in the connection.
