@@ -26,6 +26,7 @@ The FCM (Firebase Cloud Messaging) Notification app in AIRA is a tool used to se
 - Connect the app to the desired location in the workflow.
 - Double-click on the app to open its settings.
 - Select the connection required to access the FCM service.
+- If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
 - Enter the title and message for the notification. Variables can also be used for dynamic content.
 - Choose the target users to receive the notification.
 - Optionally, enable the actionable icon if users need to take immediate action.
