@@ -24,9 +24,10 @@ Watch Email is used in AIRA workflow to trigger actions based on incoming emails
 4. Connect the app to the required place in the workflow.
 5. Double click on the app to open its settings.
 6. Select the connection for email access.
-7. Enter the subject of the email. Variables can also be used to dynamically insert the subject.
-8. Enter the sender's email address. Variables can also be used here.
-9. Click on the submit button to save the app settings.
+7. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
+8. Enter the subject of the email. Variables can also be used to dynamically insert the subject.
+9. Enter the sender's email address. Variables can also be used here.
+10. Click on the submit button to save the app settings.
 
 **Additional Options:**
 
