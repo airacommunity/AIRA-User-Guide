@@ -71,7 +71,7 @@ A variable is a named storage location in a workflow that holds a value. Variabl
 
 #### Apps
 
-In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. To learn more about the Apps and explore further insights, visit the [Acitvity section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3%20Activity%20Application.md) Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
+In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. To learn more about the Apps and explore further insights, visit the [Applications section](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3%20Activity%20Application.md) Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
 
 <table>
   <thead>
