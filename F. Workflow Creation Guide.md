@@ -187,11 +187,11 @@ Positioned at the top left of the AIRA Workflow Console, three essential options
 
 - **Workflow Option:** Clicking on the Workflow option directs users to the primary workflow window. This is the central space where users actively create, modify, and configure their workflows.
 - **Execution History Option:** This feature provides users with a portal to review the historical execution of their workflows. Users can access detailed information about past executions, facilitating performance analysis and troubleshooting.
-- **Search Bar:** Positioned on the left-hand side of the section, the search bar allows users to conveniently search for executions by their unique execution IDs.
-  - **Execution Status Indicators:**
-    - Green Tick: Indicates successful execution of the workflow.
-    - Red Tick: Highlights errors encountered during execution.
-    - Yellow Tick: Flags warnings that occurred during execution.
+  - **Search Bar:** Positioned on the left-hand side of the section, the search bar allows users to conveniently search for executions by their unique execution IDs.
+    - **Execution Status Indicators:**
+      - Green Tick: Indicates successful execution of the workflow.
+      - Red Tick: Highlights errors encountered during execution.
+      - Yellow Tick: Flags warnings that occurred during execution.
 - **Real Time Logs:** Clicking on the Logs option grants users access to the execution logs of the workflow. These logs provide detailed information about the sequence of events during the execution process, facilitating debugging and analysis.
   - **Execution Status Indicators:**
     - Green Tick: Indicates successful execution of the workflow.
