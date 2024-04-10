@@ -51,7 +51,15 @@ The Workflow Execution section in AIRA Orchestrator provides a comprehensive vie
 
 - Click on the workflow name to access the details of the workflow, referred to as the "Task List".
 - The Task List includes columns such as Activity, Definition Name, Type, Start Time, End Time, and Status.
-- Users can further interact with tasks using the "Action" column.
+- Users can further interact with tasks using the "Action" column. By clicking on the action button user can see the complete information about the task.
+    - Action Information Table Structure:
+        - Summary : User can see Status, Task Name, Task Reference, Task Execution ID, Retry Count, Scheduled Time, Start Time, End Time , Duration , Worker, undefined.
+        - Input : User can see all the input related to the task.
+        - Output : User can see all the output related to the task.
+        - JSON : User can see JSON of the related task.
+        - Defination : Show the defined task, Example output of the task.
+        - Poll Data : In poll data, user can see: Task, Domain, Last Polled By Worker, Last Poll Time, Current Queue Size.
+
 - Detailed task information can be viewed using the "View Detail" button.
 
 #### Additional Options:
@@ -59,12 +67,13 @@ The Workflow Execution section in AIRA Orchestrator provides a comprehensive vie
 - Above the Task List table, two options are available: "Task List" and "Workflow".
 - By selecting "Workflow", users can view the graphical representation of the workflow design.
 - Double-clicking on the workflow enables users to access detailed workflow information presented in a table format, including:
-  - Summary
-  - Input
-  - Output
-  - JSON
-  - Definition
-  - Poll Data
+
+  - Summary : User can see Status, Task Name, Task Reference, Task Execution ID, Retry Count, Scheduled Time, Start Time, End Time , Duration , Worker, undefined.
+  - Input : User can see all the input related to the task.
+  - Output : User can see all the output related to the task.
+  - JSON : User can see JSON of the related task.
+  - Defination : Show the defined task, Example output of the task.
+  - Poll Data : In poll data, user can see: Task, Domain, Last Polled By Worker, Last Poll Time, Current Queue Size.
 
 ----
 
