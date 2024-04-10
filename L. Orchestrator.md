@@ -32,12 +32,12 @@ The Workflow Execution section in AIRA Orchestrator provides a comprehensive vie
 - Click on the "Workflow Execution" tab to open the section.
 - The section is divided into two major parts: Job Status and Transaction.
 -  Job Status: Represents a pie chart illustrating the distribution of total jobs categorized as:
-  - Running
-  - Completed
-  - Paused
-  - Failed
-  - Timed Out
-  - Terminated
+    - Running
+    - Completed
+    - Paused
+    - Failed
+    - Timed Out
+    - Terminated
 - Transaction Overview: Provides a dynamic line chart displaying total workflow transactions over a specified period.
   - Users can select a start date and end date to view workflow transactions within a specific date range.
 
