@@ -47,7 +47,7 @@ The Workflow Execution section in AIRA Orchestrator provides a comprehensive vie
 - A table displays key details including Workflow Name, Workflow ID, Start Time, and End Time.
 - Options are available above the table for filtering based on job status (Running, Completed, Paused, Failed, Timed Out, Terminated).
 
-#### Task Details:
+#### Task List:
 
 - Click on the workflow name to access the details of the workflow, referred to as the "Task List".
 - The Task List includes columns such as Activity, Definition Name, Type, Start Time, End Time, and Status.
@@ -62,7 +62,7 @@ The Workflow Execution section in AIRA Orchestrator provides a comprehensive vie
 
 - Detailed task information can be viewed using the "View Detail" button.
 
-#### Additional Options:
+#### Workflow detail:
 
 - Above the Task List table, two options are available: "Task List" and "Workflow".
 - By selecting "Workflow", users can view the graphical representation of the workflow design.
