@@ -18,19 +18,26 @@ The Administration section of AIRA serves as a central hub for organizing and ma
 
 **Functions In Administration**
 
-<table border="0">
-  <tr>
-    <td width=350>Organisation</td>
-    <td width=350>SAML Configuration</td>
-    <td width=350>Document Management</td>
-    <td width=350>Licenses</td>
-  </tr>
-  <tr>
-    <td width=350>Integration Service</td>
-    <td width=350>System Configuration</td>
-    <td width=350>Master Data Management</td>
-    <td width=350></td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">Administration Section</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#organization">Organisation</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#saml-configuration">SAML Configuration</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#document-management">Document Management</a></td>
+      <td align="center" width=300><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#licenses">License</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#integration-service">Integration Service</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#system-configuration">System Configuration</a></td>
+      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/edit/main/N.%20Administration.md#master-data-management">Master Data Management</a></td>
+      <td align="center"><a href=""></a></td>
+    </tr>
+    </tbody>
 </table>
 
 ### Organization
@@ -58,6 +65,9 @@ The Organization section provides detailed information about users, groups, role
     - Define permissions accessible to the role.
     - After configuring permissions, users can save the new role by clicking "Submit."
 
+- **Status Button:**
+  - With the status button, we can filter the table into active and inactive entries.
+
 #### 2. User
 The "User Section" provides a comprehensive view of all users utilizing aira within the organization.
 
@@ -79,6 +89,9 @@ The "User Section" provides a comprehensive view of all users utilizing aira wit
   - Upon clicking, users are prompted to:
     - Fill in details such as First Name, Last Name, Designation, Email, Contact number, Organization, Address, Country, State, Password, Language, Time Zone, Reports to, and Roles.
     - Save the new user by clicking "Submit."
+
+- **Status Button:**
+  - With the status button, we can filter the table into active and inactive entries.
 
 #### 3. Group
 
@@ -102,6 +115,9 @@ The "Group Section" provides a comprehensive view of all group utilizing aira wi
     - Fill in details such as Name, Description, Select User by dropdown option.
     - Save the new group by clicking "Submit."
 
+- **Status Button:**
+  - With the status button, we can filter the table into active and inactive entries.
+
 #### 4. Department
 The "Department Section" provides a comprehensive view of all department and its manager name utilizing aira within the organization.
 
@@ -122,7 +138,10 @@ The "Department Section" provides a comprehensive view of all department and its
   - Upon clicking, users are prompted to:
     - Fill in details such as Name and select manager with the help of drop down option.
     - Save the new group by clicking "Submit."
-   
+
+- **Status Button:**
+  - With the status button, we can filter the table into active and inactive entries.
+
 ### SAML Configuration
 
 SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit [Azure Enterprice Application Configuration](https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.1%20Azure%20Enterprise%20App%20Configuration.md).
