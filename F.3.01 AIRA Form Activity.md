@@ -31,25 +31,25 @@ The AIRA Form offers a user-friendly interface for manual data input in workflow
 -   Choose the form you've previously created from the "Select Form" dropdown menu.
 -   Define conditions for the execution of the form according to your workflow requirements. These conditions could determine when the form should be triggered or executed.
     
-Variable Selection
-
--   Begin by typing "$$" to initiate the variable list display.
--   Review the list of available variables and select the one relevant to your condition.
-
-Operator Selection
-
--   After selecting the variable, choose the appropriate operator for your condition.
--   Operators include "=", ">", "<", and more, depending on your specific requirement.
-  
-Value Input
-
--   Enter the value against which you want to evaluate the condition.
--   This value will be compared to the variable using the selected operator to determine the condition's outcome.
-
-
-```
-For Example : $$time$$ === "12"
-```
+    Variable Selection
+    
+    -   Begin by typing "$$" to initiate the variable list display.
+    -   Review the list of available variables and select the one relevant to your condition.
+    
+    Operator Selection
+    
+    -   After selecting the variable, choose the appropriate operator for your condition.
+    -   Operators include "=", ">", "<", and more, depending on your specific requirement.
+      
+    Value Input
+    
+    -   Enter the value against which you want to evaluate the condition.
+    -   This value will be compared to the variable using the selected operator to determine the condition's outcome.
+    
+    
+    ```
+    For Example : $$time$$ === "12"
+    ```
 
 -   Once conditions are applied, you have the option to either save or delete the form. If you're satisfied with the form and its conditions, proceed to save it for future workflow use.
 
