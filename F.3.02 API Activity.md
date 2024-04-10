@@ -31,7 +31,7 @@ The API Authentication app in AIRA facilitates secure access to external APIs by
 -   Drag and drop the API call app into the AIRA workflow designer.
 -   Connect the app to the desired location within the workflow.
 -   Double-click on the app to open the app setting.
--   Select the method of API authentication: GET, PUT, POST, or PATCH.
+-   Select the method of API Authorization: GET, PUT, POST, or PATCH.
 -   Insert the URL. You can use variables to dynamically populate the URL.
 -   Insert the parameter, header, and body. Variables can also be used to fill these details.
 -   Choose the type of authorization for the API. Options include:
@@ -61,7 +61,7 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 -   Drag and drop the API Authentication app into the AIRA workflow designer.
 -   Connect the app to the desired location within the workflow.
 -   Double-click on the app to open the app settings.
--   Select the method of API authentication: GET, PUT, POST, or PATCH
+-   Select the method of API Authorization: GET, PUT, POST, or PATCH
     -   GET: Retrieve data from the server.
     -   PUT: Update or replace existing server resources.
     -   POST: Create new resources or submit data for processing.
@@ -82,7 +82,7 @@ Right-click on the app in the AIRA Designer workflow to access additional option
 
 **Additional Options:**
 
-Right-click on the app in the AIRA Designer workflow to access additional options:
+Right-click on the apps in the AIRA Designer workflow to access additional options:
 
 - Unlink: Disconnect the app from any connected apps or tools in the workflow.
 - Setting: Access and modify the settings of the app.
