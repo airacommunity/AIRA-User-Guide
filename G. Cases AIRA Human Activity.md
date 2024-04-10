@@ -2,7 +2,7 @@
 # Cases AIRA Human Activity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
 
 ## Overview
-Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required. But to understand “Cases” first we have to understand the “Forms” app activity.To learn about AIRA forms, visit the [AIRA Form](url) section.
+Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required. But to understand “Cases” first we have to understand the “Forms” app activity.To learn about AIRA forms, visit the [AIRA Form](https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3.01.01%20Form%20Function.md) section.
 
 Forms in AIRA workflows play a crucial role in facilitating human-centric activities and data collection within processes.
 
