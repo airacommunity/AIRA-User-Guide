@@ -5,8 +5,9 @@
 
 Welcome to the starting point of your AIRA journey! In this section, we'll guide you through the essential steps to log in and explore the user interface. Whether you're a newcomer or returning user, understanding these fundamentals is key to unlocking the full potential of AIRA.
 <br>
-
-> <img align="left" width="50" height="50" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Icon-Warning.png?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+<br>
+<br>
+<img align="left" width="30" height="30" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Icon-Warning.png?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
 
 <br>
 
