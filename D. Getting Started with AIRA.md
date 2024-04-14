@@ -7,7 +7,7 @@ Welcome to the starting point of your AIRA journey! In this section, we'll guide
 <br>
 <br>
 <br>
-<img align="left" width="30" height="30" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Icon-Warning.png?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
+<img align="left" width="50" height="50" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Icon-Warning.png?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
 
 <br>
 
