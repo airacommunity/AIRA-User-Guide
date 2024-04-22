@@ -118,7 +118,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
 
 <br>
 
-## What to Expect ?
+## What This Guide Holds
 
 In this user guide, you'll get a deep dive into all of AIRA's features, from the basics to the advanced stuff. Each part is designed to be clear, with insights and examples to help you. Whether you're setting up Digital Agents, exploring Predictive Analytics, or trying out Process Mining, this guide has got you covered.
 
