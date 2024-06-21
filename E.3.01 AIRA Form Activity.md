@@ -119,7 +119,7 @@ Drag the Form component from the toolbox to the desired location on the form des
 In the additional settings located at the top right corner of the form designer, you'll find the following options:
 <ol>
  	<li><strong>Preview:</strong> Allows you to preview the form layout and functionality before saving or deploying it. This feature helps ensure that the form appears and behaves as intended.</li>
- 	<li><strong>JavaScript:</strong> Enables you to apply special form functions using JavaScript. You can write custom JavaScript code to enhance the form's functionality or implement specific behaviours based on user interactions. To Know more about it, visit <a class="is-external-link" href="https://wiki.aira.fr/docs/form-functions/">AIRA form functions</a>.</li>
+ 	<li><strong>JavaScript:</strong> Enables you to apply special form functions using JavaScript. You can write custom JavaScript code to enhance the form's functionality or implement specific behaviours based on user interactions. To Know more about it, visit <a class="is-external-link" href="https://github.com/airacommunity/AIRA-Functions-Document/blob/main/1.%20Form%20Functions.md">AIRA form functions</a>.</li>
  	<li><strong>Save:</strong> Saves the changes made to the form configuration. Clicking this option ensures that any modifications or updates to the form are retained.</li>
  	<li><strong>Import:</strong> Allows you to Import files or data to the form. This feature is useful for adding attachments or importing data into the form from external sources.</li>
  	<li><strong>Export:</strong> Enables you to Export files or data from the form. You can use this option to export form submissions, attachments, or any other relevant data for further analysis or storage.</li>
