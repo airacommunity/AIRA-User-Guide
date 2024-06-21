@@ -30,24 +30,24 @@ At the top of the Module section, a search bar allows users to quickly find spec
 </thead>
 <tbody>
 <tr>
-<td align="center" width="300"><a class="is-external-link">Do While</a></td>
-<td align="center" width="300"><a class="is-external-link">Fork Join and Join</a></td>
-<td align="center" width="300"><a class="is-external-link">Set Variable</a></td>
-<td align="center" width="300"><a class="is-external-link">Sub Workflow</a></td>
+<td align="center" width="300"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#do-while">Do While</a></td>
+<td align="center" width="300"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#fork-join-and-join">Fork Join and Join</a></td>
+<td align="center" width="300"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#set-variable">Set Variable</a></td>
+<td align="center" width="300"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#sub-workflow">Sub Workflow</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link">Switch</a></td>
-<td align="center"><a class="is-external-link">Terminate</a></td>
-<td align="center"><a class="is-external-link">Wait</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#switch">Switch</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#terminate">Terminate</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md#wait">Wait</a></td>
 <td align="center"></td>
 </tr>
 </tbody>
 </table>
-The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Do While for repetitive tasks, Fork Join and Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the <a class="is-external-link" href="https://wiki.aira.fr/docs/tools/">Tools section</a>.
+The Tools section in AIRA's workflow designer offers a range of powerful features to enhance workflow efficiency. Key tools include Do While for repetitive tasks, Fork Join and Join for parallel execution, Set Variable for dynamic data handling, Sub Workflow for modularization, Switch for conditional branching, Terminate for graceful workflow halting, and Wait for time delays. These tools enable seamless automation and optimization of complex processes, improving overall workflow effectiveness. To learn more about the Tools and explore further insights, visit the <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.1.%20Tools.md">Tools section</a>.
 <h4 id="variable" class="toc-header">Variable</h4>
-A variable is a named storage location in a workflow that holds a value. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. To learn more about the Variable and explore further insights, visit the <a class="is-external-link" href="http:https://wiki.aira.fr/docs/variable/">Variable section</a>
+A variable is a named storage location in a workflow that holds a value. Variables are fundamental in worklfow automation because they allow developers to work with data dynamically. To learn more about the Variable and explore further insights, visit the <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.2.%20Variables%20Explaination.md">Variable section</a>
 <h4 id="apps" class="toc-header">Apps</h4>
-In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. To learn more about the Apps and explore further insights, visit the <a class="is-external-link" href="https://wiki.aira.fr/docs/application-activity/">Applications section</a> Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
+In the Apps section of AIRA, users encounter a diverse range of application designed to create workflow and enhance capabilities. To learn more about the Apps and explore further insights, visit the <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3%20Activity%20Application.md">Applications section</a> Let's navigate through the array of available apps, understanding their functionalities and the role they play in optimising automation:
 <div>
 <table class="my-table">
 <thead>
@@ -57,32 +57,32 @@ In the Apps section of AIRA, users encounter a diverse range of application desi
 </thead>
 <tbody>
 <tr>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/aira-forms/">AIRA Forms</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/aira-api/">API Call</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/elastic-search/">Elastic Search</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/watch-e-mail/">Watch Email</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-calender/">Google Calender</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-drive/">Google Drive</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.01%20AIRA%20Form%20Activity.md">AIRA Forms</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.02%20API%20Activity.md">API Call</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.05%20Elastic%20Search.md">Elastic Search</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.06%20Watch%20Email.md">Watch Email</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.07%20Google%20Calender%20Activity.md">Google Calender</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.08%20Google%20Drive%20Activity.md">Google Drive</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-mail/">Google Mails</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-sheets/">Google Sheets</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/idp-2/">IDP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/mailchimp/">MailChimps</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/model/">Models</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/mysql/">MySQL</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.09%20G-Mail%20Activity.md">Google Mails</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.10%20Google%20Sheets%20Activity.md">Google Sheets</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.11%20IDP%20Activity.md">IDP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.12.%20MailChimp%20Activity.md">MailChimps</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.13.%20Model%20Activity.md">Models</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.14.%20MySQL%20Activity.md">MySQL</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/notification/">Notification</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/oracle-erp/">Oracle ERP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/output-document/">Output Document</a></td>
-<td align="center"><a class="is-external-link" href="ttps://wiki.aira.fr/docs/sap/">SAP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/sftp/">SFTP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/smtp/">SMTP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.15%20Notification%20Activity.md">Notification</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.04%20Oracle%20ERP%20Activity.md">Oracle ERP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.16.%20Output%20Document.md">Output Document</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.17.%20SAP%20Activity.md">SAP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.18.%20SFTP%20Activity.md">SFTP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.19.%20SMTP%20Activity.md">SMTP</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/trigger/">Trigger</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/aira-bot/">AIRA Bots</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.20%20Trigger%20Activity.md">Trigger</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.03%20AIRA%20BOT%20Activity.md">AIRA Bots</a></td>
 <td align="center"></td>
 <td align="center"></td>
 <td align="center"></td>
