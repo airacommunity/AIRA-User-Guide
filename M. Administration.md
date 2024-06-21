@@ -1,6 +1,5 @@
 <h1><span style="color: #411d66;">Overview                                                    <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e"></span></h1>
 
-<hr />
 
 The Administration section of AIRA serves as a central hub for organizing and managing the application's key functionalities and settings. From user management to system configuration, this section provides users with intuitive tools to streamline organizational tasks and ensure smooth operation of the AIRA platform. With features like user management, document storage, integration options, and system configuration settings, AIRA's Administration empowers users to efficiently control and customize their automation workflows to meet their specific needs.
 <blockquote class="is-warning">Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.</blockquote>
