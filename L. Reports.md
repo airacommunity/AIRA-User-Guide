@@ -1,7 +1,6 @@
 <h1><span style="color: #411d66;">Overview                                                    <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
-<hr />
 
 AIRA reports are essential tools within the AIRA platform, providing visualized data insights for informed decision-making. Users can search previous reports or create new ones from scratch, defining chart details, configuring data sources, and customizing graph styles. These reports empower users with actionable insights derived from comprehensive data analysis.
 <blockquote class="is-warning">Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.</blockquote>
