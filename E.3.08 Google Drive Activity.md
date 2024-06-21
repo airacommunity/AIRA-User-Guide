@@ -13,7 +13,7 @@ The Copy File app within the Google Drive apps in AIRA allows users to duplicate
  	<li>Locate the Copy File app option within the Google Drive app.</li>
  	<li>Drag and drop the Copy File app into the AIRA workflow canvas and connect it to the desired workflow components.</li>
  	<li>Double-click on the Copy File app to open its settings.</li>
- 	<li>Select the appropriate connection for the app to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Select the appropriate connection for the app to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the File ID of the file you want to copy, or use a variable to dynamically populate the File ID.</li>
  	<li>Enter the desired File Title for the copied file, or use a variable to dynamically populate the File Title.</li>
  	<li>Enter the Folder ID of the destination folder where you want to copy the file, or use a variable to dynamically populate the Folder ID.</li>
@@ -36,7 +36,7 @@ The Create Drive File app within the Google Drive apps in AIRA facilitates the g
  	<li>Locate the Create Drive File app option within the Google Drive app.</li>
  	<li>Drag and drop the Create Drive File app into the AIRA workflow canvas and connect it to the desired workflow components.</li>
  	<li>Double-click on the Create Drive File app to open its settings.</li>
- 	<li>Select the appropriate connection for the app to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Select the appropriate connection for the app to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the Folder ID of the destination folder where you want to create the new file. You can also use a variable to dynamically populate the Folder ID.</li>
  	<li>Enter the desired File Name for the new file. You can also use a variable to dynamically populate the File Name.</li>
  	<li>Select the desired file type from the available options: DOCX, XSLX, PDF, CSV.</li>
@@ -60,7 +60,7 @@ The Delete Folder or File app within the Google Drive apps in AIRA enables users
  	<li>Locate the Delete Folder or File app option within the Google Drive app.</li>
  	<li>Drag and drop the Delete Folder or File app into the AIRA workflow canvas and connect it to the desired workflow components.</li>
  	<li>Double-click on the Delete Folder or File app to open its settings.</li>
- 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the Folder or File ID of the item you want to delete in the respective field. You can also use a variable to dynamically populate the Folder or File ID.</li>
  	<li>Click on the submit button to save the app settings and initiate the deletion process.</li>
 </ul>
@@ -81,7 +81,7 @@ The Create Drive Folder app in AIRA allows users to generate new folders directl
  	<li>Locate the Create Drive Folder App option within the Google Drive app.</li>
  	<li>Drag and drop the Create Drive Folder App into the AIRA workflow canvas and connect it to the desired workflow components.</li>
  	<li>Double-click on the Create Drive Folder App to open its settings.</li>
- 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the desired folder name in the respective field. You can also use a variable to dynamically populate the folder name.</li>
  	<li>Click on the submit button to save the app settings and initiate the folder creation process.</li>
 </ul>
@@ -102,7 +102,7 @@ The Move File app in the AIRA Google Drive app allows users to relocate files fr
  	<li>Locate the Move File App option within the Google Drive app.</li>
  	<li>Drag and drop the Move File App into the AIRA workflow canvas and connect it to the desired workflow components.</li>
  	<li>Double-click on the Move File App to open its settings.</li>
- 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the file ID of the file you want to move. You can also use a variable to dynamically populate the file ID.</li>
  	<li>Enter the target folder ID where you want to move the file. Again, you can use a variable to dynamically populate the target folder ID.</li>
  	<li>Click on the submit button to save the settings and initiate the file movement process.</li>
@@ -124,7 +124,7 @@ The Search File Folder app in the AIRA Google Drive apps allows users to find sp
  	<li>Locate the Search File Folder App option within the Google Drive app.</li>
  	<li>Drag and drop the Search File Folder App into the AIRA workflow canvas and connect it to the desired workflow components.</li>
  	<li>Double-click on the Search File Folder App to open its settings.</li>
- 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Select the required connection to access Google Drive. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the folder ID of the folder you want to search for. You can also use a variable to dynamically populate the folder ID.</li>
  	<li>Click on the submit button to save the settings and initiate the folder search process.</li>
 </ul>
