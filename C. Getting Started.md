@@ -39,52 +39,52 @@ The interface has 10 sections on the left, each serving a specific purpose for h
 <tr>
 <td>Dashboard</td>
 <td>Get an overview of essential metrics and quick actions for streamlined navigation.</td>
-<td><a href="https://wiki.aira.fr/docs/dashboard-interface/">Dashboard section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Dashboard%20Interface.md">Dashboard section</a></td>
 </tr>
 <tr>
 <td>Cases</td>
 <td>Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required.</td>
-<td><a href="https://wiki.aira.fr/docs/cases-aira-human-activity/">Cases section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Cases%20AIRA%20Human%20Activity.md">Cases section</a></td>
 </tr>
 <tr>
 <td>Digital Agents</td>
 <td>Access and configure intelligent digital agents bots to automate tasks and processes.</td>
-<td><a href="https://wiki.aira.fr/docs/digital-agents/">Digital Agents section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Digitla%20Agents.md">Digital Agents section</a></td>
 </tr>
 <tr>
 <td>Connections</td>
 <td>Establish and manage connections smoothly for a connected automation ecosystem.</td>
-<td><a href="https://wiki.aira.fr/docs/connections/">Connection section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connection section</a></td>
 </tr>
 <tr>
 <td>Jobs</td>
 <td>Create and execute automation workflows effortlessly.</td>
-<td><a href="https://wiki.aira.fr/docs/workflow-creation/">Jobs section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Workflow%20Creation.md">Jobs section</a></td>
 </tr>
 <tr>
 <td>Intelligent Document Processing</td>
 <td>Using powerful document processing capabilities for efficient data extraction.</td>
-<td><a href="https://wiki.aira.fr/docs/idp/">IDP section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.11%20IDP%20Activity.md">IDP section</a></td>
 </tr>
 <tr>
 <td>Models</td>
 <td>Explore and manage automation models to enhance your hyper-automation workflows.</td>
-<td><a href="https://wiki.aira.fr/docs/models/">Models section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.13.%20Model%20Activity.md">Models section</a></td>
 </tr>
 <tr>
 <td>Orchestrator</td>
 <td>Orchestrate and streamline the execution of tasks and processes for optimal efficiency.</td>
-<td><a href="https://wiki.aira.fr/docs/orchestrator/">Orchestrator section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Orchestrator.md">Orchestrator section</a></td>
 </tr>
 <tr>
 <td>Report</td>
 <td>Generate detailed reports to gain insights into your automation processes and performance.</td>
-<td><a href="https://wiki.aira.fr/docs/reports/">Reports section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/L.%20Reports.md">Reports section</a></td>
 </tr>
 <tr>
 <td>Administration</td>
 <td>Configure and administer AIRA settings to align the platform with your enterprise requirements.</td>
-<td><a href="https://wiki.aira.fr/docs/administration/">Administration section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/M.%20Administration.md">Administration section</a></td>
 </tr>
 </tbody>
 </table>
@@ -226,7 +226,7 @@ AIRA understands the importance of language diversity. With support for six diff
 </ul>
 After filling out all the information, click on submit to save the profile setting.
 <ul>
- 	<li>Settings: Clicking on Settings navigates you to the administration section of AIRA, where you can fine-tune configurations based on your preferences. To learn more about the Administration and explore further insights, visit the <a class="is-external-link" href="http://wiki.aira.technology:8000/en/user-guide/administration">Administration</a> section.</li>
+ 	<li>Settings: Clicking on Settings navigates you to the administration section of AIRA, where you can fine-tune configurations based on your preferences. To learn more about the Administration and explore further insights, visit the <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/M.%20Administration.md">Administration</a> section.</li>
  	<li>Logout: For a secure exit, the Logout button is available, ensuring your account remains protected.</li>
 </ul>
 &nbsp;
