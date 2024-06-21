@@ -14,7 +14,7 @@ Watch Email is used in AIRA workflow to trigger actions based on incoming emails
  	<li>Connect the app to the required place in the workflow.</li>
  	<li>Double click on the app to open its settings.</li>
  	<li>Select the connection for email access.</li>
- 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Enter the subject of the email. Variables can also be used to dynamically insert the subject.</li>
  	<li>Enter the sender's email address. Variables can also be used here.</li>
  	<li>Click on the submit button to save the app settings.</li>
