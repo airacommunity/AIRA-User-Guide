@@ -1,7 +1,6 @@
 <h1><span style="color: #411d66;">Overview                                                    <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
-<hr />
 
 The Output Document app in AIRA is utilised to generate various types of output documents within a workflow These documents could include reports, summaries, invoices, or any other form of output required by the workflow
 
