@@ -30,7 +30,7 @@ By configuring SMTP settings within AIRA workflow, users can set up triggers or 
 <h3 id="selecting-connection" class="toc-header">Selecting Connection:</h3>
 <ul>
  	<li>Choose the connection previously created from the connection section. This connection will be used to send emails.</li>
- 	<li>If a connection is not created before, click on the add button to create a connection. To know more about connections visit <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">AIRA Connection</a> section.</li>
+ 	<li>If a connection is not created before, click on the add button to create a connection. To know more about connections visit <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">AIRA Connection</a> section.</li>
 </ul>
 <h3 id="defining-recipient-type" class="toc-header">Defining Recipient Type:</h3>
 <ul>
