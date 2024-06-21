@@ -1,7 +1,6 @@
 <h1><span style="color: #411d66;">Overview                                                     <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
-<hr />
 
 AIRA Workflow Automation is a system designed to streamline and optimize business processes by automating repetitive tasks, facilitating seamless integration between different applications, and enabling intelligent decision-making within workflows. It employs a combination of tools and features to automate complex processes, improve efficiency, reduce errors, and enhance overall productivity. By automating manual tasks and orchestrating the flow of work, AIRA Workflow Automation empowers organizations to achieve greater consistency, scalability, and agility in their operations.
 <blockquote class="is-warning">Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.</blockquote>
