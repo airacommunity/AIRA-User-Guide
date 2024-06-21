@@ -15,7 +15,7 @@ SAP BAPI NWRFC can be used in AIRA workflows to integrate SAP functionalities in
  	<li>Connect the app to the desired location within the workflow.</li>
  	<li>Double-click on the app to open the app settings.</li>
  	<li>Select the required connection to establish the connection between SAP and AIRA.</li>
- 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Fill in the SAP BAPI name in the designated section. You can use variables to dynamically populate the SAP BAPI name.</li>
  	<li>Provide the SAP BAPI structure. Again, variables can be used to dynamically fill the SAP BAPI structure.</li>
  	<li>Click on the submit button to save the app settings.</li>
