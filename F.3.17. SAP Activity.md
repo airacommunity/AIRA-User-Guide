@@ -1,103 +1,77 @@
-![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
-# SAP Activity <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
+<h1><span style="color: #411d66;">Overview                                                      <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e"></span></h1>
 
-## Overview
+<hr />
+
 SAP (Systems, Applications, and Products) is an enterprise resource planning (ERP) software that helps businesses manage various aspects such as finance, operations, human resources, and more.
-
-<br>
-
-> <img align="left" width="40" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Icon-Warning.png?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
-
-<br>
-
-## SAP BAPI NWRFC
-
+<blockquote class="is-warning">Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.</blockquote>
+<h2 id="sap-bapi-nwrfc" class="toc-header">SAP BAPI NWRFC</h2>
 SAP Business Application Programming Interface (BAPI) Non-Unicode Remote Function Call (NWRFC) is a technology that allows external systems to communicate with SAP systems and execute remote function calls.
-
-### Use in AIRA Workflow
-
+<h3 id="use-in-aira-workflow" class="toc-header">Use in AIRA Workflow</h3>
 SAP BAPI NWRFC can be used in AIRA workflows to integrate SAP functionalities into automated processes, enabling seamless data exchange and interaction between SAP systems and other applications.
-
-#### To use SAP BAPI NWRFC in AIRA, follow these steps:
-
-1. Navigate to the SAP section in the AIRA app section.
-2. Click on SAP, where you'll find two options: SAP BAPI NWRFC and SAP WSDL Calls.
-3. Drag and drop the SAP BAPI NWRFC app into the AIRA workflow designer.
-4. Connect the app to the desired location within the workflow.
-5. Double-click on the app to open the app settings.
-6. Select the required connection to establish the connection between SAP and AIRA.
-7. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA [Connections](https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md).
-8. Fill in the SAP BAPI name in the designated section. You can use variables to dynamically populate the SAP BAPI name.
-9. Provide the SAP BAPI structure. Again, variables can be used to dynamically fill the SAP BAPI structure.
-10. Click on the submit button to save the app settings.
-
-**Additional Options:**
+<h4 id="to-use-sap-bapi-nwrfc-in-aira-follow-these-steps" class="toc-header">To use SAP BAPI NWRFC in AIRA, follow these steps:</h4>
+<ol>
+ 	<li>Navigate to the SAP section in the AIRA app section.</li>
+ 	<li>Click on SAP, where you'll find two options: SAP BAPI NWRFC and SAP WSDL Calls.</li>
+ 	<li>Drag and drop the SAP BAPI NWRFC app into the AIRA workflow designer.</li>
+ 	<li>Connect the app to the desired location within the workflow.</li>
+ 	<li>Double-click on the app to open the app settings.</li>
+ 	<li>Select the required connection to establish the connection between SAP and AIRA.</li>
+ 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>Fill in the SAP BAPI name in the designated section. You can use variables to dynamically populate the SAP BAPI name.</li>
+ 	<li>Provide the SAP BAPI structure. Again, variables can be used to dynamically fill the SAP BAPI structure.</li>
+ 	<li>Click on the submit button to save the app settings.</li>
+</ol>
+<strong>Additional Options:</strong>
 
 Right-click on the app in the AIRA Designer workflow to access additional options:
-
-- Unlink: Disconnect the app from any connected apps or tools in the workflow.
-- Setting: Access and modify the settings of the app.
-- Rename: Change the name of the apps for better organization.
-- Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-- Delete Module: Permanently delete the app from the workflow if it's no longer needed.
-  
-## SAP WSDL Calls
-
+<ul>
+ 	<li><strong>Unlink:</strong> Disconnect the app from any connected apps or tools in the workflow.</li>
+ 	<li><strong>Setting:</strong> Access and modify the settings of the app.</li>
+ 	<li><strong>Rename:</strong> Change the name of the apps for better organization.</li>
+ 	<li><strong>Trigger:</strong> Set triggers on the app to initiate actions based on specified conditions or events.</li>
+ 	<li><strong>Delete Module:</strong> Permanently delete the app from the workflow if it's no longer needed.</li>
+</ul>
+<h2 id="sap-wsdl-calls" class="toc-header">SAP WSDL Calls</h2>
 SAP WSDL (Web Services Description Language) Calls allow AIRA workflows to invoke SAP's web services and execute specific functions or operations within the SAP system.
-
-### Use in AIRA Workflow
-
+<h3 id="use-in-aira-workflow-1" class="toc-header">Use in AIRA Workflow</h3>
 SAP WSDL Calls facilitate the integration of SAP web services into AIRA workflows, enabling automated interactions with SAP systems to perform tasks such as data retrieval, updates, and more.
 
 Working Together in AIRA: SAP BAPI NWRFC and SAP WSDL Calls work together within AIRA workflows to enable comprehensive integration with SAP systems. BAPI NWRFC facilitates direct communication with SAP systems, while WSDL Calls enable interaction with SAP's web services, collectively allowing for seamless integration and automation of SAP-related tasks within the AIRA platform.
-
-#### To use SAP WSDL calls in AIRA, follow these steps:
-
-1. Navigate to the SAP section in the AIRA app section.
-2. Click on SAP, where you'll find two options: SAP BAPI NWRFC and SAP WSDL Calls.
-3. Drag and drop the SAP WSDL call app into the AIRA workflow designer.
-4. Connect the app to the desired location within the workflow.
-5. Double-click on the app to open its settings.
-6. Fill in the request URL. You can use variables to dynamically populate the request URL.
-7. Select the request method. Choose from GET, PUT, POST, PATCH, or DELETE based on your requirements.
-8. Understand the use of each request method:
-    - GET: Retrieve data from the server.
-    - PUT: Update data on the server.
-    - POST: Send data to the server to create a new resource.
-    - PATCH: Update specific parts of data on the server.
-    - DELETE: Remove data from the server.
-9. Select the appropriate authorization method: no authorization, basic authorization, or bearer token.
-10. Fill in the body of the request. Variables can be used to dynamically populate the request body.
-11. Enter the username. Variables can also be used here.
-12. Provide the password.
-13. Click on the submit button to save the app settings.
-
-**Additional Options:**
+<h4 id="to-use-sap-wsdl-calls-in-aira-follow-these-steps" class="toc-header">To use SAP WSDL calls in AIRA, follow these steps:</h4>
+<ol>
+ 	<li>Navigate to the SAP section in the AIRA app section.</li>
+ 	<li>Click on SAP, where you'll find two options: SAP BAPI NWRFC and SAP WSDL Calls.</li>
+ 	<li>Drag and drop the SAP WSDL call app into the AIRA workflow designer.</li>
+ 	<li>Connect the app to the desired location within the workflow.</li>
+ 	<li>Double-click on the app to open its settings.</li>
+ 	<li>Fill in the request URL. You can use variables to dynamically populate the request URL.</li>
+ 	<li>Select the request method. Choose from GET, PUT, POST, PATCH, or DELETE based on your requirements.</li>
+ 	<li>Understand the use of each request method:
+<ul>
+ 	<li><strong>GET:</strong> Retrieve data from the server.</li>
+ 	<li><strong>PUT:</strong> Update data on the server.</li>
+ 	<li><strong>POST</strong>: Send data to the server to create a new resource.</li>
+ 	<li><strong>PATCH</strong>: Update specific parts of data on the server.</li>
+ 	<li><strong>DELETE</strong>: Remove data from the server.</li>
+</ul>
+</li>
+ 	<li>Select the appropriate authorization method: no authorization, basic authorization, or bearer token.</li>
+ 	<li>Fill in the body of the request. Variables can be used to dynamically populate the request body.</li>
+ 	<li>Enter the username. Variables can also be used here.</li>
+ 	<li>Provide the password.</li>
+ 	<li>Click on the submit button to save the app settings.</li>
+</ol>
+<strong>Additional Options:</strong>
 
 Right-click on the app in the AIRA Designer workflow to access additional options:
+<ul>
+ 	<li><strong>Unlink</strong>: Disconnect the app from any connected apps or tools in the workflow.</li>
+ 	<li><strong>Setting</strong>: Access and modify the settings of the app.</li>
+ 	<li><strong>Rename</strong>: Change the name of the apps for better organization.</li>
+ 	<li><strong>Trigger</strong>: Set triggers on the app to initiate actions based on specified conditions or events.</li>
+ 	<li><strong>Delete</strong> <strong>Module</strong>: Permanently delete the app from the workflow if it's no longer needed.</li>
+</ul>
+&nbsp;
 
-- Unlink: Disconnect the app from any connected apps or tools in the workflow.
-- Setting: Access and modify the settings of the app.
-- Rename: Change the name of the apps for better organization.
-- Trigger: Set triggers on the app to initiate actions based on specified conditions or events.
-- Delete Module: Permanently delete the app from the workflow if it's no longer needed.
-
-----
-
-<br>
-<br>
-<br>
-
-<table border="0" align="center">
-  <tr>
-    <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-website.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
-    <td><a href="https://www.linkedin.com/company/aira-rpa/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20linkedin.png?raw=true" alt="Image 1" width="30" height="30"></a></td>
-    <td><a href="https://www.instagram.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-instagram.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
-    <td><a href="https://www.youtube.com/channel/UCHHCcwQrx-_19sAhu-2R4ww"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20youtube.png?raw=true" alt="Image 3" width="30" height="30"></a></td>
-    <td><a href="https://twitter.com/Aira_RPA"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20twitter.png?raw=true" alt="Image 4" width="30" height="30"></a></td>
-    <td><a href="mailto:connect@aira.fr"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20gmail.png?raw=true" alt="Image 6" width="30" height="30"></a></td>
-  </tr>
-</table>
-
-
-![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
+-----
+![Footer](https://github.com/airacommunity/AIRA-Installation/assets/153823636/f78c5168-fae6-4a12-a01d-8e98fe7d7ae2)
