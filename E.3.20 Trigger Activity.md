@@ -13,7 +13,7 @@ Triggers within AIRA workflow provide a means to apply specific business logic b
  	<li>Scroll through the list of apps until you find "Trigger". Click on it to select it.</li>
  	<li>Once selected, a JavaScript option should appear. Drag and drop the JavaScript trigger into the workflow designer.</li>
  	<li>Double-click on the trigger block that you've dragged into the workflow canvas. This action should open a JavaScript code window.</li>
- 	<li>Write your trigger logic using JavaScript. You may utilise predefined trigger functions to simplify your code. To know about the special trigger function, visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/trigger-functions/">Trigger Functions</a>.</li>
+ 	<li>Write your trigger logic using JavaScript. You may utilise predefined trigger functions to simplify your code. To know about the special trigger function, visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-Functions-Document/blob/main/2.%20Trigger%20Functions.md">Trigger Functions</a>.</li>
  	<li>After completing the trigger code, click on the "Submit" button located below the JavaScript code window.</li>
  	<li>Place the created trigger within the workflow according to your desired placement.</li>
  	<li>Connect the trigger block to other workflow components as needed.</li>
