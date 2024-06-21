@@ -13,32 +13,32 @@ In the AIRA workflow designer, "AIRA Apps" refer to pre-built functionalities or
 </thead>
 <tbody>
 <tr>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/aira-forms/">AIRA Forms</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/aira-api/">API Call</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/elastic-search/">Elastic Search</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/watch-e-mail/">Watch Email</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-calender/">Google Calender</a></td>
-<td align="center" width="200"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-drive/">Google Drive</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.01%20AIRA%20Form%20Activity.md">AIRA Forms</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.02%20API%20Activity.md">API Call</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.05%20Elastic%20Search.md">Elastic Search</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.06%20Watch%20Email.md">Watch Email</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.07%20Google%20Calender%20Activity.md">Google Calender</a></td>
+<td align="center" width="200"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.08%20Google%20Drive%20Activity.md">Google Drive</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-mail/">Google Mails</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/google-sheets/">Google Sheets</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/idp-2/">IDP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/mailchimp/">MailChimps</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/model/">Models</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/mysql/">MySQL</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.09%20G-Mail%20Activity.md">Google Mails</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.10%20Google%20Sheets%20Activity.md">Google Sheets</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.11%20IDP%20Activity.md">IDP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.12.%20MailChimp%20Activity.md">MailChimps</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.13.%20Model%20Activity.md">Models</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.14.%20MySQL%20Activity.md">MySQL</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/notification/">Notification</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/oracle-erp/">Oracle ERP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/output-document/">Output Document</a></td>
-<td align="center"><a class="is-external-link" href="ttps://wiki.aira.fr/docs/sap/">SAP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/sftp/">SFTP</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/smtp/">SMTP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.15%20Notification%20Activity.md">Notification</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.04%20Oracle%20ERP%20Activity.md">Oracle ERP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.16.%20Output%20Document.md">Output Document</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.17.%20SAP%20Activity.md">SAP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.18.%20SFTP%20Activity.md">SFTP</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.19.%20SMTP%20Activity.md">SMTP</a></td>
 </tr>
 <tr>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/trigger/">Trigger</a></td>
-<td align="center"><a class="is-external-link" href="https://wiki.aira.fr/docs/aira-bot/">AIRA Bots</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.20%20Trigger%20Activity.md">Trigger</a></td>
+<td align="center"><a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.03%20AIRA%20BOT%20Activity.md">AIRA Bots</a></td>
 <td align="center"></td>
 <td align="center"></td>
 <td align="center"></td>
