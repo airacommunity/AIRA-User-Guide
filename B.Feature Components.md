@@ -1,7 +1,6 @@
 <h1><span style="color: #411d66;">Overview                                                      <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
-<hr />
 
 AIRA, which stands for Artificial Intelligence Robotic Automation, is a state-of-the-art hyper-automation platform designed to redefine the way enterprises operate. By smoothly integrating cutting-edge technologies, including Natural Language Processing, Intelligent Document Processing, and Robotic Process Automation, AIRA offers a comprehensive solution for businesses seeking to optimise their processes.
 
