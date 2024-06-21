@@ -1,7 +1,6 @@
 <h1><span style="color: #411d66;">Overview                                                      <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
-<hr />
 
 The AIRA Form offers a user-friendly interface for manual data input in workflows, initiating case creation in the dedicated Case section. Cases allow structured data entry, with form elements as global variables usable across apps. After data entry, AIRA smoothly executes subsequent workflow steps, ensuring efficiency.
 <blockquote class="is-warning">Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.</blockquote>
