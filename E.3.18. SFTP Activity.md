@@ -20,7 +20,7 @@ In AIRA, SFTP plays a crucial role in securely uploading files to remote systems
 <h3 id="configuration" class="toc-header">Configuration:</h3>
 <ul>
  	<li>Connection: Choose a valid connection for importing files from the remote to the local system.</li>
- 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://wiki.aira.fr/docs/connections/">Connections</a>.</li>
+ 	<li>If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Remote Path: Enter a valid remote path for importing files. You can also use variables if the remote path is stored in any.</li>
  	<li>Local Path: Specify a valid local path for importing files. Variables can also be used if the local path is stored elsewhere.</li>
  	<li>Click on the submit button to save the configuration. To cancel and discard changes, use the cancel button next to the submit button.</li>
