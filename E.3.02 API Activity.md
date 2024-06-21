@@ -1,6 +1,5 @@
 <h1><span style="color: #411d66;">Overview                                                     <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e"></span></h1>
 
-<hr />
 
 <h2 id="api-call-overview" class="toc-header">API Call Overview</h2>
 The API Call app in AIRA allows users to interact with external APIs by making HTTP requests. It supports various HTTP methods such as GET, PUT, POST, and PATCH, enabling users to retrieve data, update resources, create new resources, or partially update existing resources.
