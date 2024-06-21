@@ -12,7 +12,7 @@ The Get Calendar Event app in AIRA's Google Calendar integration retrieves speci
  	<li>Select Get Calendar Event: Click on the Google Calendar app, which will display options including the Get Calendar Event app.</li>
  	<li>Drag and Drop into Workflow: Drag and drop the Get Calendar Event app into the AIRA workflow canvas and connect it to the desired location.</li>
  	<li>Open App Settings: Double-click on the app to open its settings.</li>
- 	<li>Select Connection: Choose the appropriate connection to authenticate with Google Calendar. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="http://wiki.aira.technology:8000/en/user-guide/connections">Connections</a>.</li>
+ 	<li>Select Connection: Choose the appropriate connection to authenticate with Google Calendar. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Choose Calendar: Select the calendar from which you want to retrieve events.</li>
  	<li>Select Event: Specify the event or events you want to retrieve.</li>
  	<li>Save Settings: Click on the submit button to save the app settings.</li>
@@ -34,7 +34,7 @@ The Search Calendar Event app within AIRA's Google Calendar integration enables 
  	<li>Select Search Calendar Event App: Within the Google Calendar app, locate and select the Search Calendar Event app.</li>
  	<li>Add to Workflow: Drag and drop the Search Calendar Event app into the AIRA workflow canvas and connect it to the relevant section of the workflow.</li>
  	<li>Open App Settings: Double-click on the app to open its settings.</li>
- 	<li>Choose Connection: Select the appropriate connection to authenticate with Google Calendar. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="http://wiki.aira.technology:8000/en/user-guide/connections">Connections</a>.</li>
+ 	<li>Choose Connection: Select the appropriate connection to authenticate with Google Calendar. If Connection is not available click on add button to create a new connection. To know more about connections visit AIRA <a class="is-external-link" href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connections</a>.</li>
  	<li>Select Calendar: Choose the calendar from which you want to search events.</li>
  	<li>Specify Date Range: Define the start and end dates for the event search. Optionally, you can use variables to dynamically input date values.</li>
  	<li>Save Settings: Click the submit button to save the app settings.</li>
