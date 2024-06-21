@@ -189,7 +189,7 @@ The "Department Section" provides a comprehensive view of all department and its
 </li>
 </ul>
 <h3 id="saml-configuration" class="toc-header">SAML Configuration</h3>
-SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit <a class="is-external-link" href="https://wiki.aira.fr/docs/azure-integrations/">Azure Enterprice Application Configuration</a>.
+SAML (Security Assertion Markup Language) configuration in AIRA enables smooth and secure integration with Azure. We have to provide all the information for the SAML configuration if you want to know more about how to configure SAML with aira visit <a class="is-external-link" href="https://github.com/airacommunity/AIRA-Integrations/blob/main/1.%20Azure%20Integrations.md">Azure Enterprice Application Configuration</a>.
 <h3 id="document-management" class="toc-header">Document Management</h3>
 Document management in AIRA provides a centralised repository for storing and organising files related to workflows and system assets.
 
@@ -269,13 +269,13 @@ AIRA Integration Service enables seamless connectivity with external platforms, 
 
 Google Integration with AIRA enables users to integrate Google's suite of productivity tools and services seamlessly into their automation workflows. By connecting with Google, users can access services such as Google Drive, Google Sheets, Gmail, Google Calendar, and more directly within the AIRA platform. This integration streamlines collaboration, data management, communication, and task automation, allowing users to leverage Google's powerful tools to enhance productivity and efficiency.
 
-To configure the integration with the platform, detailed <a class="is-external-link" href="https://wiki.aira.fr/docs/google-integrations/">documentation</a> is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
+To configure the integration with the platform, detailed <a class="is-external-link" href="https://github.com/airacommunity/AIRA-Integrations/blob/main/2.%20Google%20Integration.md">documentation</a> is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
 
 <strong>Mailchimp Integration Configuration</strong>
 
 Mailchimp Integration with AIRA facilitates seamless integration of Mailchimp's email marketing platform into automation workflows. By connecting with Mailchimp, users can automate email campaigns, manage subscriber lists, track engagement metrics, and more directly within the AIRA platform. This integration simplifies email marketing processes, enhances campaign management, and improves audience targeting, enabling users to leverage Mailchimp's robust features to drive effective marketing campaigns and achieve their business goals.
 
-To configure the integration with the platform, detailed <a class="is-external-link" href="https://wiki.aira.fr/docs/mailchimp-integrations/">documentation</a> is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
+To configure the integration with the platform, detailed <a class="is-external-link" href="https://github.com/airacommunity/AIRA-Integrations/blob/main/3.%20MailChimp%20Integration.md">documentation</a> is available, providing step-by-step instructions on how to set up the integration effectively. This document outlines the necessary configurations, settings, and authentication processes required to establish a seamless connection between AIRA and the respective platform.
 <h3 id="system-configuration" class="toc-header">System Configuration</h3>
 The System Configuration section in AIRA provides a comprehensive view of both system and personal information. This section is essential for understanding the underlying infrastructure of the AIRA platform and customising personal details. Here's a detailed guide on how to navigate and utilise the System Configuration feature:
 System Information
