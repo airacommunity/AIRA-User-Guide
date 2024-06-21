@@ -1,278 +1,178 @@
-![blue 2](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/d8d04150-3b32-4b48-8485-07dc3c67fbaa)
-# Introduction to AIRA User Guide <img align="right" width="140" height="40" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/ARIA%20Logo%202.png?raw=true">
+<h1><span style="color: #411d66;">Overview                                                       <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
+</span></h1>
 
-## Overview
 
 Welcome to the AIRA User Guide, your go-to source for understanding and making the most of the AIRA hyper-automation platform. Whether you're just starting with AIRA or already know your way around, this guide is here to help. Let's explore how the guide is organised, how to find what you need, and what exciting insights you can discover.
-
-<br>
-
-> <img align="left" width="50" height="50" src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/Icon-Warning.png?raw=true"> Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.
-
-<br>
-
-## Guide Structure and Navigation
-
+<blockquote class="is-warning">Kindly note that the content provided is subject to regular updates. It may not reflect the final version. Your understanding is appreciated.</blockquote>
+<h2 id="guide-structure-and-navigation" class="toc-header">Guide Structure and Navigation</h2>
 To make things easy for you, the guide is set up in a way that lets you find what you're looking for without any confusion. You can move around sections, and follow instructions with clarity, so you get the information you need quickly.
-
-<br>
-
-<table ">
-  <thead>
-    <tr>
-      <th colspan="2">Guide Structure</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1.</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Introduction to AIRA User Guide</a></td>
-    </tr>
-    <tr>
-      <td align="center">2.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Components%20and%20System%20Requirements.md">Components and System Requirements</a></td>
-    </tr>
-    <tr>
-      <td align="center">3.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Installation%20Introduction.md">Installation Introduction</a></td>
-    </tr>
-    <tr>
-      <td align="center">3.1</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.1.%20Server%20Configuration%20Setup.md">Server Configuration</a></td>
-    </tr>
-    <tr>
-      <td align="center">3.2</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.2.%20AIRA%20Installation%20Guide.md">AIRA Installation Guide</a></td>
-    </tr>
-    <tr>
-      <td align="center">4.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Getting%20Started%20with%20AIRA.md">Getting Started with AIRA</a></td>
-    </tr>
-    <tr>
-      <td align="center">5.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Dashboard%20Interface.md">Dashboard Interface</a></td>
-    </tr>
-    <tr>
-      <td align="center">6.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Workflow%20Creation%20Guide.md">Workflow Creation Guide</a></td>
-    </tr>
-      <tr>
-      <td align="center">6.1.</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.1.%20Tools%20Explaination.md">Tools Explaination</a></td>
-    </tr>
-    <tr>
-      <td align="center">6.2</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.2.%20Variables%20Explaination.md">Variables Explaination</a></td>
-    </tr>
-    <tr>
-      <td align="center">6.3</td>
-      <td align="left" width=1000><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.3%20Activity%20Application.md">Activity Applications</a></td>
-    </tr>
-    <tr>
-    <tr>
-      <td align="center">7.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Cases%20AIRA%20Human%20Activity.md">Cases AIRA Human Activity</a></td>
-    </tr>
-    <tr>
-      <td align="center">8.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Connections.md">Connections</a></td>
-    </tr>
-    <tr>
-      <td align="center">9.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/I.%20Digitla%20Agents.md">Digital Agents</a></td>
-    </tr>
-    <tr>
-      <td align="center">10.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/J.%20Intelligent%20Document%20Processing.md">Intelligent Document Processing</a></td>
-    </tr>
-    <tr>
-      <td align="center">11.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/K.%20Models.md">AIRA Models</a></td>
-    </tr>
-    <tr>
-      <td align="center">12.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/L.%20Orchestrator.md">Orchestrator</a></td>
-    </tr>
-    <tr>
-      <td align="center">13.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/M.%20Reports.md">Report</a></td>
-    </tr>
-    <tr>
-      <td align="center">14.</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.%20Administration.md">Administration</a></td>
-    </tr>
-    <tr>
-      <td align="center">14.1</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.1%20Azure%20Enterprise%20App%20Configuration.md">Azure Configuration</a></td>
-    </tr>
-    <tr>
-      <td align="center">14.2</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.2%20Google%20Configuration.md">Google Configuration</a></td>
-    </tr>
-    <tr>
-      <td align="center">14.3</td>
-      <td align="left"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/N.3%20MailChimp%20Integration.md">MailChimp Configuration</a></td>
-    </tr>
-  </tbody>
+<table class="my-table" style="width: 100%;">
+<thead>
+<tr>
+<th colspan="4">Guide Structure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href=" https://wiki.aira.fr/docs/introductions/">Overview</a></td>
+<td><a href="https://wiki.aira.fr/docs/components-system-requirments/">Feature Components</a></td>
+<td><a href="https://wiki.aira.fr/docs/getting-started/">Getting Started</a></td>
+<td><a href="https://wiki.aira.fr/docs/dashboard-interface/">Dashboard Interface</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.aira.fr/docs/workflow-creation/">Workflow</a></td>
+<td><a href="https://wiki.aira.fr/docs/tools/">Tools</a></td>
+<td><a href="https://wiki.aira.fr/docs/variable/">Variable</a></td>
+<td><a href="https://wiki.aira.fr/docs/application-activity/">Applications</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.aira.fr/docs/cases-aira-human-activity/">Cases</a></td>
+<td><a href="https://wiki.aira.fr/docs/connections/">Connections</a></td>
+<td><a href="https://wiki.aira.fr/docs/digital-agents/">Digital Agents</a></td>
+<td><a href="https://wiki.aira.fr/docs/idp/">IDP</a></td>
+</tr>
+<tr>
+<td><a href=" https://wiki.aira.fr/docs/models/">Models</a></td>
+<td><a href="https://wiki.aira.fr/docs/orchestrator/">Orchestrator</a></td>
+<td><a href="https://wiki.aira.fr/docs/reports/">Report</a></td>
+<td><a href="https://wiki.aira.fr/docs/administration/">Administation</a></td>
+</tr>
+</tbody>
 </table>
-
-<br>
-
-## What This Guide Holds
-
+<h2 id="what-this-guide-holds" class="toc-header">What This Guide Holds</h2>
 In this user guide, you'll get a deep dive into all of AIRA's features, from the basics to the advanced stuff. Each part is designed to be clear, with insights and examples to help you. Whether you're setting up Digital Agents, exploring Predictive Analytics, or trying out Process Mining, this guide has got you covered.
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Expactations</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr>
-      <td>Understanding of AIRA</td>
-      <td>Gain insights into the core functionalities and capabilities of the AIRA platform.</td>
-    </tr>
-    <tr>
-      <td>System Requirements</td>
-      <td>Learn about the hardware and software prerequisites needed to run AIRA effectively.</td>
-    </tr>
-    <tr>
-      <td>Introduction to AIRA Installation</td>
-      <td>Step-by-step guidance on installing and setting up AIRA for use.</td>
-    </tr>
-    <tr>
-      <td>AIRA Dashboard Interface</td>
-      <td>Familiarize yourself with the user interface of the AIRA dashboard and its key features.</td>
-    </tr>
-    <tr>
-      <td>Workflow Creation Guide</td>
-      <td>Learn how to create and customize workflows within the AIRA platform to automate tasks.</td>
-    </tr>
-    <tr>
-      <td>AIRA Connection with Multiple Platforms</td>
-      <td>Understand how to integrate AIRA with various platforms for seamless data exchange and interaction.</td>
-    </tr>
-    <tr>
-      <td>AIRA Digital Agent</td>
-      <td>Explore the functionality and capabilities of the AIRA digital agent for task automation and management.</td>
-    </tr>
-    <tr>
-      <td>AIRA Intelligent Document Processing</td>
-      <td>Discover how AIRA processes and analyzes documents intelligently to extract valuable insights.</td>
-    </tr>
-    <tr>
-      <td>AIRA Models for Advanced Analytics and Automation</td>
-      <td>Learn about advanced analytics models and automation techniques available in AIRA.</td>
-    </tr>
-    <tr>
-      <td>AIRA Orchestrator</td>
-      <td>Gain insights into the AIRA orchestrator for managing and coordinating automated workflows.</td>
-    </tr>
-    <tr>
-      <td>AIRA Reports</td>
-      <td>Understand how to generate and interpret reports within AIRA to track performance and analyze data.</td>
-    </tr>
-    <tr>
-      <td>AIRA Administration Section</td>
-      <td>Access detailed instructions and tools for administering and managing AIRA settings, users, and permissions.</td>
-    </tr>
-  </tbody>
+<div>
+<table class="my-table">
+<thead>
+<tr>
+<th colspan="2">Expactations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong> Understanding of AIRA</strong></td>
+<td style="text-align: left;">Gain insights into the core functionalities and capabilities of the AIRA platform.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>System Requirements</strong></td>
+<td style="text-align: left;">Learn about the hardware and software prerequisites needed to run AIRA effectively.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Installation</strong></td>
+<td style="text-align: left;">Step-by-step guidance on installing and setting up AIRA for use.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Dashboard Interface</strong></td>
+<td style="text-align: left;">Familiarize yourself with the user interface of the AIRA dashboard and its key features.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Workflow Creation</strong></td>
+<td style="text-align: left;">Learn how to create and customize workflows within the AIRA platform to automate tasks.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Connection with Multiple Platforms</strong></td>
+<td style="text-align: left;">Understand how to integrate AIRA with various platforms for seamless data exchange and interaction.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Digital Agent</strong></td>
+<td style="text-align: left;">Explore the functionality and capabilities of the AIRA digital agent for task automation and management.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Intelligent Document Processing</strong></td>
+<td style="text-align: left;">Discover how AIRA processes and analyzes documents intelligently to extract valuable insights.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Models for Advanced Analytics</strong></td>
+<td style="text-align: left;">Learn about advanced analytics models and automation techniques available in AIRA.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Orchestrator</strong></td>
+<td style="text-align: left;">Gain insights into the AIRA orchestrator for managing and coordinating automated workflows.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Reports</strong></td>
+<td style="text-align: left;">Understand how to generate and interpret reports within AIRA to track performance and analyze data.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Administration</strong></td>
+<td style="text-align: left;">Access detailed instructions and tools for administering and managing AIRA settings, users, and permissions.</td>
+</tr>
+</tbody>
 </table>
-
-## Guide Objective
-
-**The primary purposes of the User Guide are:**
-
-| Purpose                   | Description                                                                                       |
-|---------------------------|---------------------------------------------------------------------------------------------------|
-| Onboarding Assistance     | Provides step-by-step instructions for new users to navigate and utilize the AIRA platform.       |
-| Functional Understanding | Helps users comprehend the features and capabilities of AIRA, enabling them to use its full potential. |
-| Best Practices and Tips  | Provides recommendations for optimizing user experience and achieving optimal results with AIRA. |
-| Continuous Learning       | Serves as a resource for ongoing skill development and exploration of advanced features.          |
-
-## Audience Targeting
-
+</div>
+<h2 id="guide-objective" class="toc-header">Guide Objective</h2>
+<strong>The primary purposes of the User Guide are:</strong>
+<div class="table-container">
+<table class="my-table">
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Onboarding Assistance</strong></td>
+<td style="text-align: left;">Provides step-by-step instructions for new users to navigate and utilize the AIRA platform.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Functional Understanding</strong></td>
+<td style="text-align: left;">Helps users comprehend the features and capabilities of AIRA, enabling them to use its full potential.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Best Practices and Tips</strong></td>
+<td style="text-align: left;">Provides recommendations for optimizing user experience and achieving optimal results with AIRA.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Continuous Learning</strong></td>
+<td style="text-align: left;">Serves as a resource for ongoing skill development and exploration of advanced features.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="audience-targeting" class="toc-header">Audience Targeting</h2>
 The following describes the primary target audience along with specific objectives according to their unique needs.
+<h3><strong>New Users</strong></h3>
+<strong>Description :</strong> Individuals new to the AIRA platform, start on their journey with the system.
 
-**New Users**
+<strong>Objective :</strong> Provide a comprehensive introduction and guide new users through onboarding, including navigating the interface, understanding core features, and basic tasks.
+<h3><strong>Experienced Users</strong></h3>
+<strong>Description :</strong> Users with prior experience using AIRA but seeking deeper insights into its functionalities.
 
-**Description :** Individuals new to the AIRA platform, start on their journey with the system.<br>
-**Objective :** Provide a comprehensive introduction and guide new users through onboarding, including navigating the interface, understanding core features, and basic tasks.
+<strong>Objective :</strong> Offer detailed information on advanced features, best practices, and tips for optimising workflows to enhance existing skills and discover new functionalities.
+<h3><strong>Administrators</strong></h3>
+<strong>Description :</strong> Individuals tasked with administering and managing AIRA within an organisation.
 
-**Experienced Users**
+<strong>Objective :</strong> Provide comprehensive guidance on setting up, configuring, and maintaining AIRA, including managing user access, security, and integration with existing systems.
+<h3><strong>Developers</strong></h3>
+<strong>Description :</strong> Professionals involved in customising and extending AIRA functionalities through scripting and integration.
 
-**Description :** Users with prior experience using AIRA but seeking deeper insights into its functionalities.<br>
-**Objective :** Offer detailed information on advanced features, best practices, and tips for optimising workflows to enhance existing skills and discover new functionalities.
+<strong>Objective :</strong> Offer technical details, scripting guidelines, and integration protocols for enhancing AIRA to meet specific organisational needs, encouraging customization and innovation.
+<h3><strong>Business Analysts</strong></h3>
+<strong>Description :</strong> Analysts responsible for understanding and optimising business processes using AIRA.
 
-**Administrators**
+<strong>Objective :</strong> Provide insights into AIRA's analytical capabilities, including predictive analysis and process mining, to derive actionable intelligence and optimise workflows.
+<h3><strong>System Administrators</strong></h3>
+<strong>Description :</strong> IT professionals responsible for the overall health, security, and maintenance of the AIRA platform.
 
-**Description :** Individuals tasked with administering and managing AIRA within an organisation.<br>
-**Objective :** Provide comprehensive guidance on setting up, configuring, and maintaining AIRA, including managing user access, security, and integration with existing systems.
+<strong>Objective :</strong> Offer detailed instructions on platform administration, security protocols, and troubleshooting procedures to effectively manage and support the AIRA infrastructure.
+<h3><strong>End Users</strong></h3>
+<strong>Description :</strong> Individuals across departments utilising AIRA to streamline day-to-day task
 
-**Developers**
+<strong>Objective :</strong> Provide task-specific guidance within the guide, ensuring efficient performance of roles using AIRA and understanding relevant features for daily activities.
+<h3><strong>Trainers and Educators</strong></h3>
+<strong>Description :</strong> Individuals responsible for training others within an organisation on using AIRA effectively.
 
-**Description :** Professionals involved in customising and extending AIRA functionalities through scripting and integration.<br>
-**Objective :** Offer technical details, scripting guidelines, and integration protocols for enhancing AIRA to meet specific organisational needs, encouraging customization and innovation.
+<strong>Objective :</strong> Facilitate training by serving as a comprehensive resource with instructional content, use cases, and examples to aid in knowledge transfer and skill development.
+<h3><strong>Decision Makers</strong></h3>
+<strong>Description :</strong> Executives and decision-makers involved in strategic planning and implementation of AIRA within an organisation.
 
-**Business Analysts**
+<strong>Objective :</strong> Gain an overview of strategic benefits, ROI, and impact of AIRA on organisational processes and outcomes, aiding informed decision-making on adoption and utilisation.
+<h3><strong>Continuous Learners</strong></h3>
+<strong>Description :</strong> Users interested in staying updated with the latest features and improvements in AIRA.
 
-**Description :** Analysts responsible for understanding and optimising business processes using AIRA.<br>
-**Objective :** Provide insights into AIRA's analytical capabilities, including predictive analysis and process mining, to derive actionable intelligence and optimise workflows.
+<strong>Objective :</strong> Serve as a reference for continuous learning, offering insights into new features, updates, and best practices to ensure users stay abreast of evolving capabilities.
 
-**System Administrators**
+---
 
-**Description :** IT professionals responsible for the overall health, security, and maintenance of the AIRA platform.<br>
-**Objective :** Offer detailed instructions on platform administration, security protocols, and troubleshooting procedures to effectively manage and support the AIRA infrastructure.
-
-**End Users**
-
-**Description :** Individuals across departments utilising AIRA to streamline day-to-day task<br>
-**Objective :** Provide task-specific guidance within the guide, ensuring efficient performance of roles using AIRA and understanding relevant features for daily activities.
-
-**Trainers and Educators**
-
-**Description :** Individuals responsible for training others within an organisation on using AIRA effectively.<br>
-**Objective :** Facilitate training by serving as a comprehensive resource with instructional content, use cases, and examples to aid in knowledge transfer and skill development.
-
-**Decision Makers**
-
-**Description :** Executives and decision-makers involved in strategic planning and implementation of AIRA within an organisation.<br>
-**Objective :** Gain an overview of strategic benefits, ROI, and impact of AIRA on organisational processes and outcomes, aiding informed decision-making on adoption and utilisation.
-
-**Continuous Learners**
-
-**Description :** Users interested in staying updated with the latest features and improvements in AIRA.<br>
-**Objective :** Serve as a reference for continuous learning, offering insights into new features, updates, and best practices to ensure users stay abreast of evolving capabilities.
-
-----
-
-> To proceed with your exploration, just click the 'Next' button to seamlessly move on to the next section.
-
-----
-
-
-<table align="right" border="0">
-    <tr>
-      <td align="center"><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Components%20and%20System%20Requirements.md"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-next.png" alt="Image 5" width="40" height="40"></a></td>
-    </tr>
-</table>
-
-<br>
-<br>
-<br>
-
-<table border="0" align="center">
-  <tr>
-    <td align="center"><a href="https://aira.fr/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-website.png?raw=true" alt="Image 5" width="30" height="30"></a></td>
-    <td><a href="https://www.linkedin.com/company/aira-rpa/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20linkedin.png?raw=true" alt="Image 1" width="30" height="30"></a></td>
-    <td><a href="https://www.instagram.com/connect_aira/"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon-instagram.png?raw=true" alt="Image 2" width="30" height="30"></a></td>
-    <td><a href="https://www.youtube.com/channel/UCHHCcwQrx-_19sAhu-2R4ww"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20youtube.png?raw=true" alt="Image 3" width="30" height="30"></a></td>
-    <td><a href="https://twitter.com/Aira_RPA"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20twitter.png?raw=true" alt="Image 4" width="30" height="30"></a></td>
-    <td><a href="mailto:connect@aira.fr"><img src="https://github.com/airacommunity/AIRA-User-Guide-Images/blob/main/icon%20-%20gmail.png?raw=true" alt="Image 6" width="30" height="30"></a></td>
-  </tr>
-</table>
-
-
-![Footer](https://github.com/airacommunity/AIRA-User-Guide/assets/153823636/6bb25f04-ad9c-476c-b653-c3c1dac1a868)
-
+![Footer](https://github.com/airacommunity/AIRA-Installation/assets/153823636/f78c5168-fae6-4a12-a01d-8e98fe7d7ae2)
