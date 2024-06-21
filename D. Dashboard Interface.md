@@ -23,32 +23,32 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 <tr>
 <td>Cases</td>
 <td>Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required.</td>
-<td><a href="https://wiki.aira.fr/docs/cases-aira-human-activity/">Cases section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Cases%20AIRA%20Human%20Activity.md">Cases section</a></td>
 </tr>
 <tr>
 <td>Digital Agents</td>
 <td>Access and configure intelligent digital agents bots to automate tasks and processes.</td>
-<td><a href="https://wiki.aira.fr/docs/digital-agents/">Digital Agents section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Digitla%20Agents.md">Digital Agents section</a></td>
 </tr>
 <tr>
 <td>Connections</td>
 <td>Establish and manage connections smoothly for a connected automation ecosystem.</td>
-<td><a href="https://wiki.aira.fr/docs/connections/">Connection section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/G.%20Connections.md">Connection section</a></td>
 </tr>
 <tr>
 <td>Jobs</td>
 <td>Create and execute automation workflows effortlessly.</td>
-<td><a href="https://wiki.aira.fr/docs/workflow-creation/">Jobs section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.%20Workflow%20Creation.md">Jobs section</a></td>
 </tr>
 <tr>
 <td>Intelligent Document Processing</td>
 <td>Using powerful document processing capabilities for efficient data extraction.</td>
-<td><a href="https://wiki.aira.fr/docs/idp/">IDP section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.11%20IDP%20Activity.md">IDP section</a></td>
 </tr>
 <tr>
 <td>Models</td>
 <td>Explore and manage automation models to enhance your hyper-automation workflows.</td>
-<td><a href="https://wiki.aira.fr/docs/models/">Models section</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.13.%20Model%20Activity.md">Models section</a></td>
 </tr>
 </tbody>
 </table>
