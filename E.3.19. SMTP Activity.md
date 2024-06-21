@@ -1,7 +1,6 @@
 <h1><span style="color: #411d66;">Overview                                                    <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
-<hr />
 
 SMTP, or Simple Mail Transfer Protocol, is a standard protocol used for sending email messages between servers. It allows email systems to communicate and transfer messages over the internet.
 
