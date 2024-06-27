@@ -97,7 +97,7 @@ def use_model(inp_features, model_path):
 
 **Explanation**
 
--   The predict function takes two arguments: inp_features, which represents the input features for prediction, and model_path, which specifies the path to the trained model file.
+-   The use_model function takes two arguments: inp_features, which represents the input features for prediction, and model_path, which specifies the path to the trained model file.
 -   It loads the trained machine learning model from the specified pickle file using the pickle.load() function.
 -   Then, it performs prediction on the input features using the loaded model and stores the result in the prediction variable.
 -   The predicted value is rounded to two decimal places using the round() function and stored in the output variable.
@@ -140,7 +140,7 @@ def main():
 -   The input feature JSON is decoded from base64 encoding and parsed into a Python dictionary using the base64 and json modules.
 -   The input features are extracted from the dictionary in the required order specified by feature_ordered_list.
 -   The path to the model file is constructed by appending 'model.pkl' to the specified model directory path.
--   Finally, the predict function is called with the input features and model path to make predictions.
+-   Finally, the use_model function is called with the input features and model path to make predictions.
 
 #### Step 4 : Condition for Main Function Call
 
