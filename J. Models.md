@@ -77,7 +77,7 @@ import json
 In the main.py file, create a function named predict that takes input features and the path to the model as arguments.
 
 ```js
-def predict(inp_features, model_path):
+def use_model(inp_features, model_path):
 
     # Load the trained model from the pickle file
     model = pickle.load(open(model_path, 'rb'))
@@ -129,7 +129,7 @@ def main():
 
     # Load the model and make predictions
     model_path = args['mpath'] + 'model.pkl'
-    predict([input_list], model_path)
+    use_mode([input_list], model_path)
 ```
 
 **Explanation**
