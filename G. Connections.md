@@ -20,7 +20,7 @@ AIRA Connection is your gateway to seamless connectivity across multiple platfor
 <th>SFTP</th>
 <th>E-Mail</th>
 <th>Oracle Fusion Cloud ERP</th>
-<th></th>
+<th>Open AI</th>
 </tr>
 </tbody>
 </table>
