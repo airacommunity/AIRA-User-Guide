@@ -23,6 +23,7 @@ For a thorough understanding of Digital Agents, we recommend first grasping the 
 <ul>
  	<li>Directly below the search bar, a table displays essential information about your Digital Agents.</li>
  	<li>The table includes columns such as Name, Digital Agent Name, Creation Date, Status, and Action.</li>
+  <li>With the help of action button admin can link or unlink the user repected to digital agents.</li>
 </ul>
 <h2 id="utilising-digital-agents-in-your-workflow" class="toc-header">Utilising Digital Agents in Your Workflow:</h2>
 <ul>
