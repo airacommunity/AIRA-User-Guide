@@ -200,6 +200,24 @@ AIRA Connection is your gateway to seamless connectivity across multiple platfor
 </li>
  	<li>Once you have provided all the necessary connection details, Click on "Submit" to initiate the connection process and save your settings.</li>
 </ul>
+
+<h3 id="establish-salesforce" class="toc-header">Establish Open AI</h3>
+<ul>
+ 	<li>Choose the "Open AI" option: Select "Open AI" from the list of available connections.</li>
+ 	<li>Obtain the necessary credentials: Gather the required details from your Open AI account, which include:
+<ul>
+ 	<li>Connection ID</li>
+ 	<li>API Key</li>
+  <li>Organization ID</li></li>
+  <li>Project ID</li>
+</ul>
+</li>
+ 	<li>Fill in the fields with the connection name, API key, organization ID, and project ID.</li>
+  <li>Click on the "Submit" button to establish and save the Open AI connection.</li>
+
+</ul>
+
+
 &nbsp;
 
 -----
