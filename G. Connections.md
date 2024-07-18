@@ -1,4 +1,4 @@
-<h1><span style="color: #411d66;">Overview                                                      <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
+<h1><span style="color: #411d66;">Overview                                                      <img align="right" width="150" height="40" src="https://github.com/airacommunity/AIRA-Installation/assets/153823636/2aee8e84-f308-4494-a715-afd9421b606e">
 </span></h1>
 
 
@@ -70,8 +70,11 @@ AIRA Connection is your gateway to seamless connectivity across multiple platfor
 <h3 id="establish-google-connections" class="toc-header">Establish Google Connections</h3>
 <ol>
  	<li>Choose the "Google Connection" option.</li>
- 	<li>Select the desired functionality:<strong>a. Firebase Cloud Messaging API v1</strong></li>
+ 	<li>Select the desired functionality:<strong>
 </ol>
+
+<strong>a. Firebase Cloud Messaging API v1</strong>
+
 <ul>
  	<li>Select the necessary permissions:
 <ul>
