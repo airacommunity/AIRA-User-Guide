@@ -21,11 +21,6 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 </thead>
 <tbody>
 <tr>
-<td>Cases</td>
-<td>Cases in AIRA are integral components of workflows, representing stages where human interaction or decision-making is required.</td>
-<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/F.%20Cases%20AIRA%20Human%20Activity.md">Cases section</a></td>
-</tr>
-<tr>
 <td>Digital Agents</td>
 <td>Access and configure intelligent digital agents bots to automate tasks and processes.</td>
 <td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/H.%20Digitla%20Agents.md">Digital Agents section</a></td>
@@ -49,6 +44,11 @@ In the comprehensive AIRA Dashboard, users encounter a wealth of information org
 <td>Models</td>
 <td>Explore and manage automation models to enhance your hyper-automation workflows.</td>
 <td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/E.3.13.%20Model%20Activity.md">Models section</a></td>
+</tr>
+<tr>
+<td>Reports</td>
+<td>Reports provide actionable insights and analytics to optimize business processes and decision-making.</td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/L.%20Reports.md">Reports section</a></td>
 </tr>
 </tbody>
 </table>
