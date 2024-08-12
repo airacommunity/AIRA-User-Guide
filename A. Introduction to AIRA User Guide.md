@@ -15,7 +15,7 @@ To make things easy for you, the guide is set up in a way that lets you find wha
 <tbody>
 <tr>
 <td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/A.%20Introduction%20to%20AIRA%20User%20Guide.md">Overview</a></td>
-<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.Feature%20Components.md">Feature Components</a></td>
+<td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/B.%20Feature%20Components.md">Feature Components</a></td>
 <td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/C.%20Getting%20Started.md">Getting Started</a></td>
 <td><a href="https://github.com/airacommunity/AIRA-User-Guide/blob/main/D.%20Dashboard%20Interface.md">Dashboard Interface</a></td>
 </tr>
